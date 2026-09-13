@@ -313,6 +313,7 @@ ARTICLE_HTML_TEMPLATE = """<!DOCTYPE html>
                 <strong>{page_title}</strong>
             </div>
             <div style="display: flex; gap: 16px; align-items: center;">
+                <button type="button" class="tool-btn global-search-trigger" id="globalSearchBtn" title="Search all 1,000 articles (Cmd+K or /)">🔍 Search <kbd class="kbd-shortcut">⌘K</kbd></button>
                 <a href="../review.html" class="tool-btn" style="color: #fbbf24;">📋 Review Queue</a>
                 <a href="../resources.html" class="tool-btn" style="color: var(--apf-cyan);">📚 Media Hub (2,700)</a>
                 <button type="button" class="theme-toggle-btn tool-btn" title="Toggle Dark/Light Mode">🌓 Theme</button>
@@ -514,6 +515,7 @@ PORTAL_HTML_TEMPLATE = """<!DOCTYPE html>
                 <strong>Association of Professional Futurists</strong> &bull; Official Knowledge Canon
             </div>
             <div style="display: flex; gap: 16px; align-items: center;">
+                <button type="button" class="tool-btn global-search-trigger" id="globalSearchBtn" title="Search all 1,000 articles (Cmd+K or /)">🔍 Search <kbd class="kbd-shortcut">⌘K</kbd></button>
                 <a href="review.html" class="tool-btn" style="color: #fbbf24;">📋 Review Queue</a>
                 <a href="resources.html" class="tool-btn" style="color: var(--apf-cyan);">📚 Media Hub (2,700)</a>
                 <button type="button" class="theme-toggle-btn tool-btn" title="Toggle Dark/Light Mode">🌓 Theme</button>
@@ -539,16 +541,32 @@ PORTAL_HTML_TEMPLATE = """<!DOCTYPE html>
                         <span class="hero-stat-pill">🎓 45+ University Degrees</span>
                         <a href="review.html" class="hero-stat-pill" style="color: #fbbf24; text-decoration: none; border-color: #fbbf24;">📝 Editorial Review Queue (Drafts) &rarr;</a>
                     </div>
-                    <div class="hero-search">
-                        <input type="text" id="heroPortalSearch" placeholder="Search the 1,000-article foresight canon (e.g. CLA, Delphi, Shell Scenarios, Polak)...">
+                    <div class="hero-search hero-search-wrapper">
+                        <input type="text" id="heroPortalSearch" placeholder="Search the 1,000-article foresight canon (e.g. CLA, Delphi, Shell, Polak)... (/ or ⌘K)" autocomplete="off">
+                        <div id="heroSearchDropdown" class="hero-search-dropdown"></div>
                     </div>
                 </div>
             </section>
 
-            <section>
-                <h2 style="font-size: 24px; font-weight: 800; margin-bottom: 16px; color: var(--text-main);">
-                    Navigate by APF 6 Core Competencies
-                </h2>
+            <!-- Dynamic In-Page Search Results -->
+            <section id="heroSearchResultsSection" class="portal-search-results-section">
+                <div class="search-results-header">
+                    <div>
+                        <h2 id="searchQueryTitle" style="font-size: 24px; font-weight: 800; color: var(--text-main); margin: 0 0 6px 0;">Search Results</h2>
+                        <div id="searchMatchCount" style="font-size: 14px; color: var(--text-muted);">Found 0 entries</div>
+                    </div>
+                    <div style="display: flex; gap: 10px; align-items: center;">
+                        <button type="button" id="clearPortalSearchBtn" class="tool-btn" style="color: var(--apf-rose); font-weight: 600;">✕ Clear Search</button>
+                    </div>
+                </div>
+                <div id="searchResultsGrid" class="search-results-grid"></div>
+            </section>
+
+            <div id="portalDefaultContent">
+                <section>
+                    <h2 style="font-size: 24px; font-weight: 800; margin-bottom: 16px; color: var(--text-main);">
+                        Navigate by APF 6 Core Competencies
+                    </h2>
                 <p style="font-size: 15px; color: var(--text-muted); margin-bottom: 24px;">
                     The APF Competency Model defines the essential skillsets for professional futurists. Click any competency to filter the library or explore featured entries:
                 </p>
@@ -648,6 +666,7 @@ PORTAL_HTML_TEMPLATE = """<!DOCTYPE html>
                     {pillars_grid_html}
                 </div>
             </section>
+            </div> <!-- #portalDefaultContent -->
 
             <footer class="article-footer">
                 <div>

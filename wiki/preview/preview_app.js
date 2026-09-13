@@ -239,22 +239,17 @@
       });
     });
 
-    // Keyboard shortcuts: '/' to search, 'Esc' to clear
-    document.addEventListener('keydown', (e) => {
-      if (e.key === '/' && document.activeElement !== searchInput && (!isMediaHub || document.activeElement.id !== 'mediaSearch')) {
-        e.preventDefault();
-        const target = isMediaHub ? document.getElementById('mediaSearch') : searchInput;
-        if (target) {
-          target.focus();
-          target.select();
+    // Keyboard shortcut: 'Esc' to clear sidebar search
+    if (searchInput) {
+      searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+          searchInput.value = '';
+          currentFilterTerm = '';
+          applyFilter();
+          searchInput.blur();
         }
-      } else if (e.key === 'Escape' && document.activeElement === searchInput) {
-        searchInput.value = '';
-        currentFilterTerm = '';
-        applyFilter();
-        searchInput.blur();
-      }
-    });
+      });
+    }
   }
 
   // 4. Media Canon Hub Initialization
@@ -486,11 +481,549 @@
     updateView();
   }
 
-  // 5. Initialize
+  // 5. Search Engine & Helpers
+  function escapeHtml(str) {
+    if (!str) return '';
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  }
+
+  function highlightTerms(text, terms) {
+    if (!text) return '';
+    const safe = escapeHtml(text);
+    if (!terms || !terms.length) return safe;
+    const cleanTerms = Array.from(new Set(terms.map(t => t.trim()).filter(t => t.length > 0)))
+      .sort((a, b) => b.length - a.length);
+    if (!cleanTerms.length) return safe;
+    const pattern = cleanTerms.map(t => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
+    const regex = new RegExp(`(${pattern})`, 'gi');
+    return safe.replace(regex, '<mark class="highlight-match">$1</mark>');
+  }
+
+  function searchCatalog(catalog, query, compFilter) {
+    if (!catalog || !catalog.length) return [];
+    const q = (query || '').trim().toLowerCase();
+    if (!q) return [];
+
+    const terms = q.split(/\s+/).filter(Boolean);
+    const scored = [];
+
+    for (let i = 0; i < catalog.length; i++) {
+      const item = catalog[i];
+      if (compFilter && compFilter !== 'all' && item.c !== compFilter) {
+        continue;
+      }
+
+      const tLower = item.t.toLowerCase();
+      const aLower = (item.a || '').toLowerCase();
+      const pLower = (item.pName || '').toLowerCase();
+      const cLower = item.c.toLowerCase();
+      const combined = `${tLower} ${aLower} ${pLower} ${cLower}`;
+
+      let allMatch = true;
+      for (let j = 0; j < terms.length; j++) {
+        if (!combined.includes(terms[j])) {
+          allMatch = false;
+          break;
+        }
+      }
+      if (!allMatch) continue;
+
+      let score = 0;
+      if (tLower === q) score += 500;
+      else if (tLower.startsWith(q)) score += 250;
+      else if (tLower.includes(q)) score += 150;
+
+      for (let j = 0; j < terms.length; j++) {
+        const term = terms[j];
+        if (tLower.includes(term)) score += 40;
+        if (tLower.startsWith(term) || tLower.includes(' ' + term) || tLower.includes('(' + term)) score += 30;
+        if (aLower.includes(term)) score += 35;
+        if (pLower.includes(term)) score += 15;
+        if (cLower === term) score += 20;
+      }
+
+      score += Math.max(0, 40 - Math.floor(item.t.length / 3));
+      scored.push({ item, score });
+    }
+
+    scored.sort((a, b) => b.score - a.score);
+    return scored.map(s => s.item);
+  }
+
+  // 6. Global Command Palette / Search Modal (Cmd+K / /)
+  function initGlobalSearchModal() {
+    const catalog = window.APF_CATALOG || [];
+    const articleRel = window.location.pathname.includes('/articles/') ? '' : 'articles/';
+
+    let modal = document.getElementById('globalSearchModal');
+    if (!modal) {
+      modal = document.createElement('div');
+      modal.id = 'globalSearchModal';
+      modal.className = 'search-modal-backdrop';
+      modal.setAttribute('role', 'dialog');
+      modal.setAttribute('aria-modal', 'true');
+      modal.setAttribute('aria-label', 'Search 1,000 Foresight Articles');
+      modal.innerHTML = `
+        <div class="search-modal-card">
+          <div class="search-modal-input-wrap">
+            <span class="search-modal-icon">🔍</span>
+            <input type="text" id="globalModalSearchInput" class="search-modal-input" placeholder="Search 1,000 articles, theorists, methods (e.g. CLA, Delphi, Shell, Inayatullah)..." autocomplete="off" spellcheck="false">
+            <button type="button" class="search-modal-close" id="closeGlobalSearchBtn" aria-label="Close search modal">Esc</button>
+          </div>
+          <div class="search-modal-filter-bar" id="modalCompFilterBar">
+            <span class="filter-pill active" data-comp="all">All Competencies</span>
+            <span class="filter-pill" data-comp="Framing">Framing</span>
+            <span class="filter-pill" data-comp="Scanning">Scanning</span>
+            <span class="filter-pill" data-comp="Futuring">Futuring</span>
+            <span class="filter-pill" data-comp="Designing">Designing</span>
+            <span class="filter-pill" data-comp="Adapting">Adapting</span>
+            <span class="filter-pill" data-comp="Leading">Leading</span>
+          </div>
+          <div id="globalModalSearchResults" class="search-modal-results"></div>
+          <div class="search-modal-footer">
+            <div class="search-modal-hints">
+              <span><kbd>↑</kbd> <kbd>↓</kbd> Navigate</span>
+              <span><kbd>↵</kbd> Open</span>
+              <span><kbd>Esc</kbd> Close</span>
+            </div>
+            <div id="globalModalResultCount">1,000 articles cataloged</div>
+          </div>
+        </div>
+      `;
+      document.body.appendChild(modal);
+    }
+
+    const input = document.getElementById('globalModalSearchInput');
+    const closeBtn = document.getElementById('closeGlobalSearchBtn');
+    const resultsContainer = document.getElementById('globalModalSearchResults');
+    const countEl = document.getElementById('globalModalResultCount');
+    const filterPills = modal.querySelectorAll('.search-modal-filter-bar .filter-pill');
+
+    let activeComp = 'all';
+    let currentResults = [];
+    let selectedIndex = -1;
+
+    const CANON_SUGGESTIONS = [
+      { t: "Causal Layered Analysis (CLA)", s: "0271_Causal_Layered_Analysis_(CLA)", c: "Futuring", p: 6, pName: "Alternative Futures & Scenario Archetypes", a: "Sohail Inayatullah", w: 712 },
+      { t: "The Futures Cone (Plausible, Possible, Probable, Preferable)", s: "0003_The_Futures_Cone_(Plausible,_Possible,_Probable,_Preferable)", c: "Framing", p: 1, pName: "Foundations, Epistemology & Epistemic Pluralism", a: "Charles Taylor, Hancock & Bezold, Joseph Voros", w: 685 },
+      { t: "Delphi Method (Classical, Policy & Real-Time Delphi)", s: "0236_Delphi_Method_(Classical,_Policy_and_Real-Time_Delphi)", c: "Futuring", p: 5, pName: "Delphi, Expert Elicitation & Consensus Forecasting", a: "Norman Dalkey, Olaf Helmer, Theodore Gordon", w: 684 },
+      { t: "Horizon Scanning (Environmental Scanning Principles)", s: "0136_Horizon_Scanning_(Environmental_Scanning_Principles)", c: "Scanning", p: 4, pName: "Environmental & Horizon Scanning Systems", a: "Francis Aguilar, APF Scanning Competency", w: 581 },
+      { t: "Shell Scenario Planning Methodology", s: "0272_Shell_Scenario_Planning_Methodology", c: "Futuring", p: 6, pName: "Alternative Futures & Scenario Archetypes", a: "Pierre Wack, Kees van der Heijden, Peter Schwartz", w: 704 },
+      { t: "Three Horizons Framework", s: "0014_Temporal_Horizons_(H1,_H2,_H3_Epistemology)", c: "Framing", p: 1, pName: "Foundations, Epistemology & Epistemic Pluralism", a: "Bill Sharpe, Andrew Curry", w: 552 },
+      { t: "Backcasting (Normative Pathway Design)", s: "0326_Backcasting_(Normative_Pathway_Design)", c: "Futuring", p: 7, pName: "Visioning, Backcasting & Normative Futures", a: "John B. Robinson", w: 641 },
+      { t: "Anticipatory Governance", s: "0004_Anticipatory_Governance", c: "Framing", p: 1, pName: "Foundations, Epistemology & Epistemic Pluralism", a: "David Guston, Ray Quay, Leon Fuerth", w: 612 }
+    ];
+
+    function renderSuggestions() {
+      currentResults = CANON_SUGGESTIONS.filter(item => activeComp === 'all' || item.c === activeComp);
+      selectedIndex = -1;
+      let html = `
+        <div style="padding:8px 12px 6px; font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:1px; color:var(--text-muted);">
+          ✦ Featured Canon &amp; Popular Methods
+        </div>
+      `;
+      html += currentResults.map((item, idx) => `
+        <a href="${articleRel}${item.s}.html" class="search-modal-item" data-idx="${idx}">
+          <div class="search-item-title">
+            <span>${escapeHtml(item.t)}</span>
+            <span class="competency-tag tag-${item.c}" style="font-size:10.5px; padding:2px 7px;">✦ ${item.c}</span>
+          </div>
+          <div class="search-item-meta">
+            <span>🏛️ Pillar ${item.p}: ${escapeHtml(item.pName)}</span>
+            ${item.a ? `<span>&bull; 👤 <span class="search-item-author">${escapeHtml(item.a)}</span></span>` : ''}
+            <span>&bull; 📄 ${item.w} words</span>
+          </div>
+        </a>
+      `).join('');
+      resultsContainer.innerHTML = html;
+      countEl.textContent = '1,000 articles cataloged';
+      attachResultItemEvents();
+    }
+
+    function renderResults(results, query, terms) {
+      currentResults = results;
+      selectedIndex = -1;
+      if (!results.length) {
+        resultsContainer.innerHTML = `
+          <div style="text-align:center; padding:40px 20px; color:var(--text-muted);">
+            <div style="font-size:28px; margin-bottom:8px;">🔍</div>
+            <div style="font-size:15px; font-weight:600; color:var(--text-main); margin-bottom:4px;">No articles found</div>
+            <div style="font-size:13px; max-width:440px; margin:0 auto; line-height:1.5;">
+              No match for <em>"${escapeHtml(query)}"</em>${activeComp !== 'all' ? ` in ${activeComp}` : ''}. Try searching core theorists (Inayatullah, Bell, Dator, Polak) or methods (CLA, Delphi, Cone).
+            </div>
+          </div>
+        `;
+        countEl.textContent = '0 results';
+        return;
+      }
+
+      const display = results.slice(0, 30);
+      let html = `
+        <div style="padding:8px 12px 6px; font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:1px; color:var(--text-muted); display:flex; justify-content:space-between;">
+          <span>Search Results (${results.length.toLocaleString()})</span>
+          ${results.length > 30 ? `<span>Showing top 30</span>` : ''}
+        </div>
+      `;
+      html += display.map((item, idx) => `
+        <a href="${articleRel}${item.s}.html" class="search-modal-item" data-idx="${idx}">
+          <div class="search-item-title">
+            <span>${highlightTerms(item.t, terms)}</span>
+            <span class="competency-tag tag-${item.c}" style="font-size:10.5px; padding:2px 7px;">✦ ${item.c}</span>
+          </div>
+          <div class="search-item-meta">
+            <span>🏛️ Pillar ${item.p}: ${escapeHtml(item.pName)}</span>
+            ${item.a ? `<span>&bull; 👤 <span class="search-item-author">${highlightTerms(item.a, terms)}</span></span>` : ''}
+            <span>&bull; 📄 ${item.w} words</span>
+          </div>
+        </a>
+      `).join('');
+      resultsContainer.innerHTML = html;
+      countEl.textContent = `${results.length.toLocaleString()} ${results.length === 1 ? 'article' : 'articles'} found`;
+      attachResultItemEvents();
+    }
+
+    function attachResultItemEvents() {
+      const items = resultsContainer.querySelectorAll('.search-modal-item');
+      items.forEach(it => {
+        it.addEventListener('mouseenter', () => {
+          const idx = parseInt(it.getAttribute('data-idx'), 10);
+          if (!isNaN(idx)) {
+            selectedIndex = idx;
+            highlightSelectedItem();
+          }
+        });
+      });
+    }
+
+    function highlightSelectedItem() {
+      const items = resultsContainer.querySelectorAll('.search-modal-item');
+      items.forEach((it, idx) => {
+        if (idx === selectedIndex) {
+          it.classList.add('active');
+          it.scrollIntoView({ block: 'nearest' });
+        } else {
+          it.classList.remove('active');
+        }
+      });
+    }
+
+    function performModalSearch() {
+      const q = input.value.trim();
+      if (!q) {
+        renderSuggestions();
+      } else {
+        const terms = q.toLowerCase().split(/\s+/).filter(Boolean);
+        const matches = searchCatalog(catalog, q, activeComp);
+        renderResults(matches, q, terms);
+      }
+    }
+
+    function openModal() {
+      modal.classList.add('open');
+      input.focus();
+      input.select();
+      performModalSearch();
+    }
+
+    function closeModal() {
+      modal.classList.remove('open');
+      selectedIndex = -1;
+    }
+
+    input.addEventListener('input', performModalSearch);
+    closeBtn.addEventListener('click', closeModal);
+
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) {
+        closeModal();
+      }
+    });
+
+    filterPills.forEach(pill => {
+      pill.addEventListener('click', () => {
+        filterPills.forEach(p => p.classList.remove('active'));
+        pill.classList.add('active');
+        activeComp = pill.getAttribute('data-comp');
+        performModalSearch();
+      });
+    });
+
+    window.addEventListener('keydown', (e) => {
+      const isOpen = modal.classList.contains('open');
+
+      if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
+        e.preventDefault();
+        if (isOpen) {
+          closeModal();
+        } else {
+          openModal();
+        }
+        return;
+      }
+
+      const tag = (document.activeElement && document.activeElement.tagName) || '';
+      const isInputFocused = tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT' || (document.activeElement && document.activeElement.isContentEditable);
+      if (e.key === '/' && !isInputFocused && !isOpen) {
+        if (isMediaHub) {
+          const mSearch = document.getElementById('mediaSearch');
+          if (mSearch) {
+            e.preventDefault();
+            mSearch.focus();
+            mSearch.select();
+            return;
+          }
+        }
+        e.preventDefault();
+        openModal();
+        return;
+      }
+
+      if (!isOpen) return;
+
+      if (e.key === 'Escape') {
+        e.preventDefault();
+        closeModal();
+      } else if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        if (currentResults.length > 0) {
+          selectedIndex = (selectedIndex + 1) % currentResults.length;
+          highlightSelectedItem();
+        }
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        if (currentResults.length > 0) {
+          selectedIndex = (selectedIndex - 1 + currentResults.length) % currentResults.length;
+          highlightSelectedItem();
+        }
+      } else if (e.key === 'Enter') {
+        if (currentResults.length > 0) {
+          e.preventDefault();
+          const targetItem = selectedIndex >= 0 ? currentResults[selectedIndex] : currentResults[0];
+          if (targetItem) {
+            window.location.href = `${articleRel}${targetItem.s}.html`;
+          }
+        }
+      }
+    });
+
+    document.querySelectorAll('.global-search-trigger').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        openModal();
+      });
+    });
+  }
+
+  // 7. Hero Portal Search (Homepage In-Page & Autocomplete)
+  function initHeroPortalSearch() {
+    const heroInput = document.getElementById('heroPortalSearch');
+    if (!heroInput) return;
+
+    const catalog = window.APF_CATALOG || [];
+    const dropdown = document.getElementById('heroSearchDropdown');
+    const resultsSection = document.getElementById('heroSearchResultsSection');
+    const resultsGrid = document.getElementById('searchResultsGrid');
+    const defaultContent = document.getElementById('portalDefaultContent');
+    const clearBtn = document.getElementById('clearPortalSearchBtn');
+    const queryTitle = document.getElementById('searchQueryTitle');
+    const matchCount = document.getElementById('searchMatchCount');
+
+    let heroSelectedIndex = -1;
+    let heroMatches = [];
+
+    function clearSearch() {
+      heroInput.value = '';
+      if (dropdown) {
+        dropdown.classList.remove('open');
+        dropdown.innerHTML = '';
+      }
+      if (resultsSection) {
+        resultsSection.classList.remove('active');
+      }
+      if (defaultContent) {
+        defaultContent.style.display = 'block';
+      }
+      heroSelectedIndex = -1;
+      heroMatches = [];
+    }
+
+    function renderDropdown(matches, q, terms) {
+      if (!dropdown) return;
+      if (!matches.length) {
+        dropdown.innerHTML = `
+          <div style="padding:16px 20px; color:var(--text-muted); text-align:center; font-size:13.5px;">
+            No articles found matching <strong>"${escapeHtml(q)}"</strong>. Try methods (CLA, Delphi) or theorists (Inayatullah, Dator).
+          </div>
+        `;
+        dropdown.classList.add('open');
+        return;
+      }
+
+      const top = matches.slice(0, 7);
+      let html = top.map((item, idx) => `
+        <a href="articles/${item.s}.html" class="hero-dropdown-item ${idx === heroSelectedIndex ? 'active' : ''}" data-idx="${idx}">
+          <div>
+            <div class="title">${highlightTerms(item.t, terms)}</div>
+            <div class="subtitle">
+              <span>🏛️ Pillar ${item.p}</span>
+              ${item.a ? ` &bull; 👤 <span>${highlightTerms(item.a, terms)}</span>` : ''}
+            </div>
+          </div>
+          <span class="competency-tag tag-${item.c}" style="font-size:11px; padding:2px 8px; flex-shrink:0;">✦ ${item.c}</span>
+        </a>
+      `).join('');
+
+      if (matches.length > 7) {
+        html += `
+          <div style="padding:10px 18px; font-size:12px; font-weight:600; text-align:center; background:var(--bg-page); color:var(--apf-cyan); border-top:1px solid var(--border-subtle); cursor:pointer;" id="seeAllHeroResults">
+            ↓ See all ${matches.length.toLocaleString()} matching articles in page view below
+          </div>
+        `;
+      }
+
+      dropdown.innerHTML = html;
+      dropdown.classList.add('open');
+
+      const seeAll = document.getElementById('seeAllHeroResults');
+      if (seeAll) {
+        seeAll.addEventListener('click', () => {
+          dropdown.classList.remove('open');
+          resultsSection.scrollIntoView({ behavior: 'smooth' });
+        });
+      }
+    }
+
+    function renderInPageGrid(matches, q, terms) {
+      if (!resultsSection || !resultsGrid) return;
+      if (defaultContent) defaultContent.style.display = 'none';
+      resultsSection.classList.add('active');
+
+      if (queryTitle) queryTitle.textContent = `Search Results for "${q}"`;
+      if (matchCount) matchCount.textContent = `Found ${matches.length.toLocaleString()} ${matches.length === 1 ? 'article' : 'articles'} across 1,000 entries`;
+
+      if (!matches.length) {
+        resultsGrid.innerHTML = `
+          <div style="grid-column:1/-1; text-align:center; padding:60px 20px; color:var(--text-muted); background:var(--bg-surface); border-radius:12px; border:1px solid var(--border-light);">
+            <div style="font-size:36px; margin-bottom:12px;">🔍</div>
+            <h3 style="font-size:18px; margin-bottom:8px; color:var(--text-main);">No matching foresight articles found</h3>
+            <p style="font-size:14px; max-width:480px; margin:0 auto 20px;">We couldn't find any articles matching "${escapeHtml(q)}". Try searching across the 6 core competencies or using alternative keywords.</p>
+            <button type="button" class="tool-btn" id="heroNoResultsClearBtn" style="padding:8px 20px;">Clear Search</button>
+          </div>
+        `;
+        const noResBtn = document.getElementById('heroNoResultsClearBtn');
+        if (noResBtn) noResBtn.addEventListener('click', clearSearch);
+        return;
+      }
+
+      const display = matches.slice(0, 48);
+      let html = display.map(item => `
+        <div class="search-result-card">
+          <div>
+            <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:8px; margin-bottom:10px;">
+              <span class="competency-tag tag-${item.c}">✦ ${item.c}</span>
+              <span style="font-size:11.5px; color:var(--text-muted); font-weight:600;">Pillar ${item.p}</span>
+            </div>
+            <h3 style="font-size:16px; font-weight:700; margin:0 0 8px 0; line-height:1.35;">
+              <a href="articles/${item.s}.html" style="color:var(--text-main); text-decoration:none;">
+                ${highlightTerms(item.t, terms)}
+              </a>
+            </h3>
+            ${item.a ? `<div style="font-size:12.5px; color:var(--text-muted); margin-bottom:10px;">Theorists: <strong style="color:var(--text-main);">${highlightTerms(item.a, terms)}</strong></div>` : ''}
+            <div style="font-size:12px; color:var(--text-muted); margin-bottom:14px; line-height:1.45;">
+              ${escapeHtml(item.pName)}
+            </div>
+          </div>
+          <div style="display:flex; justify-content:space-between; align-items:center; border-top:1px solid var(--border-subtle); padding-top:10px; font-size:12px;">
+            <span style="color:var(--text-muted);">${item.w.toLocaleString()} words (~${Math.max(2, Math.ceil(item.w / 200))} min)</span>
+            <a href="articles/${item.s}.html" class="wiki-link" style="font-weight:600; color:var(--apf-cyan); text-decoration:none;">Read Article &rarr;</a>
+          </div>
+        </div>
+      `).join('');
+
+      if (matches.length > 48) {
+        html += `
+          <div style="grid-column:1/-1; text-align:center; margin-top:20px; padding:20px; background:var(--bg-surface); border-radius:10px; border:1px solid var(--border-light);">
+            <p style="margin:0 0 10px 0; font-size:14px; color:var(--text-muted);">Showing first 48 of ${matches.length.toLocaleString()} matching articles.</p>
+            <p style="margin:0; font-size:13px; color:var(--text-muted);">Refine your search term or use the <kbd class="kbd-shortcut">⌘K</kbd> Global Command Palette to filter by competency.</p>
+          </div>
+        `;
+      }
+
+      resultsGrid.innerHTML = html;
+    }
+
+    heroInput.addEventListener('input', (e) => {
+      const q = e.target.value.trim();
+      if (!q) {
+        clearSearch();
+        return;
+      }
+      const terms = q.toLowerCase().split(/\s+/).filter(Boolean);
+      heroMatches = searchCatalog(catalog, q, 'all');
+      renderDropdown(heroMatches, q, terms);
+      renderInPageGrid(heroMatches, q, terms);
+    });
+
+    if (clearBtn) {
+      clearBtn.addEventListener('click', clearSearch);
+    }
+
+    document.addEventListener('click', (e) => {
+      if (dropdown && !heroInput.contains(e.target) && !dropdown.contains(e.target)) {
+        dropdown.classList.remove('open');
+      }
+    });
+
+    heroInput.addEventListener('focus', () => {
+      if (heroInput.value.trim() && heroMatches.length && dropdown) {
+        dropdown.classList.add('open');
+      }
+    });
+
+    heroInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        clearSearch();
+        heroInput.blur();
+      } else if (e.key === 'ArrowDown' && dropdown && dropdown.classList.contains('open')) {
+        e.preventDefault();
+        const topCount = Math.min(heroMatches.length, 7);
+        if (topCount > 0) {
+          heroSelectedIndex = (heroSelectedIndex + 1) % topCount;
+          const items = dropdown.querySelectorAll('.hero-dropdown-item');
+          items.forEach((it, i) => it.classList.toggle('active', i === heroSelectedIndex));
+        }
+      } else if (e.key === 'ArrowUp' && dropdown && dropdown.classList.contains('open')) {
+        e.preventDefault();
+        const topCount = Math.min(heroMatches.length, 7);
+        if (topCount > 0) {
+          heroSelectedIndex = (heroSelectedIndex - 1 + topCount) % topCount;
+          const items = dropdown.querySelectorAll('.hero-dropdown-item');
+          items.forEach((it, i) => it.classList.toggle('active', i === heroSelectedIndex));
+        }
+      } else if (e.key === 'Enter') {
+        if (dropdown && dropdown.classList.contains('open') && heroMatches.length > 0) {
+          e.preventDefault();
+          const target = heroSelectedIndex >= 0 ? heroMatches[heroSelectedIndex] : heroMatches[0];
+          if (target) {
+            window.location.href = `articles/${target.s}.html`;
+          }
+        }
+      }
+    });
+  }
+
+  // 8. Initialize
   initTheme();
   document.addEventListener('DOMContentLoaded', () => {
     renderSidebar();
     initMediaHub();
+    initGlobalSearchModal();
+    initHeroPortalSearch();
 
     const themeBtns = document.querySelectorAll('.theme-toggle-btn');
     themeBtns.forEach(b => b.addEventListener('click', toggleTheme));
