@@ -1,0 +1,40 @@
+<noinclude>
+= Template:Infobox Foresight Concept =
+Encyclopedic sidebar for foundational theories, philosophical frameworks, and concepts in futures studies.
+</noinclude>
+<includeonly>
+{| class="infobox" style="width: 24em; font-size: 90%; line-height: 1.4em; border: 1px solid #1e293b; background-color: #f8fafc; float: right; margin: 0 0 1em 1em; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-collapse: separate;"
+|-
+! colspan="2" style="background: linear-gradient(135deg, #0f172a, #334155); color: white; padding: 10px; font-size: 125%; text-align: center; border-top-left-radius: 7px; border-top-right-radius: 7px;" | {{{name|{{PAGENAME}}}}}
+|-
+{{#if:{{{image|}}}|
+{{!}} colspan="2" style="text-align: center; padding: 6px;" {{!}} [[File:{{{image}}}|250px|center]]<br /><small style="color: #64748b;">{{{caption|}}}</small>
+{{!-}}
+}}
+|- style="background-color: #e2e8f0; font-weight: bold; text-align: center;"
+| colspan="2" | Concept Overview
+|-
+! scope="row" style="text-align: left; padding: 4px 8px; width: 40%;" | Core Domain
+| style="padding: 4px 8px;" | {{{domain|Futures Studies / Epistemology}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Key Theorists
+| style="padding: 4px 8px;" | {{{theorists|Unspecified}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | APF Competency
+| style="padding: 4px 8px;" | {{APF_Competency_Badge|{{{apf_competency|Framing}}}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Historical Era
+| style="padding: 4px 8px;" | {{{era|Contemporary}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Alternative Terms
+| style="padding: 4px 8px;" | {{{alt_terms|None}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Related Frameworks
+| style="padding: 4px 8px;" | {{{related_frameworks|Unspecified}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Primary Application
+| style="padding: 4px 8px;" | {{{application|Strategic Orientation / Paradigm Shift}}}
+|}
+[[Category:Foresight Concepts]]
+[[Category:APF Competency - {{{apf_competency|Framing}}}]]
+</includeonly>

@@ -1,0 +1,40 @@
+<noinclude>
+= Template:Infobox Foresight Tool =
+Encyclopedic sidebar for hands-on foresight canvases, cards, matrices, and workshop instruments.
+</noinclude>
+<includeonly>
+{| class="infobox" style="width: 24em; font-size: 90%; line-height: 1.4em; border: 1px solid #7c3aed; background-color: #f8fafc; float: right; margin: 0 0 1em 1em; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-collapse: separate;"
+|-
+! colspan="2" style="background: linear-gradient(135deg, #6d28d9, #9333ea); color: white; padding: 10px; font-size: 125%; text-align: center; border-top-left-radius: 7px; border-top-right-radius: 7px;" | {{{name|{{PAGENAME}}}}}
+|-
+{{#if:{{{image|}}}|
+{{!}} colspan="2" style="text-align: center; padding: 6px;" {{!}} [[File:{{{image}}}|250px|center]]<br /><small style="color: #64748b;">{{{caption|}}}</small>
+{{!-}}
+}}
+|- style="background-color: #ede9fe; font-weight: bold; text-align: center;"
+| colspan="2" | Tool & Facilitation Specifications
+|-
+! scope="row" style="text-align: left; padding: 4px 8px; width: 40%;" | Tool Developer
+| style="padding: 4px 8px;" | {{{developer|Unspecified}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Tool Format
+| style="padding: 4px 8px;" | {{{format|Canvas / Workshop Matrix}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | APF Competency
+| style="padding: 4px 8px;" | {{APF_Competency_Badge|{{{apf_competency|Designing}}}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Recommended Cohort
+| style="padding: 4px 8px;" | {{{group_size|4–25 participants}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Typical Duration
+| style="padding: 4px 8px;" | {{{duration|60–180 minutes}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Target Outputs
+| style="padding: 4px 8px;" | {{{outputs|Visual matrix, prioritization grid, scenario sketches}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Licensing / Access
+| style="padding: 4px 8px;" | {{{license|Open Access / Creative Commons}}}
+|}
+[[Category:Foresight Tools]]
+[[Category:APF Competency - {{{apf_competency|Designing}}}]]
+</includeonly>

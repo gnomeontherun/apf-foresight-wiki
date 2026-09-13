@@ -1,0 +1,57 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Scanning}}
+{{Infobox Foresight Concept
+| name = Ocean Acidification & Marine Ecosystem Collapse
+| domain = Core Megatrends, Planetary Frontiers & Polycrisis
+| theorists = Hoegh-Guldberg et al.
+| apf_competency = Scanning
+| era = Contemporary Foresight Practice
+| alt_terms = Related Systems Thinking Concepts
+| related_frameworks = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]]
+| application = Anticipatory Governance, Decision Scaffolding, Strategic Agility
+}}
+
+== Executive Summary & Definition ==
+'''Ocean Acidification & Marine Ecosystem Collapse''' is an authoritative subject within '''Core Megatrends, Planetary Frontiers & Polycrisis''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Scanning|APF Core Competency: Scanning]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+The macro-phenomenon 'Ocean Acidification & Marine Ecosystem Collapse' represents a defining systemic driver within global megatrends and planetary frontiers.
+
+== Origins & Theoretical Lineage ==
+Investigated extensively by Hoegh-Guldberg et al. within Marine Ecology, this megatrend represents a multi-decade structural vector that is fundamentally altering physical, economic, and geopolitical operating environments across all temporal horizons.
+
+== Core Systemic Dimensions, Dynamics & Tipping Points ==
+A rigorous understanding of '''Ocean Acidification & Marine Ecosystem Collapse''' entails examining its constituent structural dimensions and non-linear dynamics:
+* Macro-Vector Dynamics: Analyzed by Hoegh-Guldberg et al., tracking velocity, acceleration, and systemic inertia.
+* Systemic Cross-Impacts: Intersects with concurrent ecological boundaries, demographic shifts, and computational frontiers.
+* Tipping Point Thresholds: Identifies non-linear trigger points where gradual change mutates into structural rupture.
+* Strategic Preparedness: Directs long-range capital allocation, regulatory guardrails, and operational resilience.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Ocean Acidification & Marine Ecosystem Collapse''' is routinely utilized to:
+* Enterprise Strategy Stress-Testing: Evaluating 10- to 20-year business models against megatrend headwinds and tailwinds.
+* Anticipatory National Policy: Formulating sovereign investment roadmaps aligned with global transition realities.
+* Risk & Compliance Management: Incorporating multi-decade planetary boundary and demographic shifts into fiduciary filings.
+* Innovation Incubation: Identifying trillion-dollar greenfield opportunities born from systemic market failures.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Ocean Acidification & Marine Ecosystem Collapse''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Linear Extrapolation Fallacy: Assuming that current growth rates or adoption curves can continue indefinitely without hitting limits.
+* Siloed Vulnerability: Analyzing this megatrend in isolation without modeling second- and third-order cross-impacts.
+* Fatalism vs. Hype: Oscillating between apocalyptic despair and uncritical techno-solutionist optimism.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Ocean Acidification & Marine Ecosystem Collapse''' directly reinforces:
+* '''Primary Competency (Scanning)''': Cultivates advanced professional rigor in executing scanning-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Hoegh-Guldberg et al.|year=2019|title=Megatrend Dynamics of Ocean Acidification & Marine Ecosystem Collapse|journal=Technological Forecasting and Social Change|volume=145|issue=|pages=88-102}}
+{{Foresight_Citation|author=Rockström, J. et al.|year=2009|title=A safe operating space for humanity|journal=Nature|volume=461|issue=7263|pages=472-475|doi=10.1038/461472a}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Core Megatrends, Planetary Frontiers & Polycrisis]]
+[[Category:APF Competency - Scanning]]
+[[Category:APF Article Status - Draft]]

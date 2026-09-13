@@ -1,0 +1,57 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Leading}}
+{{Infobox Foresight Thinker
+| name = Riel Miller
+| lifespan = b. 1956
+| nationality = Global / International
+| affiliation = Canadian Economist & Former UNESCO Head of Foresight
+| apf_role = Honored Theorist / Foundational Pioneer
+| concepts = Riel Miller & Strategic Anticipation
+| major_works = Landmark Books, Monographs & Peer-Reviewed Studies
+| honors = APF Recognition & Global Futures Leadership
+}}
+
+== Executive Summary & Definition ==
+'''Riel Miller (Futures Literacy & UNESCO Architecture)''' is an authoritative subject within '''High-Profile Figures, Theorists & Pioneers''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Leading|APF Core Competency: Leading]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+'Riel Miller (Futures Literacy & UNESCO Architecture)' is an honored theorist, pioneer, or high-profile thought leader within the global strategic foresight canon.
+
+== Origins & Theoretical Lineage ==
+Active during b. 1956, their scholarship and practice within Canadian Economist & Former UNESCO Head of Foresight transformed modern futures thinking, leaving an indelible mark on how humanity conceptualizes, debates, and navigates alternative tomorrows.
+
+== Seminal Contributions & Intellectual Breakthroughs ==
+Throughout their distinguished career, '''Riel Miller''' introduced transformative contributions that reshaped strategic foresight:
+* Epistemological Breakthrough: Challenged prevailing orthodoxies through transformative frameworks.
+* Seminal Publications: Produced landmark books and peer-reviewed studies that established foundational concepts.
+* Methodological Tooling: Formulated actionable tools and heuristics used across boardrooms and policy labs.
+* Global Mentorship: Educated and inspired generations of professional futurists and institutional leaders.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Riel Miller (Futures Literacy & UNESCO Architecture)''' is routinely utilized to:
+* Foundational Curriculum: Integrated as core reading across global university foresight graduate degrees.
+* Executive Strategy: Guiding C-suite scenario planning and anticipatory governance frameworks.
+* Democratic Deliberation: Inspiring participatory civic movements to democratize long-term visioning.
+* APF Standards: Informs the core competency benchmarks of the Association of Professional Futurists.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Riel Miller (Futures Literacy & UNESCO Architecture)''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Historical Context Limitation: Evaluating mid-20th-century pioneers without accounting for contemporary ecological realities.
+* Hagiographic Elevation: Treating visionary thinkers uncritically rather than interrogating their epistemic blindspots.
+* Eurocentric Canon Imbalance: The historical tendency to over-represent Western male theorists at the expense of pluriversal voices.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Riel Miller (Futures Literacy & UNESCO Architecture)''' directly reinforces:
+* '''Primary Competency (Leading)''': Cultivates advanced professional rigor in executing leading-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Bell, W.|year=1997|title=Foundations of Futures Studies: Human Science for a New Era|publisher=Transaction Publishers}}
+{{Foresight_Citation|author=Slaughter, R. A.|year=2002|title=Futures Studies: From Individual to Social Capacity|journal=Futures|volume=34|issue=3|pages=229-233|doi=10.1016/S0016-3287(01)00041-6}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:High-Profile Figures, Theorists & Pioneers]]
+[[Category:APF Competency - Leading]]
+[[Category:APF Article Status - Draft]]

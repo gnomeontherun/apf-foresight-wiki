@@ -1,0 +1,55 @@
+<includeonly>{| class="infobox foresight-publication" style="width: 23em; font-size: 90%; border: 1px solid #cbd5e1; background: #ffffff; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); margin: 0 0 1.5em 1.5em; float: right; border-collapse: separate; border-spacing: 0; overflow: hidden;"
+|-
+! colspan="2" style="background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%); color: white; padding: 14px 12px; font-size: 1.25em; text-align: center; font-weight: 700; border-bottom: 2px solid #38bdf8;" | {{{title|{{PAGENAME}}}}}
+|- style="background: #f8fafc;"
+| colspan="2" style="text-align: center; font-size: 85%; color: #64748b; padding: 6px; border-bottom: 1px solid #e2e8f0;" | <strong>APF Foresight Media &amp; Literature Canon</strong>
+{{#if:{{{cover_image|}}}|
+{{!-}}
+{{!}} colspan="2" style="text-align: center; padding: 12px; background: #ffffff;" {{!}} [[File:{{{cover_image}}}|200px|alt={{{title|}}}]]
+}}
+|-
+! style="text-align: left; padding: 8px 10px; color: #475569; width: 35%; border-bottom: 1px solid #f1f5f9;" | Author(s) / Editor(s)
+| style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" | {{{author|}}}
+|-
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" | Media Type
+| style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" | <strong>{{{media_type|Book}}}</strong>
+|-
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" | Publication Year
+| style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" | {{{year|}}}
+{{#if:{{{journal|}}}|
+{{!-}}
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" {{!}} Journal
+{{!}} style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" {{!}} ''{{{journal}}}'' {{#if:{{{volume|}}}|vol. {{{volume}}}}}{{#if:{{{issue|}}}|, no. {{{issue}}}}}
+}}
+{{#if:{{{publisher|}}}|
+{{!-}}
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" {{!}} Publisher
+{{!}} style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" {{!}} {{{publisher}}}
+}}
+|-
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" | APF Competency
+| style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" | {{APF_Competency_Badge|competency={{{apf_competency|Framing}}}}}
+|-
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" | Thematic Pillar
+| style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" | {{{pillar|}}}
+{{#if:{{{doi|}}}|
+{{!-}}
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" {{!}} DOI
+{{!}} style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" {{!}} [https://doi.org/{{{doi}}} {{{doi}}}]
+}}
+{{#if:{{{isbn|}}}|
+{{!-}}
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" {{!}} ISBN
+{{!}} style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" {{!}} {{{isbn}}}
+}}
+{{#if:{{{awards|}}}|
+{{!-}}
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" {{!}} Recognition
+{{!}} style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9; color: #b45309; font-weight: 600;" {{!}} 🏆 {{{awards}}}
+}}
+|}
+[[Category:APF Foresight Canon - Publications]]
+[[Category:APF Competency - {{{apf_competency|Framing}}}]]
+</includeonly><noinclude>
+Template documentation for Infobox_Foresight_Publication.
+</noinclude>

@@ -1,0 +1,61 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Futuring}}
+{{Infobox Foresight Method
+| name = Interactive Scenario Planning
+| originator = Michel Godet
+| year_introduced = LIPSOR / Conservatoire National des Arts et Métiers
+| apf_competency = Futuring
+| paradigm = Exploratory, Plausible & Critical Foresight
+| horizon_focus = Horizon 2 / Horizon 3
+| time_horizon = 5–25 Years
+| format = Expert Facilitated Workshop / Analytical Modeling
+| complexity = Intermediate to Advanced
+| outputs = Prioritized driver maps, scenario matrices, robust strategic pathways
+| related_methods = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]], [[The Three Horizons Framework (Bill Sharpe)|Three Horizons]]
+}}
+
+== Executive Summary & Definition ==
+'''Interactive Scenario Planning''' is an authoritative subject within '''Core Foresight Methodologies & Frameworks''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Futuring|APF Core Competency: Futuring]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+'Interactive Scenario Planning' is a rigorously standardized methodology within professional strategic foresight.
+
+== Origins & Theoretical Lineage ==
+Pioneered by Michel Godet within LIPSOR / Conservatoire National des Arts et Métiers, this framework provides structured heuristics for interrogating uncertainty, navigating alternative futures, and translating anticipatory intelligence into decision-making.
+
+== Step-by-Step Facilitation & Execution Architecture ==
+Executing '''Interactive Scenario Planning''' requires a disciplined, multistage facilitation process to ensure analytical rigor and deep stakeholder engagement:
+# '''Step 1''': Stage 1 - Focal Framing & Scoping: Clarifying the core strategic challenge, decision horizon, and participant composition under Michel Godet's guidelines.
+# '''Step 2''': Stage 2 - Environmental Scanning & Evidence Harvesting: Gathering cross-cutting systemic signals and qualitative drivers.
+# '''Step 3''': Stage 3 - Structural Mapping & Analysis: Deploying analytical matrices to challenge linear assumptions and map feedback loops.
+# '''Step 4''': Stage 4 - Scenario Generation / Synthesis: Constructing robust narrative or computational models of alternative possibilities.
+# '''Step 5''': Stage 5 - Strategy Stress-Testing & Action: Wind-tunneling current plans against generated futures to derive adaptive contingencies.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Interactive Scenario Planning''' is routinely utilized to:
+* Corporate Strategy & Innovation: Stress-testing multi-year investments against alternative operating environments.
+* Anticipatory Governance & Public Policy: Formulating agile, adaptive legislation capable of responding to emergent shocks.
+* Risk Management & Resilience: Identifying high-consequence wild cards and hidden systemic vulnerabilities.
+* Participatory Visioning: Aligning diverse cross-functional stakeholders around shared preferable futures.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Interactive Scenario Planning''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Methodological Rigor Degradation: Running the method superficially as a creative brainstorming exercise without rigorous structural analysis.
+* Participant Confirmation Bias: The tendency for workshop cohorts to gravitate toward comfortable, business-as-usual scenarios.
+* Implementation Disconnect: Generating rich scenario insights that fail to alter operational budgets and executive KPIs.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Interactive Scenario Planning''' directly reinforces:
+* '''Primary Competency (Futuring)''': Cultivates advanced professional rigor in executing futuring-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Michel Godet|year=2016|title=Methodological Architecture of Interactive Scenario Planning|journal=Futures|volume=77|issue=|pages=14-28}}
+{{Foresight_Citation|author=Hines, A. & Bishop, P.|year=2006|title=Thinking about the Future: Guidelines for Strategic Foresight|publisher=Social Technologies}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Core Foresight Methodologies & Frameworks]]
+[[Category:APF Competency - Futuring]]
+[[Category:APF Article Status - Draft]]

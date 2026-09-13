@@ -1,0 +1,57 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Scanning}}
+{{Infobox Foresight Concept
+| name = Polycrisis & Metacrisis: Systemic Interconnectedness
+| domain = Core Megatrends, Planetary Frontiers & Polycrisis
+| theorists = Adam Tooze, Jonathan Rowson, Zak Stein
+| apf_competency = Scanning
+| era = Contemporary Foresight Practice
+| alt_terms = Related Systems Thinking Concepts
+| related_frameworks = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]]
+| application = Anticipatory Governance, Decision Scaffolding, Strategic Agility
+}}
+
+== Executive Summary & Definition ==
+'''Polycrisis & Metacrisis: Systemic Interconnectedness''' is an authoritative subject within '''Core Megatrends, Planetary Frontiers & Polycrisis''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Scanning|APF Core Competency: Scanning]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+The confluence of multiple disparate global crises (ecological, economic, geopolitical, cognitive) that interact synergistically to destabilize civilizational structures.
+
+== Origins & Theoretical Lineage ==
+Popularized by economic historian Adam Tooze in the wake of the 2020 pandemic, climate disruption, and the Ukraine war. Tooze revived the term 'polycrisis' (originally used by Edgar Morin in the 1990s) to explain why conventional single-issue crisis response fails. Perspectiva scholars Jonathan Rowson and Zak Stein advanced the deeper diagnostic concept of 'metacrisis'—identifying the underlying epistemological, psychological, and institutional breakdown in human sensemaking that prevents effective collective action.
+
+== Core Systemic Dimensions, Dynamics & Tipping Points ==
+A rigorous understanding of '''Polycrisis & Metacrisis: Systemic Interconnectedness''' entails examining its constituent structural dimensions and non-linear dynamics:
+* Non-Additive Compound Risk: The systemic reality that crises in finance, energy, food, and politics do not sum together, but multiply exponentially.
+* Sensemaking Breakdown (Metacrisis): Institutional information ecosystems fractured by algorithmic polarization, post-truth media, and cognitive fatigue.
+* The Four Quadrants of Metacrisis: Psychological alienation, social polarization, technological un-containability, and planetary overshoot.
+* Coordination Traps: Multipolar game-theoretic traps where individual nations or corporations are incentivized to act in ways that doom the collective.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Polycrisis & Metacrisis: Systemic Interconnectedness''' is routinely utilized to:
+* Resilience Stress-Testing: Evaluating national contingency plans against concurrent, intersecting polycrises rather than isolated emergencies.
+* Anticipatory Sensemaking: Building high-integrity intelligence networks that bypass institutional epistemic echo chambers.
+* Civilizational Risk Assessment: Developing sovereign resilience strategies that preserve core societal knowledge and infrastructure through cascading shocks.
+* Educational Transformation: Teaching transdisciplinary systems thinking and cognitive sovereignty to future leaders.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Polycrisis & Metacrisis: Systemic Interconnectedness''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Fatalistic Nihilism: The sheer scale and interconnectedness of polycrises can induce paralysis and fatalistic surrender in leadership cohorts.
+* Siloed Institutional Architecture: Government and corporate ministries are structurally segregated and unable to coordinate across polycrisis vectors.
+* Superficial Sloganeering: Using 'polycrisis' as a trendy buzzword without doing the rigorous structural modeling required to map causal feedbacks.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Polycrisis & Metacrisis: Systemic Interconnectedness''' directly reinforces:
+* '''Primary Competency (Scanning)''': Cultivates advanced professional rigor in executing scanning-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Tooze, A.|year=2022|title=Welcome to the world of the polycrisis|publisher=Financial Times}}
+{{Foresight_Citation|author=Rowson, J.|year=2021|title=Tasting the Pickle: Ten Flavours of Metacrisis|publisher=Perspectiva Press}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Core Megatrends, Planetary Frontiers & Polycrisis]]
+[[Category:APF Competency - Scanning]]
+[[Category:APF Article Status - Draft]]

@@ -1,0 +1,33 @@
+name: Validate Foresight Canon & Quality Gates
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Audit 1,000 Encyclopedia Articles
+        run: |
+          python wiki/scripts/validate_wiki.py
+
+      - name: Audit 2,700 Media & Literature Canon Items
+        run: |
+          python wiki/scripts/validate_media_canon.py
+
+      - name: Test Static Site Compiler
+        run: |
+          python wiki/scripts/build_preview_site.py

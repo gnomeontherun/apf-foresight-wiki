@@ -1,0 +1,57 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Framing}}
+{{Infobox Foresight Concept
+| name = Anticipatory Governance
+| domain = Foundations, Epistemology & Epistemic Pluralism
+| theorists = David Guston, Ray Quay, Leon Fuerth
+| apf_competency = Framing
+| era = Contemporary Foresight Practice
+| alt_terms = Related Systems Thinking Concepts
+| related_frameworks = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]]
+| application = Anticipatory Governance, Decision Scaffolding, Strategic Agility
+}}
+
+== Executive Summary & Definition ==
+'''Anticipatory Governance''' is an authoritative subject within '''Foundations, Epistemology & Epistemic Pluralism''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Framing|APF Core Competency: Framing]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+A systemic model of public governance that integrates foresight, public engagement, and adaptive management into institutional policy formulation to steer long-term societal trajectories.
+
+== Origins & Theoretical Lineage ==
+Formulated by science and technology policy scholars such as David Guston at Arizona State University and codified for federal strategy by Leon Fuerth (former National Security Advisor to Al Gore). Anticipatory governance arose in response to the chronic short-termism of electoral democracies and the failure of traditional regulatory regimes to keep pace with rapid technological and ecological transformations. It bridges long-range horizon scanning with immediate legislative and budgetary mechanics.
+
+== Core Systemic Dimensions, Dynamics & Tipping Points ==
+A rigorous understanding of '''Anticipatory Governance''' entails examining its constituent structural dimensions and non-linear dynamics:
+* Forward Engagement: Continuously scanning for emerging issues and feeding foresight into policy agendas before crises become irreversible.
+* Participatory Public Engagement: Involving citizen assemblies, deliberative polls, and diverse stakeholder networks in deliberating normative future trade-offs.
+* Adaptive Management & Feedback Loops: Designing legislation with built-in review milestones and dynamic policy triggers that update automatically as environmental thresholds are crossed.
+* Inter-Agency Integration: Breaking down ministerial silos to address cross-cutting systemic issues (e.g., climate polycrisis, AI governance).
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Anticipatory Governance''' is routinely utilized to:
+* National Strategy Design: Institutionalizing horizon scanning units within prime ministers' offices (e.g., Singapore NSCS, Finland Prime Minister's Office).
+* Statutory Future Generations Duties: Creating legal commissioners for future generations (e.g., Wales Well-being of Future Generations Act).
+* Technology Assessment: Setting anticipatory ethical guardrails for gene editing, neurotechnology, and artificial general intelligence.
+* Urban Climate Adaptation: Structuring municipal long-term resilience plans with 30- to 50-year investment pathways.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Anticipatory Governance''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Electoral Cycle Misalignment: 4-year political cycles actively penalize long-term investments that do not yield immediate political capital.
+* Institutional Bureaucratic Resistance: Legacy ministries defending established mandates and resisting cross-cutting foresight recommendations.
+* Technocratic Enclosure: The risk that anticipatory governance becomes an elite technocratic exercise that excludes marginalized public voices.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Anticipatory Governance''' directly reinforces:
+* '''Primary Competency (Framing)''': Cultivates advanced professional rigor in executing framing-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Guston, D. H.|year=2014|title=Understanding 'anticipatory governance'|journal=Social Studies of Science|volume=44|issue=2|pages=218-242|doi=10.1177/0306312713511116}}
+{{Foresight_Citation|author=Quay, R.|year=2010|title=Anticipatory governance for rising uncertainty: An approach to urban planning|journal=Journal of the American Planning Association|volume=76|issue=4|pages=496-511|doi=10.1080/01944363.2010.508428}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Foundations, Epistemology & Epistemic Pluralism]]
+[[Category:APF Competency - Framing]]
+[[Category:APF Article Status - Draft]]

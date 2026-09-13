@@ -1,0 +1,57 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Leading}}
+{{Infobox Foresight Thinker
+| name = H.G. Wells
+| lifespan = 1866–1946
+| nationality = Global / International
+| affiliation = British Author, Historian & Futurist Pioneer
+| apf_role = Honored Theorist / Foundational Pioneer
+| concepts = H.G. Wells & Strategic Anticipation
+| major_works = Landmark Books, Monographs & Peer-Reviewed Studies
+| honors = APF Recognition & Global Futures Leadership
+}}
+
+== Executive Summary & Definition ==
+'''H.G. Wells (Anticipations & 'Professors of Foresight')''' is an authoritative subject within '''High-Profile Figures, Theorists & Pioneers''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Leading|APF Core Competency: Leading]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+Widely regarded as a founding father of modern futures thinking, Wells authored Anticipations (1901) and delivered a landmark 1932 BBC radio broadcast demanding the establishment of 'Professors of Foresight' to study future social consequences.
+
+== Origins & Theoretical Lineage ==
+Wells recognized that the acceleration of science and technology would produce catastrophic civilizational crises unless matched by an equivalent social capacity to anticipate consequences. Beyond science fiction (The Time Machine, The War of the Worlds), Wells published Anticipations of the Reaction of Mechanical and Scientific Progress upon Human Life and Thought (1901), creating the first systematic sociological examination of future transportation, urban sprawl, and total warfare.
+
+== Seminal Contributions & Intellectual Breakthroughs ==
+Throughout their distinguished career, '''H.G. Wells''' introduced transformative contributions that reshaped strategic foresight:
+* Professors of Foresight (1932): Broadcast speech arguing that universities study past human actions extensively but provide zero academic chairs to systematically examine the future.
+* Anticipations (1901): Rigorously forecasted the decline of centralized railway cities in favor of dispersed automotive suburbanization and aerial warfare.
+* The Open Conspiracy (1928): Blueprint for a trans-national scientific and intellectual cadre dedicated to establishing global governance to prevent war.
+* World Brain (1938): Proposed an open, universal digital knowledge encyclopedia preceding Wikipedia and the World Wide Web by half a century.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''H.G. Wells (Anticipations & 'Professors of Foresight')''' is routinely utilized to:
+* Foundational Curriculum: Integrated as core reading across global university foresight graduate degrees.
+* Executive Scenario Strategy: Guiding C-suite scenario planning and anticipatory governance frameworks.
+* Democratic Deliberation: Inspiring participatory civic movements to democratize long-term visioning.
+* APF Standards: Informs the core competency benchmarks of the Association of Professional Futurists.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''H.G. Wells (Anticipations & 'Professors of Foresight')''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Historical Context Limitation: Evaluating early pioneers without accounting for contemporary ecological realities.
+* Hagiographic Elevation: Treating visionary thinkers uncritically rather than interrogating their epistemic blindspots.
+* Eurocentric Canon Imbalance: The historical tendency to over-represent Western male theorists at the expense of pluriversal voices.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''H.G. Wells (Anticipations & 'Professors of Foresight')''' directly reinforces:
+* '''Primary Competency (Leading)''': Cultivates advanced professional rigor in executing leading-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Wells, H. G.|year=1901|title=Anticipations of the Reaction of Mechanical and Scientific Progress upon Human Life and Thought|publisher=Chapman & Hall}}
+{{Foresight_Citation|author=Wells, H. G.|year=1932|title=Wanted: Professors of Foresight|publisher=The Listener (BBC)}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:High-Profile Figures, Theorists & Pioneers]]
+[[Category:APF Competency - Leading]]
+[[Category:APF Article Status - Draft]]

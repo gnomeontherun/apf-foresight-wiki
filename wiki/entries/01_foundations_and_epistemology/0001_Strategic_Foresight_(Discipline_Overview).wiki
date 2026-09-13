@@ -1,0 +1,58 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Framing}}
+{{Infobox Foresight Concept
+| name = Strategic Foresight (Discipline Overview)
+| domain = Foundations, Epistemology & Epistemic Pluralism
+| theorists = Richard Slaughter, Wendell Bell, Sohail Inayatullah
+| apf_competency = Framing
+| era = Contemporary Foresight Practice
+| alt_terms = Related Systems Thinking Concepts
+| related_frameworks = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]]
+| application = Anticipatory Governance, Decision Scaffolding, Strategic Agility
+}}
+
+== Executive Summary & Definition ==
+'''Strategic Foresight (Discipline Overview)''' is an authoritative subject within '''Foundations, Epistemology & Epistemic Pluralism''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Framing|APF Core Competency: Framing]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+The systematic, structured discipline of exploring multiple plausible, possible, and preferable futures to inform present decision-making, stress-test strategy, and expand organizational awareness.
+
+== Origins & Theoretical Lineage ==
+Strategic foresight emerged from the post-WWII intersection of military operations research (RAND Corporation), corporate planning (Royal Dutch Shell under Pierre Wack), and academic sociological inquiry (Bertrand de Jouvenel, Fred Polak). In the 1990s and 2000s, Slaughter and Bell codified its knowledge base, while the APF formalized its core competencies. Foresight differs fundamentally from predictive forecasting: rather than projecting a single deterministic trajectory based on historical extrapolation, strategic foresight investigates the systemic drivers, branching uncertainties, and paradigm shifts that generate fundamentally alternative operating environments.
+
+== Core Systemic Dimensions, Dynamics & Tipping Points ==
+A rigorous understanding of '''Strategic Foresight (Discipline Overview)''' entails examining its constituent structural dimensions and non-linear dynamics:
+* Epistemological Foundation: Embraces the premise that the future cannot be predicted with certainty, but alternative futures can be systematically conceptualized, mapped, and influenced.
+* Temporal Horizon Mapping: Typically investigates Horizon 2 (disruptive transition, 3-10 years) and Horizon 3 (emergent paradigms, 10-30+ years), distinguishing them from Horizon 1 (operational optimization, 0-3 years).
+* Multi-Scalar Systems Thinking: Situates organizational challenges within interconnected STEEPLED macro-systems (Social, Tech, Economic, Environmental, Political, Legal, Ethical, Demographic).
+* Actionable Integration: Translates long-term anticipatory insights into near-term strategic priorities, adaptive policy pathways, and robust risk mitigations.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Strategic Foresight (Discipline Overview)''' is routinely utilized to:
+* Strategic Stress-Testing: Evaluating multi-year corporate strategy against divergent plausible operating environments to eliminate single-point vulnerabilities.
+* Policy Resilience: Developing anticipatory governance frameworks that adapt dynamically as early warning indicators materialize.
+* Innovation Pipeline Guidance: Directing R&D investments toward emergent technological convergences before market mainstreaming.
+* Institutional Sensemaking: Expanding executive mental models to overcome status quo bias and organizational orthodoxies.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Strategic Foresight (Discipline Overview)''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Deterministic Relapse: The chronic tendency for executives to demand a single 'most likely' forecast, reverting to linear planning.
+* Implementation Decoupling: Foresight reports remaining isolated in strategy silos without influencing operational budgets and KPIs.
+* Western Positivist Bias: Over-reliance on empirical extrapolation while discounting qualitative cultural, indigenous, and pluriversal narratives.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Strategic Foresight (Discipline Overview)''' directly reinforces:
+* '''Primary Competency (Framing)''': Cultivates advanced professional rigor in executing framing-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Slaughter, R. A.|year=1995|title=The Knowledge Base of Futures Studies|journal=Futures|volume=27|issue=2|pages=117-124|doi=10.1016/0016-3287(95)00001-A}}
+{{Foresight_Citation|author=Bell, W.|year=1997|title=Foundations of Futures Studies: Human Science for a New Era|publisher=Transaction Publishers}}
+{{Foresight_Citation|author=Hines, A. & Bishop, P.|year=2006|title=Thinking about the Future: Guidelines for Strategic Foresight|publisher=Social Technologies}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Foundations, Epistemology & Epistemic Pluralism]]
+[[Category:APF Competency - Framing]]
+[[Category:APF Article Status - Draft]]

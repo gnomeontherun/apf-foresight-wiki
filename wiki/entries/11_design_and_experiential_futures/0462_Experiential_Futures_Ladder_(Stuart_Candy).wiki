@@ -1,0 +1,58 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Designing}}
+{{Infobox Foresight Tool
+| name = Experiential Futures Ladder (Stuart Candy)
+| developer = Stuart Candy
+| format = Facilitation Canvas / Workshop Toolkit
+| apf_competency = Designing
+| group_size = 4–30 Participants
+| duration = 90–180 Minutes
+| outputs = Prioritized driver maps, scenario sketches, action matrices
+| license = Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+}}
+
+== Executive Summary & Definition ==
+'''Experiential Futures Ladder (Stuart Candy)''' is an authoritative subject within '''Design Futures, Speculative Fabulation & Diegetics''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Designing|APF Core Competency: Designing]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+A structural framework for translating abstract scenario narratives into concrete, tangible, and immersive experiential simulations across four descending rungs.
+
+== Origins & Theoretical Lineage ==
+Developed by Australian-American futurist Stuart Candy in his 2010 doctoral dissertation The Futures of Everyday Life: Politics and the Design of Experiential Scenarios at the University of Hawaii. The ladder provides a rigorous translation architecture connecting high-level macro-scenarios to physical objects and embodied sensory experiences that participants can touch, hear, and inhabit.
+
+== Step-by-Step Facilitation & Execution Architecture ==
+Executing '''Experiential Futures Ladder (Stuart Candy)''' requires a disciplined, multistage facilitation process to ensure analytical rigor and deep stakeholder engagement:
+# '''Step 1''': Rung 1 - Setting: The macro-scenario context, demographic baseline, and systemic environment (e.g., Post-Carbon Megacity in 2045).
+# '''Step 2''': Rung 2 - Scenario: A specific situation, institutional dilemma, or event occurring within the setting (e.g., A legal hearing on algorithmic rationing).
+# '''Step 3''': Rung 3 - Sequence: A particular narrative pathway or user journey through that scenario (e.g., A citizen applying for an energy permit).
+# '''Step 4''': Rung 4 - Artifact / Touchpoint: A tangible, physical, or sensory artifact embodying the world (e.g., A synthetic ration card, utility bill, or counterfeit pill bottle).
+# '''Step 5''': Experiential Inhabitation: Moving participants down the ladder from abstract intellectual comprehension to visceral emotional presence.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Experiential Futures Ladder (Stuart Candy)''' is routinely utilized to:
+* Foresight Exhibition Design: Structuring museum and conference exhibits that immerse attendees in tangible future worlds.
+* Policy Stress-Testing: Forcing lawmakers to interact with the physical forms and user interfaces that their proposed laws would produce.
+* Executive Scenario Immersion: Shattering corporate complacency by placing executives in mock future retail stores or living rooms.
+* Community Visioning: Engaging non-academic communities in touching and shaping alternative future daily lives.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Experiential Futures Ladder (Stuart Candy)''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Theatrical Superficiality: Risk of prioritizing visual drama and prop-making over rigorous underlying systems analysis.
+* High Production Costs: Crafting high-fidelity physical artifacts and immersive sets requires substantial budget and specialized craftsmanship.
+* Emotional Shock Disconnection: Intense emotional reactions during experiential simulations do not automatically translate into rational strategy pivots.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Experiential Futures Ladder (Stuart Candy)''' directly reinforces:
+* '''Primary Competency (Designing)''': Cultivates advanced professional rigor in executing designing-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Candy, S. & Dunagan, J.|year=2017|title=Designing an experiential futures ladder|journal=Futures|volume=86|issue=|pages=136-153|doi=10.1016/j.futures.2016.08.006}}
+{{Foresight_Citation|author=Candy, S.|year=2010|title=The Futures of Everyday Life: Politics and the Design of Experiential Scenarios|publisher=University of Hawaii at Manoa}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Design Futures, Speculative Fabulation & Diegetics]]
+[[Category:APF Competency - Designing]]
+[[Category:APF Article Status - Draft]]

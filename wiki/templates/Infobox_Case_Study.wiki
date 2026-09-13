@@ -1,0 +1,45 @@
+<noinclude>
+= Template:Infobox Case Study =
+Encyclopedic metadata for landmark historic and contemporary foresight exercises.
+</noinclude>
+<includeonly>
+{| class="infobox" style="width: 24em; font-size: 90%; line-height: 1.4em; border: 1px solid #b45309; background-color: #fffbeb; float: right; margin: 0 0 1em 1em; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-collapse: separate;"
+|-
+! colspan="2" style="background: linear-gradient(135deg, #b45309, #d97706); color: white; padding: 10px; font-size: 125%; text-align: center; border-top-left-radius: 7px; border-top-right-radius: 7px;" | {{{name|{{PAGENAME}}}}}
+|-
+{{#if:{{{image|}}}|
+{{!}} colspan="2" style="text-align: center; padding: 6px;" {{!}} [[File:{{{image}}}|250px|center]]<br /><small style="color: #64748b;">{{{caption|}}}</small>
+{{!-}}
+}}
+|- style="background-color: #fef3c7; font-weight: bold; text-align: center;"
+| colspan="2" | Foresight Exercise Overview
+|-
+! scope="row" style="text-align: left; padding: 4px 8px; width: 40%;" | Convening Body / Sponsor
+| style="padding: 4px 8px;" | {{{sponsor|Unspecified}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Country / Jurisdiction
+| style="padding: 4px 8px;" | {{{jurisdiction|Global / International}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Years Conducted
+| style="padding: 4px 8px;" | {{{dates|Unspecified}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Target Horizon
+| style="padding: 4px 8px;" | {{{time_horizon|10–30 years}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Core Methodologies Used
+| style="padding: 4px 8px;" | {{{methods|Scenario Planning}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Key Facilitators / Leads
+| style="padding: 4px 8px;" | {{{leads|Unspecified}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Strategic Impact
+| style="padding: 4px 8px;" | {{{impact|Policy Transition / Strategic Transformation}}}
+|-
+{{#if:{{{msfw_award|}}}|
+! scope="row" style="text-align: left; padding: 4px 8px; background-color: #fef08a;" {{!}} APF MSFW Award
+{{!}} style="padding: 4px 8px; background-color: #fef08a; font-weight: bold;" {{!}} {{{msfw_award}}}
+{{!-}}
+}}
+|}
+[[Category:Foresight Case Studies]]
+</includeonly>

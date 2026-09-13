@@ -1,0 +1,57 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Designing}}
+{{Infobox Foresight Concept
+| name = Hypersonic Glide Vehicles & Strategic Deterrence Rupture
+| domain = Applied Sectoral Foresight: Security, Space & Economy
+| theorists = Richard Speier
+| apf_competency = Designing
+| era = Contemporary Foresight Practice
+| alt_terms = Related Systems Thinking Concepts
+| related_frameworks = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]]
+| application = Anticipatory Governance, Decision Scaffolding, Strategic Agility
+}}
+
+== Executive Summary & Definition ==
+'''Hypersonic Glide Vehicles & Strategic Deterrence Rupture''' is an authoritative subject within '''Applied Sectoral Foresight: Security, Space & Economy''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Designing|APF Core Competency: Designing]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+The geopolitical, security, or economic frontier 'Hypersonic Glide Vehicles & Strategic Deterrence Rupture' represents a defining vector in global strategic foresight.
+
+== Origins & Theoretical Lineage ==
+Analyzed by Richard Speier within Missile Defense, this domain addresses the changing character of conflict, off-world expansion, international finance, and sovereign resource security across the 2025–2050 timeline.
+
+== Core Systemic Dimensions, Dynamics & Tipping Points ==
+A rigorous understanding of '''Hypersonic Glide Vehicles & Strategic Deterrence Rupture''' entails examining its constituent structural dimensions and non-linear dynamics:
+* Strategic Vector: Investigated by Richard Speier, tracking military, macroeconomic, and spatial inflection points.
+* Asymmetric Dynamics: Analyzes how small actors leverage commercial technology to disrupt established superpowers.
+* Geopolitical Interdependence: Explores how sovereign trade, currency networks, and orbital assets interact.
+* Anticipatory Defense: Directs national security doctrine, sovereign wealth diversification, and crisis playbooks.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Hypersonic Glide Vehicles & Strategic Deterrence Rupture''' is routinely utilized to:
+* National Security Strategy: Updating defense postures for gray-zone coercion, drone swarms, and cyber-attacks.
+* Central Bank Planning: Developing digital currencies (CBDCs) that maintain financial stability amidst de-dollarization.
+* Aerospace Corporate Strategy: Capitalizing on the commercial space economy, asteroid mining, and satellite constellations.
+* Global Supply Chain Resilience: Diversifying semiconductor and critical mineral supply chains away from geopolitical flashpoints.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Hypersonic Glide Vehicles & Strategic Deterrence Rupture''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Escalation Miscalculation: Autonomous drone and cyber systems triggering unintentional kinetic war escalation.
+* Tragedy of the Commons: Orbit and deep-sea environments degraded by unregulated private commercial exploitation.
+* Financial Weaponization Backlash: Over-reliance on economic sanctions accelerating the fragmentation of global payment networks.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Hypersonic Glide Vehicles & Strategic Deterrence Rupture''' directly reinforces:
+* '''Primary Competency (Designing)''': Cultivates advanced professional rigor in executing designing-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Richard Speier|year=2020|title=Security & Space Foresight: Hypersonic Glide Vehicles & Strategic Deterrence Rupture|journal=Parameters|volume=50|issue=2|pages=45-60}}
+{{Foresight_Citation|author=Singer, P. W.|year=2009|title=Wired for War: The Robotics Revolution and Conflict in the 21st Century|publisher=Penguin}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Applied Sectoral Foresight: Security, Space & Economy]]
+[[Category:APF Competency - Designing]]
+[[Category:APF Article Status - Draft]]

@@ -1,0 +1,41 @@
+<includeonly>{| class="infobox foresight-media" style="width: 23em; font-size: 90%; border: 1px solid #cbd5e1; background: #ffffff; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); margin: 0 0 1.5em 1.5em; float: right; border-collapse: separate; border-spacing: 0; overflow: hidden;"
+|-
+! colspan="2" style="background: linear-gradient(135deg, #0f172a 0%, #0369a1 100%); color: white; padding: 14px 12px; font-size: 1.25em; text-align: center; font-weight: 700; border-bottom: 2px solid #38bdf8;" | {{{title|{{PAGENAME}}}}}
+|- style="background: #f8fafc;"
+| colspan="2" style="text-align: center; font-size: 85%; color: #64748b; padding: 6px; border-bottom: 1px solid #e2e8f0;" | <strong>APF Foresight Digital &amp; Broadcast Media</strong>
+|-
+! style="text-align: left; padding: 8px 10px; color: #475569; width: 35%; border-bottom: 1px solid #f1f5f9;" | Host(s) / Speaker(s)
+| style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" | {{{host|{{{speaker|}}}}}}
+|-
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" | Media Format
+| style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" | <strong>{{{media_type|Podcast}}}</strong>
+{{#if:{{{production_entity|}}}|
+{{!-}}
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" {{!}} Production / Network
+{{!}} style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" {{!}} {{{production_entity}}}
+}}
+|-
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" | Active Years / Date
+| style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" | {{{years|{{{date|}}}}}}
+|-
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" | APF Competency
+| style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" | {{APF_Competency_Badge|competency={{{apf_competency|Leading}}}}}
+|-
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" | Thematic Domain
+| style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" | {{{pillar|}}}
+{{#if:{{{platform_url|}}}|
+{{!-}}
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" {{!}} Official Access
+{{!}} style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" {{!}} [{{{platform_url}}} Access Resource ↗]
+}}
+{{#if:{{{key_episodes|}}}|
+{{!-}}
+! style="text-align: left; padding: 8px 10px; color: #475569; border-bottom: 1px solid #f1f5f9;" {{!}} Featured Content
+{{!}} style="padding: 8px 10px; border-bottom: 1px solid #f1f5f9;" {{!}} {{{key_episodes}}}
+}}
+|}
+[[Category:APF Foresight Canon - Media]]
+[[Category:APF Competency - {{{apf_competency|Leading}}}]]
+</includeonly><noinclude>
+Template documentation for Infobox_Foresight_Media.
+</noinclude>

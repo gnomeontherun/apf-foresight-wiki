@@ -1,0 +1,61 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Futuring}}
+{{Infobox Foresight Method
+| name = The Three Horizons Framework (Bill Sharpe)
+| originator = Bill Sharpe (2013), Andrew Curry & Anthony Hodgson (2008)
+| year_introduced = International Futures Forum (IFF)
+| apf_competency = Futuring
+| paradigm = Exploratory, Plausible & Critical Foresight
+| horizon_focus = Horizon 2 / Horizon 3
+| time_horizon = 5–25 Years
+| format = Expert Facilitated Workshop / Analytical Modeling
+| complexity = Intermediate to Advanced
+| outputs = Prioritized driver maps, scenario matrices, robust strategic pathways
+| related_methods = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]], [[The Three Horizons Framework (Bill Sharpe)|Three Horizons]]
+}}
+
+== Executive Summary & Definition ==
+'''The Three Horizons Framework (Bill Sharpe)''' is an authoritative subject within '''Core Foresight Methodologies & Frameworks''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Futuring|APF Core Competency: Futuring]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+A dynamic facilitation and strategic dialogue model mapping how dominant operating systems decline and emergent systems arise across three temporal horizons.
+
+== Origins & Theoretical Lineage ==
+Originally articulated in a business strategy context by Baghai, Coley, and White (McKinsey), the model was radically re-conceived as a futures transformation methodology by Anthony Hodgson, Andrew Curry, and philosopher Bill Sharpe at the International Futures Forum (IFF). In his 2013 book Three Horizons: The Patterning of Hope, Sharpe established it as a shared language connecting managerial pragmatism, entrepreneurial innovation, and visionary transformation.
+
+== Step-by-Step Facilitation & Execution Architecture ==
+Executing '''The Three Horizons Framework (Bill Sharpe)''' requires a disciplined, multistage facilitation process to ensure analytical rigor and deep stakeholder engagement:
+# '''Step 1''': Horizon 1 (H1) - The Current Prevailing System: The established way of doing things that provides current stability but is losing fitness as conditions change.
+# '''Step 2''': Horizon 3 (H3) - The Emergent Transformative Future: The visionary seeds of a fundamentally new system already visible on the fringe today.
+# '''Step 3''': Horizon 2 (H2) - The Turbulent Transition Zone: The contested space of intermediate innovations, dilemmas, and market disruption.
+# '''Step 4''': H2+ vs. H2- Diagnostic: Crucial distinction—H2- innovations are captured by H1 to prolong the incumbent system, whereas H2+ innovations act as stepping stones enabling H3 transformation.
+# '''Step 5''': Collaborative Dialogue: Moving participants from defensive turf wars to recognizing that all three horizons must collaborate in the present.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''The Three Horizons Framework (Bill Sharpe)''' is routinely utilized to:
+* Organizational Transformation: Aligning legacy operations teams (H1), internal innovation labs (H2), and long-term strategy units (H3).
+* Health System Redesign: Transitioning from acute hospital-centric care (H1) through digital telehealth (H2) to preventative community wellness (H3).
+* Energy Grid Modernization: Moving from centralized fossil-fuel baseload (H1) through bridge gas/hybrid grids (H2) to distributed renewables (H3).
+* Public Sector Policy Reform: Designing legislative pathways that foster H2+ stepping-stone innovations while phasing out H1 subsidies.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''The Three Horizons Framework (Bill Sharpe)''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Linear Horizon Compression: Treating H1, H2, and H3 as rigid sequential decades rather than concurrent mindsets existing in the present.
+* H2 Capture Vulnerability: Inability of workshop teams to distinguish between H2- sustaining innovations and true H2+ transformative innovations.
+* Visionary Alienation: H3 visions formulated without practical H2 stepping stones are dismissed by executive leadership as impractical fantasy.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''The Three Horizons Framework (Bill Sharpe)''' directly reinforces:
+* '''Primary Competency (Futuring)''': Cultivates advanced professional rigor in executing futuring-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Sharpe, B.|year=2013|title=Three Horizons: The Patterning of Hope|publisher=Triarchy Press}}
+{{Foresight_Citation|author=Curry, A. & Hodgson, A.|year=2008|title=Seeing in multiple horizons: Connecting futures to strategy|journal=Journal of Futures Studies|volume=13|issue=1|pages=1-20}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Core Foresight Methodologies & Frameworks]]
+[[Category:APF Competency - Futuring]]
+[[Category:APF Article Status - Draft]]

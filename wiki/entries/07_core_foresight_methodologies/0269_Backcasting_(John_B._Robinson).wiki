@@ -1,0 +1,61 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Futuring}}
+{{Infobox Foresight Method
+| name = Backcasting (John B. Robinson)
+| originator = John B. Robinson (1982, 1990)
+| year_introduced = University of British Columbia
+| apf_competency = Futuring
+| paradigm = Exploratory, Plausible & Critical Foresight
+| horizon_focus = Horizon 2 / Horizon 3
+| time_horizon = 5–25 Years
+| format = Expert Facilitated Workshop / Analytical Modeling
+| complexity = Intermediate to Advanced
+| outputs = Prioritized driver maps, scenario matrices, robust strategic pathways
+| related_methods = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]], [[The Three Horizons Framework (Bill Sharpe)|Three Horizons]]
+}}
+
+== Executive Summary & Definition ==
+'''Backcasting (John B. Robinson)''' is an authoritative subject within '''Core Foresight Methodologies & Frameworks''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Futuring|APF Core Competency: Futuring]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+A normative planning methodology that defines a desirable, sustainable future goal and works backwards to identify the required strategic milestones.
+
+== Origins & Theoretical Lineage ==
+Developed by Canadian energy analyst John B. Robinson in the early 1980s as a counterpoint to conventional energy forecasting, which consistently extrapolated rising fossil fuel consumption. Robinson showed that forecasting was fundamentally biased toward reproducing the status quo. Backcasting shifts the paradigm: rather than asking 'Where will trends take us?', it asks 'What future do we want, and how can we build a feasible path to achieve it?'
+
+== Step-by-Step Facilitation & Execution Architecture ==
+Executing '''Backcasting (John B. Robinson)''' requires a disciplined, multistage facilitation process to ensure analytical rigor and deep stakeholder engagement:
+# '''Step 1''': Stage 1 - Normative Visioning: Articulating a rigorous, internally consistent, and desirable future end-state (e.g., net-zero circular city in 2050).
+# '''Step 2''': Stage 2 - Feasibility & Sustainability Criteria: Establishing strict physical, ecological, social, and economic boundary conditions that the vision must respect.
+# '''Step 3''': Stage 3 - Reverse Milestone Mapping: Tracing backwards from 2050 to 2040, 2035, 2030, and 2025, identifying critical institutional decisions and inflection points.
+# '''Step 4''': Stage 4 - Gap & Obstacle Analysis: Identifying current policy lock-ins, institutional veto players, and market barriers that obstruct the backcasted pathway.
+# '''Step 5''': Stage 5 - Near-Term Action Agenda: Deriving immediate strategic actions, pilot projects, and regulatory changes required in the next 12-36 months.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Backcasting (John B. Robinson)''' is routinely utilized to:
+* Net-Zero Decarbonization Pathways: Formulating municipal and national climate neutrality roadmaps for 2050.
+* Circular Economy Infrastructure: Backcasting resource recovery milestones from zero-waste industrial mandates.
+* Urban Transportation Planning: Designing transit-oriented cities by working backwards from automobile-free urban centers.
+* Corporate Long-Range Strategy: Reverse-engineering capital investments required to achieve bold 20-year moonshot goals.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Backcasting (John B. Robinson)''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Wishful Thinking Fallacy: Drafting utopian end-state visions that violate thermodynamic, material, or economic physical laws.
+* Technological Determinism: Assuming breakthrough bridge technologies will automatically materialize exactly on the required schedule.
+* Political Resistance: Near-term incumbent lobbies blocking the necessary near-term policy interventions required to open the path.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Backcasting (John B. Robinson)''' directly reinforces:
+* '''Primary Competency (Futuring)''': Cultivates advanced professional rigor in executing futuring-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Robinson, J. B.|year=1982|title=Energy backcasting: A proposed method of policy analysis|journal=Energy Policy|volume=10|issue=4|pages=337-344|doi=10.1016/0301-4215(82)90048-9}}
+{{Foresight_Citation|author=Robinson, J. B.|year=1990|title=Futures under glass: A recipe for people who hate to predict|journal=Futures|volume=22|issue=8|pages=820-842|doi=10.1016/0016-3287(90)90018-D}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Core Foresight Methodologies & Frameworks]]
+[[Category:APF Competency - Futuring]]
+[[Category:APF Article Status - Draft]]

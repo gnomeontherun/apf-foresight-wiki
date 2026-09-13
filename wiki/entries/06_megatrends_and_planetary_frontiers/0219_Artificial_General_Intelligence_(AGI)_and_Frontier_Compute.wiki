@@ -1,0 +1,57 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Scanning}}
+{{Infobox Foresight Concept
+| name = Artificial General Intelligence (AGI) & Frontier Compute
+| domain = Core Megatrends, Planetary Frontiers & Polycrisis
+| theorists = Nick Bostrom, Stuart Russell, Rich Sutton
+| apf_competency = Scanning
+| era = Contemporary Foresight Practice
+| alt_terms = Related Systems Thinking Concepts
+| related_frameworks = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]]
+| application = Anticipatory Governance, Decision Scaffolding, Strategic Agility
+}}
+
+== Executive Summary & Definition ==
+'''Artificial General Intelligence (AGI) & Frontier Compute''' is an authoritative subject within '''Core Megatrends, Planetary Frontiers & Polycrisis''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Scanning|APF Core Competency: Scanning]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+The trajectory of machine intelligence toward systems that match or surpass human cognitive capabilities across virtually all economically valuable domains.
+
+== Origins & Theoretical Lineage ==
+Rooted in computational history from Alan Turing and John von Neumann to modern deep learning scaling laws (Kaplan et al., Chinchilla). The emergence of large foundation models has accelerated timelines for human-level artificial intelligence, elevating AGI from a theoretical science fiction trope to an urgent focus of geopolitical competition, economic restructuring, and existential risk research.
+
+== Core Systemic Dimensions, Dynamics & Tipping Points ==
+A rigorous understanding of '''Artificial General Intelligence (AGI) & Frontier Compute''' entails examining its constituent structural dimensions and non-linear dynamics:
+* Compute Scaling Laws: Empirical power-law relationships demonstrating predictable performance improvements as training compute, parameters, and datasets scale.
+* Autonomous Agentic Architectures: The evolution from passive question-answering LLMs to autonomous agent swarms capable of self-directed multi-step task execution.
+* The AI Alignment Problem: The profound technical challenge of ensuring superintelligent systems reliably pursue intended human ethical values.
+* Cognitive Labor Disruption: The macroeconomic displacement and restructuring of knowledge work, software engineering, law, and medicine.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Artificial General Intelligence (AGI) & Frontier Compute''' is routinely utilized to:
+* Enterprise Strategic Automation: Redesigning corporate workflows around autonomous multi-agent cognitive systems.
+* National Security & Defense Scenarios: Modeling automated cyber-warfare, drone swarm deterrence, and sovereign AI compute clusters.
+* Anticipatory Labor Policy: Designing universal basic income (UBI), robot automation taxes, and lifelong educational retraining models.
+* Global AI Governance: Formulating multilateral treaties for frontier model compute tracking and biosecurity safety evaluations.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Artificial General Intelligence (AGI) & Frontier Compute''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Anthropomorphic Projection: Assuming AI minds will think, feel, or exhibit motivations identical to human psychological constructs.
+* Hype Cycle Extreme: Oscillating between hyperbolic techno-messianic euphoria and apocalyptic doom without evaluating physical bottlenecks.
+* Energy & Compute Limits: Underestimating the massive electrical power grid and water-cooling constraints of training frontier AI clusters.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Artificial General Intelligence (AGI) & Frontier Compute''' directly reinforces:
+* '''Primary Competency (Scanning)''': Cultivates advanced professional rigor in executing scanning-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Bostrom, N.|year=2014|title=Superintelligence: Paths, Dangers, Strategies|publisher=Oxford University Press}}
+{{Foresight_Citation|author=Russell, S.|year=2019|title=Human Compatible: Artificial Intelligence and the Problem of Control|publisher=Viking}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Core Megatrends, Planetary Frontiers & Polycrisis]]
+[[Category:APF Competency - Scanning]]
+[[Category:APF Article Status - Draft]]

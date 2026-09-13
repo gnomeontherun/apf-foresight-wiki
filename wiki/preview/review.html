@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>APF Editorial Review & Peer Validation Portal — APF Global Foresight Wiki</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="preview.css">
+    <style>
+        .review-hero {
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #334155 100%);
+            color: white;
+            padding: 40px;
+            border-radius: 16px;
+            margin-bottom: 30px;
+            box-shadow: var(--shadow-lg);
+            border-left: 6px solid #f59e0b;
+        }
+        .review-badge {
+            display: inline-block;
+            background: rgba(245, 158, 11, 0.2);
+            border: 1px solid #f59e0b;
+            color: #fbbf24;
+            font-size: 11.5px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            padding: 4px 12px;
+            border-radius: 20px;
+            margin-bottom: 12px;
+        }
+        .progress-track {
+            background: rgba(255, 255, 255, 0.1);
+            height: 12px;
+            border-radius: 6px;
+            overflow: hidden;
+            margin: 16px 0 8px 0;
+        }
+        .progress-fill {
+            background: linear-gradient(90deg, #f59e0b, #10b981);
+            height: 100%;
+            width: 0%;
+            transition: width 0.4s ease;
+        }
+        .rubric-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 16px;
+            margin: 24px 0 35px 0;
+        }
+        .rubric-card {
+            background: var(--bg-surface);
+            border: 1px solid var(--border-light);
+            border-radius: 10px;
+            padding: 18px;
+            border-top: 3px solid var(--apf-accent);
+        }
+        .rubric-card h4 {
+            margin: 0 0 8px 0;
+            color: var(--text-main);
+            font-size: 15px;
+        }
+        .rubric-card p {
+            margin: 0;
+            font-size: 13px;
+            color: var(--text-muted);
+            line-height: 1.5;
+        }
+        .review-table-wrap {
+            background: var(--bg-surface);
+            border: 1px solid var(--border-light);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: var(--shadow-sm);
+        }
+        .review-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13.5px;
+        }
+        .review-table th {
+            background: var(--border-subtle);
+            padding: 12px 16px;
+            text-align: left;
+            font-weight: 700;
+            color: var(--text-main);
+            border-bottom: 1px solid var(--border-light);
+        }
+        .review-table td {
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--border-subtle);
+            color: var(--text-main);
+            vertical-align: middle;
+        }
+        .review-table tr:hover td {
+            background: rgba(2, 132, 199, 0.04);
+        }
+        .status-pill-draft {
+            display: inline-block;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 11.5px;
+            font-weight: 700;
+            background: #fef3c7;
+            color: #92400e;
+            border: 1px solid #fde68a;
+        }
+        .action-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 600;
+            text-decoration: none;
+            background: var(--apf-navy);
+            color: white !important;
+            transition: opacity 0.15s ease;
+        }
+        .action-btn:hover {
+            opacity: 0.9;
+        }
+        .action-btn-secondary {
+            background: var(--border-subtle);
+            color: var(--text-main) !important;
+            border: 1px solid var(--border-light);
+        }
+        /* Review Checklist Modal */
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(15, 23, 42, 0.7);
+            backdrop-filter: blur(4px);
+            z-index: 9999;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .modal-overlay.open {
+            display: flex;
+        }
+        .modal-box {
+            background: var(--bg-surface);
+            border: 1px solid var(--border-light);
+            border-radius: 12px;
+            max-width: 680px;
+            width: 100%;
+            max-height: 90vh;
+            overflow-y: auto;
+            padding: 28px;
+            box-shadow: var(--shadow-lg);
+        }
+    </style>
+</head>
+<body>
+    <div id="sidebar-mount"></div>
+
+    <main class="content-wrap">
+        <header class="apf-top-bar">
+            <div class="breadcrumbs">
+                <a href="index.html">Main Portal</a> &rsaquo;
+                <strong>APF Editorial Review &amp; Peer Validation Queue</strong>
+            </div>
+            <div style="display: flex; gap: 12px; align-items: center;">
+                <button type="button" class="theme-toggle-btn tool-btn" title="Toggle Dark/Light Mode">🌓 Theme</button>
+                <a href="resources.html" class="tool-btn">📚 Media Hub</a>
+                <a href="index.html" class="tool-btn">⌂ Main Portal</a>
+            </div>
+        </header>
+
+        <div class="article-container" style="max-width: 1200px;">
+            <section class="review-hero">
+                <span class="review-badge">APF Peer Review Validation Protocol</span>
+                <h1 style="font-size: 32px; margin: 0 0 10px 0; color: white;">Editorial Review &amp; Audit Queue</h1>
+                <p style="font-size: 15px; line-height: 1.6; color: #cbd5e1; max-width: 850px; margin: 0 0 16px 0;">
+                    To uphold the highest scholarly and practical standards, every entry in the 1,000-article APF Global Foresight Wiki begins in <strong>Working Draft</strong> status. APF Full Members, accredited fellows, and academic chairs evaluate entries against the 4-Point Peer Review Rubric before elevation to canonical status.
+                </p>
+
+                <div style="display: flex; gap: 24px; flex-wrap: wrap; margin-top: 20px;">
+                    <div>
+                        <div style="font-size: 26px; font-weight: 800; color: #fbbf24;" id="statDraftCount">1,000</div>
+                        <div style="font-size: 12px; color: #94a3b8; text-transform: uppercase; font-weight: 600;">Drafts Awaiting Review</div>
+                    </div>
+                    <div>
+                        <div style="font-size: 26px; font-weight: 800; color: #38bdf8;" id="statInReviewCount">0</div>
+                        <div style="font-size: 12px; color: #94a3b8; text-transform: uppercase; font-weight: 600;">In Peer Review</div>
+                    </div>
+                    <div>
+                        <div style="font-size: 26px; font-weight: 800; color: #34d399;" id="statApprovedCount">0</div>
+                        <div style="font-size: 12px; color: #94a3b8; text-transform: uppercase; font-weight: 600;">Peer Reviewed &amp; Approved</div>
+                    </div>
+                    <div>
+                        <div style="font-size: 26px; font-weight: 800; color: white;" id="statTotalCount">1,000</div>
+                        <div style="font-size: 12px; color: #94a3b8; text-transform: uppercase; font-weight: 600;">Total Canon Articles</div>
+                    </div>
+                </div>
+
+                <div class="progress-track">
+                    <div class="progress-fill" id="progressFill" style="width: 0%;"></div>
+                </div>
+                <div style="font-size: 12px; color: #94a3b8; text-align: right;">0% Canonical Validation Progress</div>
+            </section>
+
+            <!-- 4-Point Rubric -->
+            <h3 style="font-size: 18px; margin-bottom: 6px; color: var(--text-main);">APF 4-Point Peer Review Rubric</h3>
+            <p style="font-size: 13.5px; color: var(--text-muted); margin-bottom: 16px;">All submitted peer evaluations must audit entries across these four criteria:</p>
+
+            <div class="rubric-grid">
+                <div class="rubric-card">
+                    <h4>1. Historical &amp; Epistemic Lineage</h4>
+                    <p>Verify that theoretical originators, landmark founding years, institutional nodes, and historical shifts are accurate and non-hallucinated.</p>
+                </div>
+                <div class="rubric-card">
+                    <h4>2. Methodological Rigor</h4>
+                    <p>Ensure facilitation steps, workshop durations, participant scale, and failure modes reflect actionable, professional foresight practice.</p>
+                </div>
+                <div class="rubric-card">
+                    <h4>3. Primary Literature Verification</h4>
+                    <p>Audit and replace any formulaic citations with genuine canonical books, journal papers, and reports with valid DOIs/ISBNs.</p>
+                </div>
+                <div class="rubric-card">
+                    <h4>4. Pluriversal &amp; Bias Audit</h4>
+                    <p>Examine whether entries acknowledge non-Western epistemologies, cognitive biases, decolonial critiques, and systemic limitations.</p>
+                </div>
+            </div>
+
+            <!-- Review Queue Filters & Search -->
+            <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 14px; margin-bottom: 18px;">
+                <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+                    <input type="text" id="queueSearch" class="search-input" placeholder="Filter articles by title or keyword..." style="max-width: 320px; font-size: 13px;">
+                    <select id="pillarFilter" class="tool-btn" style="padding: 7px 12px; font-size: 13px;">
+                        <option value="all">All 20 Pillars</option>
+                    </select>
+                    <select id="compFilter" class="tool-btn" style="padding: 7px 12px; font-size: 13px;">
+                        <option value="all">All 6 Competencies</option>
+                        <option value="Framing">Framing</option>
+                        <option value="Scanning">Scanning</option>
+                        <option value="Futuring">Futuring</option>
+                        <option value="Designing">Designing</option>
+                        <option value="Adapting">Adapting</option>
+                        <option value="Leading">Leading</option>
+                    </select>
+                </div>
+                <div style="font-size: 13px; color: var(--text-muted);" id="queueResultsCount">Showing 1,000 articles</div>
+            </div>
+
+            <!-- Table of Entries -->
+            <div class="review-table-wrap">
+                <table class="review-table">
+                    <thead>
+                        <tr>
+                            <th style="width: 70px;">ID</th>
+                            <th>Article Title</th>
+                            <th>Pillar</th>
+                            <th>Competency</th>
+                            <th style="width: 140px;">Status</th>
+                            <th style="width: 220px; text-align: right;">Review Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="queueTableBody">
+                        <!-- Populated by JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+            
+            <div id="paginationControls" style="display: flex; justify-content: space-between; align-items: center; margin-top: 18px;">
+                <button type="button" id="prevPageBtn" class="tool-btn">&larr; Previous Page</button>
+                <span id="pageIndicator" style="font-size: 13px; color: var(--text-muted);">Page 1 of 20</span>
+                <button type="button" id="nextPageBtn" class="tool-btn">Next Page &rarr;</button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Review Checklist Modal -->
+    <div class="modal-overlay" id="reviewModal">
+        <div class="modal-box">
+            <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px;">
+                <div>
+                    <span class="status-pill-draft" style="margin-bottom: 6px;">Peer Review Audit Rubric</span>
+                    <h2 id="modalArticleTitle" style="margin: 4px 0 0 0; font-size: 20px; color: var(--text-main);">Article Title</h2>
+                </div>
+                <button type="button" id="closeModalBtn" style="background: none; border: none; font-size: 24px; cursor: pointer; color: var(--text-muted);">&times;</button>
+            </div>
+
+            <div style="font-size: 13px; color: var(--text-muted); margin-bottom: 16px;" id="modalArticleMeta"></div>
+
+            <form id="reviewForm" onsubmit="event.preventDefault(); copyReviewTemplate();">
+                <div style="background: var(--border-subtle); padding: 14px; border-radius: 8px; margin-bottom: 16px; font-size: 13px; line-height: 1.5;">
+                    <strong>Reviewer Instructions:</strong> Copy this checklist to submit an official audit via Git Pull Request, GitHub Issue, or to the APF Editorial Council.
+                </div>
+
+                <div style="display: flex; flex-direction: column; gap: 10px; margin-bottom: 20px; font-size: 13.5px;">
+                    <label style="display: flex; align-items: center; gap: 8px;">
+                        <input type="checkbox" id="chk1" checked> 1. Originator &amp; lineage historically verified
+                    </label>
+                    <label style="display: flex; align-items: center; gap: 8px;">
+                        <input type="checkbox" id="chk2" checked> 2. Methodological mechanics practically sound
+                    </label>
+                    <label style="display: flex; align-items: center; gap: 8px;">
+                        <input type="checkbox" id="chk3" checked> 3. Citations verified against genuine publications
+                    </label>
+                    <label style="display: flex; align-items: center; gap: 8px;">
+                        <input type="checkbox" id="chk4" checked> 4. Failure modes and biases accurately identified
+                    </label>
+                </div>
+
+                <div style="display: flex; justify-content: flex-end; gap: 10px;">
+                    <button type="button" id="copyChecklistBtn" class="tool-btn" style="background: var(--apf-navy); color: white; padding: 8px 16px; font-weight: 600;">
+                        📋 Copy Audit Checklist to Clipboard
+                    </button>
+                    <a id="modalReadBtn" href="#" target="_blank" class="tool-btn" style="padding: 8px 16px;">
+                        Read Full Article ↗
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="preview_data.js"></script>
+    <script src="preview_app.js"></script>
+    <script>
+        (function() {
+            const catalog = window.APF_CATALOG || [];
+            const tbody = document.getElementById('queueTableBody');
+            const searchInput = document.getElementById('queueSearch');
+            const pillarSelect = document.getElementById('pillarFilter');
+            const compSelect = document.getElementById('compFilter');
+            const resultsCount = document.getElementById('queueResultsCount');
+            const prevBtn = document.getElementById('prevPageBtn');
+            const nextBtn = document.getElementById('nextPageBtn');
+            const pageIndicator = document.getElementById('pageIndicator');
+            const modal = document.getElementById('reviewModal');
+            const closeModalBtn = document.getElementById('closeModalBtn');
+            const modalTitle = document.getElementById('modalArticleTitle');
+            const modalMeta = document.getElementById('modalArticleMeta');
+            const modalReadBtn = document.getElementById('modalReadBtn');
+            const copyBtn = document.getElementById('copyChecklistBtn');
+
+            // Populate pillars
+            const pillarsSeen = {};
+            catalog.forEach(item => {
+                if (!pillarsSeen[item.p]) {
+                    pillarsSeen[item.p] = item.pName;
+                }
+            });
+            Object.keys(pillarsSeen).sort((a,b) => Number(a) - Number(b)).forEach(pNum => {
+                const opt = document.createElement('option');
+                opt.value = pNum;
+                opt.textContent = `Pillar ${pNum}: ${pillarsSeen[pNum]}`;
+                pillarSelect.appendChild(opt);
+            });
+
+            let currentPage = 1;
+            const pageSize = 50;
+            let filteredList = catalog;
+            let currentActiveItem = null;
+
+            function renderTable() {
+                const totalPages = Math.ceil(filteredList.length / pageSize) || 1;
+                if (currentPage > totalPages) currentPage = totalPages;
+                if (currentPage < 1) currentPage = 1;
+
+                const start = (currentPage - 1) * pageSize;
+                const pageItems = filteredList.slice(start, start + pageSize);
+
+                tbody.innerHTML = pageItems.map(item => `
+                    <tr>
+                        <td style="font-family: monospace; color: var(--text-muted); font-size: 12px;">#${String(item.id).padStart(4, '0')}</td>
+                        <td>
+                            <strong style="color: var(--text-main); font-size: 14px;">${item.t}</strong>
+                            <div style="font-size: 11.5px; color: var(--text-muted); margin-top: 2px;">${item.a || 'General Foresight Lineage'}</div>
+                        </td>
+                        <td style="font-size: 12.5px;">Pillar ${item.p}</td>
+                        <td><span class="competency-tag tag-${item.c}">✦ ${item.c}</span></td>
+                        <td><span class="status-pill-draft">📝 Draft (Pre-Review)</span></td>
+                        <td style="text-align: right;">
+                            <a href="articles/${item.s}.html" class="action-btn action-btn-secondary" style="margin-right: 6px;">Read</a>
+                            <button type="button" class="action-btn review-item-btn" data-id="${item.id}">Evaluate ✍</button>
+                        </td>
+                    </tr>
+                `).join('');
+
+                resultsCount.textContent = `Showing ${filteredList.length.toLocaleString()} articles (${start + 1}–${Math.min(start + pageSize, filteredList.length)})`;
+                pageIndicator.textContent = `Page ${currentPage} of ${totalPages}`;
+                prevBtn.disabled = currentPage === 1;
+                nextBtn.disabled = currentPage === totalPages;
+
+                // Attach modal handlers
+                document.querySelectorAll('.review-item-btn').forEach(btn => {
+                    btn.addEventListener('click', () => {
+                        const id = Number(btn.getAttribute('data-id'));
+                        openReviewModal(id);
+                    });
+                });
+            }
+
+            function applyFilters() {
+                const term = searchInput.value.trim().toLowerCase();
+                const pVal = pillarSelect.value;
+                const cVal = compSelect.value;
+
+                filteredList = catalog.filter(item => {
+                    const matchTerm = !term || item.t.toLowerCase().includes(term) || (item.a && item.a.toLowerCase().includes(term));
+                    const matchPillar = pVal === 'all' || String(item.p) === pVal;
+                    const matchComp = cVal === 'all' || item.c === cVal;
+                    return matchTerm && matchPillar && matchComp;
+                });
+
+                currentPage = 1;
+                renderTable();
+            }
+
+            searchInput.addEventListener('input', applyFilters);
+            pillarSelect.addEventListener('change', applyFilters);
+            compSelect.addEventListener('change', applyFilters);
+
+            prevBtn.addEventListener('click', () => {
+                if (currentPage > 1) {
+                    currentPage--;
+                    renderTable();
+                }
+            });
+
+            nextBtn.addEventListener('click', () => {
+                const totalPages = Math.ceil(filteredList.length / pageSize);
+                if (currentPage < totalPages) {
+                    currentPage++;
+                    renderTable();
+                }
+            });
+
+            function openReviewModal(id) {
+                const item = catalog.find(x => x.id === id);
+                if (!item) return;
+                currentActiveItem = item;
+
+                modalTitle.textContent = item.t;
+                modalMeta.textContent = `ID #${item.id} • Pillar ${item.p}: ${item.pName} • APF Competency: ${item.c} • Word Count: ~${item.w} words`;
+                modalReadBtn.href = `articles/${item.s}.html`;
+                modal.classList.add('open');
+            }
+
+            closeModalBtn.addEventListener('click', () => modal.classList.remove('open'));
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) modal.classList.remove('open');
+            });
+
+            copyBtn.addEventListener('click', () => {
+                if (!currentActiveItem) return;
+                const template = `## APF Peer Review Evaluation Form
+**Article**: ${currentActiveItem.t} (ID #${currentActiveItem.id})
+**Pillar**: Pillar ${currentActiveItem.p} (${currentActiveItem.pName})
+**APF Core Competency**: ${currentActiveItem.c}
+**Reviewer**: [Insert APF Member Name / ID]
+**Date**: ${new Date().toISOString().split('T')[0]}
+
+### 4-Point Rubric Assessment:
+- [x] 1. Historical & Epistemic Lineage: [Pass / Revisions Needed]
+- [x] 2. Methodological Rigor: [Pass / Revisions Needed]
+- [x] 3. Primary Literature Authenticity: [Pass / Revisions Needed]
+- [x] 4. Pluriversal & Critical Bias Audit: [Pass / Revisions Needed]
+
+### Detailed Evaluation Notes:
+[Provide line-by-line feedback, required citation fixes, or confirmation of accuracy.]
+
+**Recommendation**: [ ] Approve as Canonical  [ ] Request Revisions  [ ] Flag for Sub-Committee Review
+`;
+                navigator.clipboard.writeText(template).then(() => {
+                    copyBtn.textContent = '✔ Copied Checklist!';
+                    setTimeout(() => copyBtn.textContent = '📋 Copy Audit Checklist to Clipboard', 2000);
+                });
+            });
+
+            renderTable();
+        })();
+    </script>
+</body>
+</html>

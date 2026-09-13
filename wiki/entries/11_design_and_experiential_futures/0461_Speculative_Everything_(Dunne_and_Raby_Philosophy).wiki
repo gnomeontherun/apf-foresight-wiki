@@ -1,0 +1,57 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Designing}}
+{{Infobox Foresight Tool
+| name = Speculative Everything (Dunne & Raby Philosophy)
+| developer = Anthony Dunne, Fiona Raby
+| format = Facilitation Canvas / Workshop Toolkit
+| apf_competency = Designing
+| group_size = 4–30 Participants
+| duration = 90–180 Minutes
+| outputs = Prioritized driver maps, scenario sketches, action matrices
+| license = Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+}}
+
+== Executive Summary & Definition ==
+'''Speculative Everything (Dunne & Raby Philosophy)''' is an authoritative subject within '''Design Futures, Speculative Fabulation & Diegetics''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Designing|APF Core Competency: Designing]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+A design philosophy that uses speculative design and critical prototypes not to solve present commercial problems, but to open up debate and question the future.
+
+== Origins & Theoretical Lineage ==
+Articulated by British design theorists Anthony Dunne and Fiona Raby in their landmark 2013 monograph Speculative Everything: Design, Fiction, and Social Dreaming. Building on their work heading the Design Interactions program at the Royal College of Art, Dunne and Raby positioned design as a catalytic medium for public debate, creating conceptual artifacts that challenge consumerist norms and embody alternative societal values.
+
+== Step-by-Step Facilitation & Execution Architecture ==
+Executing '''Speculative Everything (Dunne & Raby Philosophy)''' requires a disciplined, multistage facilitation process to ensure analytical rigor and deep stakeholder engagement:
+# '''Step 1''': Problem-Finding vs. Problem-Solving: Shifting design from creating market-ready commodities to formulating provocative questions about technological ethics.
+# '''Step 2''': Design as Critique: Utilizing physical artifacts and fictional consumer products to expose hidden political, economic, and ideological assumptions.
+# '''Step 3''': The Plausible/Preferable Cone: Positioning design concepts across cones of possibility (PTP: Probable, Plausible, Possible, Preferable).
+# '''Step 4''': Public Deliberation Catalyst: Exhibiting speculative design objects in public galleries and civic spaces to stimulate democratic discourse.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Speculative Everything (Dunne & Raby Philosophy)''' is routinely utilized to:
+* Technology Ethics: Provoking C-suites and ethicists to evaluate the societal implications of emerging bio-engineering and AI technologies.
+* Curatorial & Museum Exhibitions: Creating immersive museum installations that invite citizens to touch and evaluate alternative futures.
+* Speculative Corporate Foresight: Helping corporate R&D teams explore counter-intuitive applications of emerging patents.
+* Policy Debates: Using speculative physical artifacts to make abstract legislative issues tangible to parliamentarians.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Speculative Everything (Dunne & Raby Philosophy)''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Gallery Enclosure Trap: Risk that speculative design remains an elite art-gallery discourse disconnected from real-world manufacturing and public policy.
+* Eurocentric Privilege: Early speculative design was heavily criticized for reflecting affluent white European anxieties while ignoring global South realities.
+* Functional Ambiguity: Business executives frequently struggle to translate conceptual critical design objects into actionable commercial roadmaps.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Speculative Everything (Dunne & Raby Philosophy)''' directly reinforces:
+* '''Primary Competency (Designing)''': Cultivates advanced professional rigor in executing designing-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Dunne, A. & Raby, F.|year=2013|title=Speculative Everything: Design, Fiction, and Social Dreaming|publisher=MIT Press}}
+{{Foresight_Citation|author=Dunne, A. & Raby, F.|year=2001|title=Design Noir: The Secret Life of Electronic Objects|publisher=Birkhäuser}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Design Futures, Speculative Fabulation & Diegetics]]
+[[Category:APF Competency - Designing]]
+[[Category:APF Article Status - Draft]]

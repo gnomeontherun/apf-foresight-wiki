@@ -1,0 +1,42 @@
+<noinclude>
+= Template:Infobox Foresight Thinker =
+Biographical metadata for pioneering futurists, scholars, and foresight leaders.
+</noinclude>
+<includeonly>
+{| class="infobox" style="width: 24em; font-size: 90%; line-height: 1.4em; border: 1px solid #1e3a8a; background-color: #f8fafc; float: right; margin: 0 0 1em 1em; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-collapse: separate;"
+|-
+! colspan="2" style="background: linear-gradient(135deg, #1e3a8a, #3b82f6); color: white; padding: 10px; font-size: 125%; text-align: center; border-top-left-radius: 7px; border-top-right-radius: 7px;" | {{{name|{{PAGENAME}}}}}
+|-
+{{#if:{{{image|}}}|
+{{!}} colspan="2" style="text-align: center; padding: 6px;" {{!}} [[File:{{{image}}}|250px|center]]<br /><small style="color: #64748b;">{{{caption|}}}</small>
+{{!-}}
+}}
+|- style="background-color: #dbeafe; font-weight: bold; text-align: center;"
+| colspan="2" | Biographical Details
+|-
+! scope="row" style="text-align: left; padding: 4px 8px; width: 40%;" | Lifespan / Era
+| style="padding: 4px 8px;" | {{{lifespan|Contemporary}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Nationality
+| style="padding: 4px 8px;" | {{{nationality|International}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Primary Affiliation
+| style="padding: 4px 8px;" | {{{affiliation|Independent / Academic}}}
+|-
+{{#if:{{{apf_role|}}}|
+! scope="row" style="text-align: left; padding: 4px 8px; background-color: #e0f2fe;" {{!}} APF Role / Standing
+{{!}} style="padding: 4px 8px; background-color: #e0f2fe; font-weight: bold;" {{!}} {{{apf_role}}}
+{{!-}}
+}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Signature Concepts
+| style="padding: 4px 8px;" | {{{concepts|Unspecified}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Seminal Works
+| style="padding: 4px 8px;" | {{{major_works|Unspecified}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Honors & Awards
+| style="padding: 4px 8px;" | {{{honors|Unspecified}}}
+|}
+[[Category:Foresight Thinkers]]
+</includeonly>

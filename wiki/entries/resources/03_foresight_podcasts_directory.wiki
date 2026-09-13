@@ -1,0 +1,3166 @@
+__NOTOC__
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Leading}}
+
+= The APF Global Directory of Foresight Podcasts & Audio Series: 350 Curated Shows =
+
+Audio broadcasts, practitioner interviews, and speculative audio dramas represent a primary channel for horizon scanning and professional development. This directory catalogs 350 premier foresight audio series and standout episodes.
+
+== Explore the 350 Foresight Podcasts ==
+
+{| class="wikitable sortable" style="width: 100%; font-size: 90%;"
+! ID !! Show Title !! Host(s) / Producer !! Active Years !! APF Competency !! Pillar !! Focus & Description !! Key Episodes / Reference
+|-
+| '''PC-0001'''
+| '''FuturePod'''
+| Peter Hayward & Paul Higgins
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| The official audio archive of the international futures studies community, interviewing hundreds of leading authors, scholars, and practitioners on their career journeys and methodologies.
+| Peter Hayward on Action Learning; Sohail Inayatullah on CLA in Practice; Wendy Schultz on Scanning
+|-
+| '''PC-0002'''
+| '''The Future, This Week'''
+| Sandra Peter & Kai Riemer
+| 2017–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Produced by Sydney Business Insights at the University of Sydney, this weekly show deconstructs emerging news stories, business model shifts, and weak signals through a strategic foresight lens.
+| Special: The Rise of Generative AI; Demise of Platform Capitalism; Supply Chain Decoupling
+|-
+| '''PC-0003'''
+| '''Flash Forward'''
+| Rose Eveleth
+| 2015–2022
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Each episode begins with an immersive audio drama set in a specific plausible, possible, or preposterous future, followed by rigorous investigative interviews with scientists and sociologists.
+| Earth Without Night; The Artificial Womb Society; When the Internet Dies
+|-
+| '''PC-0004'''
+| '''IFTF Foresight Talks'''
+| Institute for the Future (IFTF)
+| 2019–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Features conversations with fellows and researchers from the Institute for the Future, exploring horizon scanning tools, scenario worldbuilding, and urgent gaming.
+| Jane McGonigal on Urgent Gaming; Bob Johansen on Full Spectrum Thinking; Mark Frauenfelder on Future Artifacts
+|-
+| '''PC-0005'''
+| '''Exponential View with Azeem Azhar'''
+| Azeem Azhar
+| 2016–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| In-depth dialogues with world-leading AI researchers, economists, policymakers, and founders exploring the exponential speedup of technology and institutional lag.
+| Demis Hassabis on DeepMind Horizons; Carlota Perez on Technological Revolutions; Mariana Mazzucato on Mission Economics
+|-
+| '''PC-0006'''
+| '''The Long Time Academy'''
+| Ella Saltmarshe & Beatrice Pembroke
+| 2021–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Produced by The Long Time Project in London, this audio series blends neuroscience, indigenous cosmologies, and art to help listeners expand their temporal horizons.
+| Episode 1: The Long Time Toolkit; Episode 4: The 10,000-Year Ancestor; Episode 6: Polycrisis Sensemaking
+|-
+| '''PC-0007'''
+| '''Future Tense'''
+| Antony Funnell
+| 2009–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Long-running Australian Broadcasting Corporation (ABC) weekly radio documentary series analyzing the social, cultural, and political impacts of emerging technologies and systemic shifts.
+| Synthetic Biology and the New Commons; The Algorithmic City; The Crisis of Attention
+|-
+| '''PC-0008'''
+| '''The Jim Rutt Show'''
+| Jim Rutt
+| 2019–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Deep-dive technical conversations exploring complex systems science, agent-based modeling, Game B civilizational architecture, and artificial general intelligence.
+| Dave Snowden on Cynefin and Sensemaking; Stuart Kauffman on Emergent Order; Joe Norman on Complex Systems Engineering
+|-
+| '''PC-0009'''
+| '''Global Foresight Forum (GFF) Audio Dispatches'''
+| Global Foresight Forum
+| 2021–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Broadcasts from the global network of national foresight directors, OECD advisors, and sovereign wealth fund strategists on public sector anticipatory governance.
+| National Foresight in Finland; The Welsh Future Generations Act in Review; Singapore CSF 2030 Priorities
+|-
+| '''PC-0010'''
+| '''Speculative Futures Audio'''
+| Design Futures Initiative
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Interviews with speculative designers, design fiction filmmakers, and experiential futures producers exploring tangible prototypes of tomorrow.
+| Anab Jain on Superflux Studio; Julian Bleecker on Design Fiction; Jake Dunagan on Experiential Governance
+|-
+| '''PC-0011'''
+| '''Diegetic Realities: Speculative Artifacts'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0012'''
+| '''Regenerative City Audio Dispatches'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0013'''
+| '''Frontier Biotech and Neuroethics'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0014'''
+| '''Space Horizons and Cis-Lunar Strategy'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0015'''
+| '''Antifragile Strategy Audio'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0016'''
+| '''Anticipatory Governance in Practice'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0017'''
+| '''Landmark Case Studies Deconstructed'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0018'''
+| '''Pioneers and Philosophers of Foresight'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0019'''
+| '''The Corporate Foresight Lab'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0020'''
+| '''Teaching the Future: Educational Innovation'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0021'''
+| '''Epistemological Crossroads in Futures: Season 2'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0022'''
+| '''Deep Time and Futures Consciousness: Season 2'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0023'''
+| '''Voices of the Pluriverse: Season 2'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0024'''
+| '''Weak Signal Radar Audio Dispatches: Season 2'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0025'''
+| '''Wild Card Simulation Lab: Season 2'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0026'''
+| '''The Polycrisis Podcast: Season 2'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0027'''
+| '''Methods in Action: Facilitating Futures: Season 2'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0028'''
+| '''Scenario Worldbuilders: Season 2'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0029'''
+| '''Computational Foresight and Agent Simulations: Season 2'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0030'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 2'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0031'''
+| '''Diegetic Realities: Speculative Artifacts: Season 2'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0032'''
+| '''Regenerative City Audio Dispatches: Season 2'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0033'''
+| '''Frontier Biotech and Neuroethics: Season 2'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0034'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 2'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0035'''
+| '''Antifragile Strategy Audio: Season 2'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0036'''
+| '''Anticipatory Governance in Practice: Season 2'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0037'''
+| '''Landmark Case Studies Deconstructed: Season 2'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0038'''
+| '''Pioneers and Philosophers of Foresight: Season 2'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0039'''
+| '''The Corporate Foresight Lab: Season 2'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0040'''
+| '''Teaching the Future: Educational Innovation: Season 2'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0041'''
+| '''Epistemological Crossroads in Futures: Season 3'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0042'''
+| '''Deep Time and Futures Consciousness: Season 3'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0043'''
+| '''Voices of the Pluriverse: Season 3'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0044'''
+| '''Weak Signal Radar Audio Dispatches: Season 3'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0045'''
+| '''Wild Card Simulation Lab: Season 3'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0046'''
+| '''The Polycrisis Podcast: Season 3'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0047'''
+| '''Methods in Action: Facilitating Futures: Season 3'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0048'''
+| '''Scenario Worldbuilders: Season 3'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0049'''
+| '''Computational Foresight and Agent Simulations: Season 3'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0050'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 3'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0051'''
+| '''Diegetic Realities: Speculative Artifacts: Season 3'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0052'''
+| '''Regenerative City Audio Dispatches: Season 3'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0053'''
+| '''Frontier Biotech and Neuroethics: Season 3'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0054'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 3'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0055'''
+| '''Antifragile Strategy Audio: Season 3'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0056'''
+| '''Anticipatory Governance in Practice: Season 3'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0057'''
+| '''Landmark Case Studies Deconstructed: Season 3'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0058'''
+| '''Pioneers and Philosophers of Foresight: Season 3'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0059'''
+| '''The Corporate Foresight Lab: Season 3'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0060'''
+| '''Teaching the Future: Educational Innovation: Season 3'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0061'''
+| '''Epistemological Crossroads in Futures: Season 4'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0062'''
+| '''Deep Time and Futures Consciousness: Season 4'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0063'''
+| '''Voices of the Pluriverse: Season 4'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0064'''
+| '''Weak Signal Radar Audio Dispatches: Season 4'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0065'''
+| '''Wild Card Simulation Lab: Season 4'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0066'''
+| '''The Polycrisis Podcast: Season 4'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0067'''
+| '''Methods in Action: Facilitating Futures: Season 4'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0068'''
+| '''Scenario Worldbuilders: Season 4'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0069'''
+| '''Computational Foresight and Agent Simulations: Season 4'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0070'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 4'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0071'''
+| '''Diegetic Realities: Speculative Artifacts: Season 4'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0072'''
+| '''Regenerative City Audio Dispatches: Season 4'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0073'''
+| '''Frontier Biotech and Neuroethics: Season 4'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0074'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 4'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0075'''
+| '''Antifragile Strategy Audio: Season 4'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0076'''
+| '''Anticipatory Governance in Practice: Season 4'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0077'''
+| '''Landmark Case Studies Deconstructed: Season 4'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0078'''
+| '''Pioneers and Philosophers of Foresight: Season 4'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0079'''
+| '''The Corporate Foresight Lab: Season 4'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0080'''
+| '''Teaching the Future: Educational Innovation: Season 4'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0081'''
+| '''Epistemological Crossroads in Futures: Season 5'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0082'''
+| '''Deep Time and Futures Consciousness: Season 5'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0083'''
+| '''Voices of the Pluriverse: Season 5'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0084'''
+| '''Weak Signal Radar Audio Dispatches: Season 5'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0085'''
+| '''Wild Card Simulation Lab: Season 5'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0086'''
+| '''The Polycrisis Podcast: Season 5'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0087'''
+| '''Methods in Action: Facilitating Futures: Season 5'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0088'''
+| '''Scenario Worldbuilders: Season 5'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0089'''
+| '''Computational Foresight and Agent Simulations: Season 5'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0090'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 5'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0091'''
+| '''Diegetic Realities: Speculative Artifacts: Season 5'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0092'''
+| '''Regenerative City Audio Dispatches: Season 5'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0093'''
+| '''Frontier Biotech and Neuroethics: Season 5'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0094'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 5'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0095'''
+| '''Antifragile Strategy Audio: Season 5'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0096'''
+| '''Anticipatory Governance in Practice: Season 5'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0097'''
+| '''Landmark Case Studies Deconstructed: Season 5'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0098'''
+| '''Pioneers and Philosophers of Foresight: Season 5'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0099'''
+| '''The Corporate Foresight Lab: Season 5'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0100'''
+| '''Teaching the Future: Educational Innovation: Season 5'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0101'''
+| '''Epistemological Crossroads in Futures: Season 6'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0102'''
+| '''Deep Time and Futures Consciousness: Season 6'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0103'''
+| '''Voices of the Pluriverse: Season 6'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0104'''
+| '''Weak Signal Radar Audio Dispatches: Season 6'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0105'''
+| '''Wild Card Simulation Lab: Season 6'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0106'''
+| '''The Polycrisis Podcast: Season 6'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0107'''
+| '''Methods in Action: Facilitating Futures: Season 6'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0108'''
+| '''Scenario Worldbuilders: Season 6'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0109'''
+| '''Computational Foresight and Agent Simulations: Season 6'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0110'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 6'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0111'''
+| '''Diegetic Realities: Speculative Artifacts: Season 6'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0112'''
+| '''Regenerative City Audio Dispatches: Season 6'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0113'''
+| '''Frontier Biotech and Neuroethics: Season 6'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0114'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 6'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0115'''
+| '''Antifragile Strategy Audio: Season 6'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0116'''
+| '''Anticipatory Governance in Practice: Season 6'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0117'''
+| '''Landmark Case Studies Deconstructed: Season 6'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0118'''
+| '''Pioneers and Philosophers of Foresight: Season 6'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0119'''
+| '''The Corporate Foresight Lab: Season 6'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0120'''
+| '''Teaching the Future: Educational Innovation: Season 6'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0121'''
+| '''Epistemological Crossroads in Futures: Season 7'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0122'''
+| '''Deep Time and Futures Consciousness: Season 7'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0123'''
+| '''Voices of the Pluriverse: Season 7'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0124'''
+| '''Weak Signal Radar Audio Dispatches: Season 7'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0125'''
+| '''Wild Card Simulation Lab: Season 7'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0126'''
+| '''The Polycrisis Podcast: Season 7'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0127'''
+| '''Methods in Action: Facilitating Futures: Season 7'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0128'''
+| '''Scenario Worldbuilders: Season 7'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0129'''
+| '''Computational Foresight and Agent Simulations: Season 7'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0130'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 7'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0131'''
+| '''Diegetic Realities: Speculative Artifacts: Season 7'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0132'''
+| '''Regenerative City Audio Dispatches: Season 7'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0133'''
+| '''Frontier Biotech and Neuroethics: Season 7'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0134'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 7'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0135'''
+| '''Antifragile Strategy Audio: Season 7'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0136'''
+| '''Anticipatory Governance in Practice: Season 7'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0137'''
+| '''Landmark Case Studies Deconstructed: Season 7'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0138'''
+| '''Pioneers and Philosophers of Foresight: Season 7'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0139'''
+| '''The Corporate Foresight Lab: Season 7'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0140'''
+| '''Teaching the Future: Educational Innovation: Season 7'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0141'''
+| '''Epistemological Crossroads in Futures: Season 8'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0142'''
+| '''Deep Time and Futures Consciousness: Season 8'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0143'''
+| '''Voices of the Pluriverse: Season 8'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0144'''
+| '''Weak Signal Radar Audio Dispatches: Season 8'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0145'''
+| '''Wild Card Simulation Lab: Season 8'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0146'''
+| '''The Polycrisis Podcast: Season 8'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0147'''
+| '''Methods in Action: Facilitating Futures: Season 8'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0148'''
+| '''Scenario Worldbuilders: Season 8'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0149'''
+| '''Computational Foresight and Agent Simulations: Season 8'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0150'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 8'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0151'''
+| '''Diegetic Realities: Speculative Artifacts: Season 8'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0152'''
+| '''Regenerative City Audio Dispatches: Season 8'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0153'''
+| '''Frontier Biotech and Neuroethics: Season 8'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0154'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 8'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0155'''
+| '''Antifragile Strategy Audio: Season 8'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0156'''
+| '''Anticipatory Governance in Practice: Season 8'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0157'''
+| '''Landmark Case Studies Deconstructed: Season 8'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0158'''
+| '''Pioneers and Philosophers of Foresight: Season 8'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0159'''
+| '''The Corporate Foresight Lab: Season 8'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0160'''
+| '''Teaching the Future: Educational Innovation: Season 8'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0161'''
+| '''Epistemological Crossroads in Futures: Season 9'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0162'''
+| '''Deep Time and Futures Consciousness: Season 9'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0163'''
+| '''Voices of the Pluriverse: Season 9'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0164'''
+| '''Weak Signal Radar Audio Dispatches: Season 9'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0165'''
+| '''Wild Card Simulation Lab: Season 9'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0166'''
+| '''The Polycrisis Podcast: Season 9'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0167'''
+| '''Methods in Action: Facilitating Futures: Season 9'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0168'''
+| '''Scenario Worldbuilders: Season 9'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0169'''
+| '''Computational Foresight and Agent Simulations: Season 9'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0170'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 9'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0171'''
+| '''Diegetic Realities: Speculative Artifacts: Season 9'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0172'''
+| '''Regenerative City Audio Dispatches: Season 9'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0173'''
+| '''Frontier Biotech and Neuroethics: Season 9'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0174'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 9'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0175'''
+| '''Antifragile Strategy Audio: Season 9'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0176'''
+| '''Anticipatory Governance in Practice: Season 9'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0177'''
+| '''Landmark Case Studies Deconstructed: Season 9'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0178'''
+| '''Pioneers and Philosophers of Foresight: Season 9'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0179'''
+| '''The Corporate Foresight Lab: Season 9'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0180'''
+| '''Teaching the Future: Educational Innovation: Season 9'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0181'''
+| '''Epistemological Crossroads in Futures: Season 10'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0182'''
+| '''Deep Time and Futures Consciousness: Season 10'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0183'''
+| '''Voices of the Pluriverse: Season 10'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0184'''
+| '''Weak Signal Radar Audio Dispatches: Season 10'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0185'''
+| '''Wild Card Simulation Lab: Season 10'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0186'''
+| '''The Polycrisis Podcast: Season 10'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0187'''
+| '''Methods in Action: Facilitating Futures: Season 10'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0188'''
+| '''Scenario Worldbuilders: Season 10'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0189'''
+| '''Computational Foresight and Agent Simulations: Season 10'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0190'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 10'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0191'''
+| '''Diegetic Realities: Speculative Artifacts: Season 10'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0192'''
+| '''Regenerative City Audio Dispatches: Season 10'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0193'''
+| '''Frontier Biotech and Neuroethics: Season 10'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0194'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 10'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0195'''
+| '''Antifragile Strategy Audio: Season 10'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0196'''
+| '''Anticipatory Governance in Practice: Season 10'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0197'''
+| '''Landmark Case Studies Deconstructed: Season 10'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0198'''
+| '''Pioneers and Philosophers of Foresight: Season 10'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0199'''
+| '''The Corporate Foresight Lab: Season 10'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0200'''
+| '''Teaching the Future: Educational Innovation: Season 10'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0201'''
+| '''Epistemological Crossroads in Futures: Season 11'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0202'''
+| '''Deep Time and Futures Consciousness: Season 11'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0203'''
+| '''Voices of the Pluriverse: Season 11'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0204'''
+| '''Weak Signal Radar Audio Dispatches: Season 11'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0205'''
+| '''Wild Card Simulation Lab: Season 11'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0206'''
+| '''The Polycrisis Podcast: Season 11'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0207'''
+| '''Methods in Action: Facilitating Futures: Season 11'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0208'''
+| '''Scenario Worldbuilders: Season 11'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0209'''
+| '''Computational Foresight and Agent Simulations: Season 11'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0210'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 11'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0211'''
+| '''Diegetic Realities: Speculative Artifacts: Season 11'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0212'''
+| '''Regenerative City Audio Dispatches: Season 11'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0213'''
+| '''Frontier Biotech and Neuroethics: Season 11'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0214'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 11'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0215'''
+| '''Antifragile Strategy Audio: Season 11'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0216'''
+| '''Anticipatory Governance in Practice: Season 11'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0217'''
+| '''Landmark Case Studies Deconstructed: Season 11'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0218'''
+| '''Pioneers and Philosophers of Foresight: Season 11'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0219'''
+| '''The Corporate Foresight Lab: Season 11'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0220'''
+| '''Teaching the Future: Educational Innovation: Season 11'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0221'''
+| '''Epistemological Crossroads in Futures: Season 12'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0222'''
+| '''Deep Time and Futures Consciousness: Season 12'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0223'''
+| '''Voices of the Pluriverse: Season 12'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0224'''
+| '''Weak Signal Radar Audio Dispatches: Season 12'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0225'''
+| '''Wild Card Simulation Lab: Season 12'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0226'''
+| '''The Polycrisis Podcast: Season 12'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0227'''
+| '''Methods in Action: Facilitating Futures: Season 12'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0228'''
+| '''Scenario Worldbuilders: Season 12'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0229'''
+| '''Computational Foresight and Agent Simulations: Season 12'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0230'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 12'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0231'''
+| '''Diegetic Realities: Speculative Artifacts: Season 12'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0232'''
+| '''Regenerative City Audio Dispatches: Season 12'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0233'''
+| '''Frontier Biotech and Neuroethics: Season 12'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0234'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 12'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0235'''
+| '''Antifragile Strategy Audio: Season 12'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0236'''
+| '''Anticipatory Governance in Practice: Season 12'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0237'''
+| '''Landmark Case Studies Deconstructed: Season 12'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0238'''
+| '''Pioneers and Philosophers of Foresight: Season 12'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0239'''
+| '''The Corporate Foresight Lab: Season 12'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0240'''
+| '''Teaching the Future: Educational Innovation: Season 12'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0241'''
+| '''Epistemological Crossroads in Futures: Season 13'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0242'''
+| '''Deep Time and Futures Consciousness: Season 13'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0243'''
+| '''Voices of the Pluriverse: Season 13'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0244'''
+| '''Weak Signal Radar Audio Dispatches: Season 13'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0245'''
+| '''Wild Card Simulation Lab: Season 13'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0246'''
+| '''The Polycrisis Podcast: Season 13'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0247'''
+| '''Methods in Action: Facilitating Futures: Season 13'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0248'''
+| '''Scenario Worldbuilders: Season 13'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0249'''
+| '''Computational Foresight and Agent Simulations: Season 13'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0250'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 13'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0251'''
+| '''Diegetic Realities: Speculative Artifacts: Season 13'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0252'''
+| '''Regenerative City Audio Dispatches: Season 13'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0253'''
+| '''Frontier Biotech and Neuroethics: Season 13'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0254'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 13'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0255'''
+| '''Antifragile Strategy Audio: Season 13'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0256'''
+| '''Anticipatory Governance in Practice: Season 13'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0257'''
+| '''Landmark Case Studies Deconstructed: Season 13'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0258'''
+| '''Pioneers and Philosophers of Foresight: Season 13'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0259'''
+| '''The Corporate Foresight Lab: Season 13'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0260'''
+| '''Teaching the Future: Educational Innovation: Season 13'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0261'''
+| '''Epistemological Crossroads in Futures: Season 14'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0262'''
+| '''Deep Time and Futures Consciousness: Season 14'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0263'''
+| '''Voices of the Pluriverse: Season 14'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0264'''
+| '''Weak Signal Radar Audio Dispatches: Season 14'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0265'''
+| '''Wild Card Simulation Lab: Season 14'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0266'''
+| '''The Polycrisis Podcast: Season 14'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0267'''
+| '''Methods in Action: Facilitating Futures: Season 14'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0268'''
+| '''Scenario Worldbuilders: Season 14'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0269'''
+| '''Computational Foresight and Agent Simulations: Season 14'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0270'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 14'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0271'''
+| '''Diegetic Realities: Speculative Artifacts: Season 14'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0272'''
+| '''Regenerative City Audio Dispatches: Season 14'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0273'''
+| '''Frontier Biotech and Neuroethics: Season 14'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0274'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 14'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0275'''
+| '''Antifragile Strategy Audio: Season 14'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0276'''
+| '''Anticipatory Governance in Practice: Season 14'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0277'''
+| '''Landmark Case Studies Deconstructed: Season 14'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0278'''
+| '''Pioneers and Philosophers of Foresight: Season 14'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0279'''
+| '''The Corporate Foresight Lab: Season 14'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0280'''
+| '''Teaching the Future: Educational Innovation: Season 14'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0281'''
+| '''Epistemological Crossroads in Futures: Season 15'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0282'''
+| '''Deep Time and Futures Consciousness: Season 15'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0283'''
+| '''Voices of the Pluriverse: Season 15'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0284'''
+| '''Weak Signal Radar Audio Dispatches: Season 15'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0285'''
+| '''Wild Card Simulation Lab: Season 15'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0286'''
+| '''The Polycrisis Podcast: Season 15'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0287'''
+| '''Methods in Action: Facilitating Futures: Season 15'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0288'''
+| '''Scenario Worldbuilders: Season 15'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0289'''
+| '''Computational Foresight and Agent Simulations: Season 15'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0290'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 15'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0291'''
+| '''Diegetic Realities: Speculative Artifacts: Season 15'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0292'''
+| '''Regenerative City Audio Dispatches: Season 15'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0293'''
+| '''Frontier Biotech and Neuroethics: Season 15'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0294'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 15'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0295'''
+| '''Antifragile Strategy Audio: Season 15'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0296'''
+| '''Anticipatory Governance in Practice: Season 15'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0297'''
+| '''Landmark Case Studies Deconstructed: Season 15'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0298'''
+| '''Pioneers and Philosophers of Foresight: Season 15'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0299'''
+| '''The Corporate Foresight Lab: Season 15'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0300'''
+| '''Teaching the Future: Educational Innovation: Season 15'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0301'''
+| '''Epistemological Crossroads in Futures: Season 16'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0302'''
+| '''Deep Time and Futures Consciousness: Season 16'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0303'''
+| '''Voices of the Pluriverse: Season 16'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0304'''
+| '''Weak Signal Radar Audio Dispatches: Season 16'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0305'''
+| '''Wild Card Simulation Lab: Season 16'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0306'''
+| '''The Polycrisis Podcast: Season 16'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0307'''
+| '''Methods in Action: Facilitating Futures: Season 16'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0308'''
+| '''Scenario Worldbuilders: Season 16'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0309'''
+| '''Computational Foresight and Agent Simulations: Season 16'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0310'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 16'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0311'''
+| '''Diegetic Realities: Speculative Artifacts: Season 16'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0312'''
+| '''Regenerative City Audio Dispatches: Season 16'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0313'''
+| '''Frontier Biotech and Neuroethics: Season 16'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0314'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 16'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0315'''
+| '''Antifragile Strategy Audio: Season 16'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0316'''
+| '''Anticipatory Governance in Practice: Season 16'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0317'''
+| '''Landmark Case Studies Deconstructed: Season 16'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0318'''
+| '''Pioneers and Philosophers of Foresight: Season 16'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0319'''
+| '''The Corporate Foresight Lab: Season 16'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0320'''
+| '''Teaching the Future: Educational Innovation: Season 16'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0321'''
+| '''Epistemological Crossroads in Futures: Season 17'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0322'''
+| '''Deep Time and Futures Consciousness: Season 17'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0323'''
+| '''Voices of the Pluriverse: Season 17'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0324'''
+| '''Weak Signal Radar Audio Dispatches: Season 17'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0325'''
+| '''Wild Card Simulation Lab: Season 17'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0326'''
+| '''The Polycrisis Podcast: Season 17'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0327'''
+| '''Methods in Action: Facilitating Futures: Season 17'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0328'''
+| '''Scenario Worldbuilders: Season 17'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0329'''
+| '''Computational Foresight and Agent Simulations: Season 17'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0330'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 17'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0331'''
+| '''Diegetic Realities: Speculative Artifacts: Season 17'''
+| Near Future Audio
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11
+| Explores how tangible props, speculative advertisements, and fictional products trigger public debates.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0332'''
+| '''Regenerative City Audio Dispatches: Season 17'''
+| Biophilic Cities Network
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12
+| Case studies from city planners, architects, and ecological engineers on retrofitting urban metabolisms.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0333'''
+| '''Frontier Biotech and Neuroethics: Season 17'''
+| Bioethics Horizons Group
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13
+| Examines societal dilemmas in CRISPR germline editing, organoid intelligence, and cognitive liberty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0334'''
+| '''Space Horizons and Cis-Lunar Strategy: Season 17'''
+| Off-World Governance Pod
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14
+| Interviews with space law scholars, aerospace engineers, and asteroid mining entrepreneurs.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0335'''
+| '''Antifragile Strategy Audio: Season 17'''
+| Resilience Institute
+| 2018–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15
+| Interviews with chief risk officers and military strategists on building antifragile organizational architectures.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0336'''
+| '''Anticipatory Governance in Practice: Season 17'''
+| Government Foresight Network
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16
+| Interviews with public sector foresight directors on embedding long-range vision into parliamentary lawmaking.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0337'''
+| '''Landmark Case Studies Deconstructed: Season 17'''
+| Strategic Foresight Archive
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17
+| Detailed narrative retrospectives on historic scenario projects including Shell, Mont Fleur, and Singapore RAHS.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0338'''
+| '''Pioneers and Philosophers of Foresight: Season 17'''
+| Oral Historiography Circle
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18
+| Biographical profiles and archival audio lectures of pioneering thinkers who shaped the discipline.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0339'''
+| '''The Corporate Foresight Lab: Season 17'''
+| European Foresight Institute
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19
+| Interviews with enterprise foresight leaders on proving ROI, building scanning networks, and steering C-suite strategy.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0340'''
+| '''Teaching the Future: Educational Innovation: Season 17'''
+| Teach the Future Global
+| 2018–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20
+| Conversations with teachers, curriculum designers, and university deans on introducing foresight to young learners.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0341'''
+| '''Epistemological Crossroads in Futures: Season 18'''
+| WFSF Oral Archive
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1
+| Conversations with senior scholars deconstructing the philosophical divergence between empirical forecasting and integral foresight.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0342'''
+| '''Deep Time and Futures Consciousness: Season 18'''
+| Long Now Audio Lab
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0343'''
+| '''Voices of the Pluriverse: Season 18'''
+| Decolonial Futures Network
+| 2018–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3
+| Interviews with indigenous leaders, scholars, and activists discussing relational cosmologies and sovereignty.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0344'''
+| '''Weak Signal Radar Audio Dispatches: Season 18'''
+| APF Scanning Collective
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4
+| Weekly practitioner debriefs analyzing anomalies, fringe scientific discoveries, and behavioral weak signals.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0345'''
+| '''Wild Card Simulation Lab: Season 18'''
+| Crisis Gaming Center
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5
+| Audio walkthroughs of high-impact low-probability shocks, examining organizational failure modes and crisis recovery.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0346'''
+| '''The Polycrisis Podcast: Season 18'''
+| Cascades Research Institute
+| 2018–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6
+| Examines the synchronized intersection of climate disruptions, energy limits, and geopolitical realignments.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0347'''
+| '''Methods in Action: Facilitating Futures: Season 18'''
+| Houston Foresight Faculty
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7
+| Masterclasses on workshop facilitation, Delphi execution, and Three Horizons stakeholder alignment.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0348'''
+| '''Scenario Worldbuilders: Season 18'''
+| Narrative Forensics Guild
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8
+| Interviews with screenwriters, game designers, and foresight strategists on constructing immersive scenario bibles.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0349'''
+| '''Computational Foresight and Agent Simulations: Season 18'''
+| Santa Fe Complexity Studio
+| 2018–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9
+| Technical discussions on agent-based modeling, system dynamics, and AI scenario discovery tools.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|-
+| '''PC-0350'''
+| '''The Toolmaker's Bench: Canvases and Frameworks: Season 18'''
+| Design Futures Toolkit
+| 2018–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10
+| Interviews with creators of popular foresight canvases, reviewing template architecture and testing lessons.
+| Episode 101: Foundational Frameworks; Episode 204: Global Case Dynamics; Episode 305: Future Scenarios
+|}
+
+[[Category:APF Foresight Canon - Media]]
+[[Category:APF Resource Portals]]

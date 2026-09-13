@@ -1,0 +1,57 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Designing}}
+{{Infobox Foresight Tool
+| name = Sensory Futures: Olfactory, Auditory & Tactile Foresight
+| developer = Susana Cámara Leret
+| format = Facilitation Canvas / Workshop Toolkit
+| apf_competency = Designing
+| group_size = 4–30 Participants
+| duration = 90–180 Minutes
+| outputs = Prioritized driver maps, scenario sketches, action matrices
+| license = Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+}}
+
+== Executive Summary & Definition ==
+'''Sensory Futures: Olfactory, Auditory & Tactile Foresight''' is an authoritative subject within '''Design Futures, Speculative Fabulation & Diegetics''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Designing|APF Core Competency: Designing]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+'Sensory Futures: Olfactory, Auditory & Tactile Foresight' is a foundational methodology or tool within design futures, speculative fabulation, and experiential media.
+
+== Origins & Theoretical Lineage ==
+Pioneered by Susana Cámara Leret within Bio-Design, this approach bridges abstract scenarios and tangible human reality, materializing alternative futures through physical artifacts, diegetic prototypes, and immersive sensory environments.
+
+== Step-by-Step Facilitation & Execution Architecture ==
+Executing '''Sensory Futures: Olfactory, Auditory & Tactile Foresight''' requires a disciplined, multistage facilitation process to ensure analytical rigor and deep stakeholder engagement:
+# '''Step 1''': Design Heuristic: Conceptualized by Susana Cámara Leret, utilizing design to provoke debate rather than confirm current market norms.
+# '''Step 2''': Tangible Materialization: Translating complex systemic drivers into everyday objects, packaging, user interfaces, or spaces.
+# '''Step 3''': Diegetic Immersion: Embedding prototypes naturally within a fictional world narrative to reveal unexamined cultural tensions.
+# '''Step 4''': Affective Engagement: Eliciting visceral, emotional, and cognitive reactions that shatter executive complacency.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Sensory Futures: Olfactory, Auditory & Tactile Foresight''' is routinely utilized to:
+* Corporate Innovation & Ethics: Stress-testing emerging technological applications before committing capital to production.
+* Public Deliberation & Museums: Creating public exhibits (e.g., Museum of the Future) where citizens evaluate alternative worlds.
+* Policy Prototyping: Helping regulators test proposed laws by interacting with the everyday artifacts those laws would generate.
+* Design Pedagogy: Training architects, product designers, and engineers in transdisciplinary speculative worldbuilding.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Sensory Futures: Olfactory, Auditory & Tactile Foresight''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Gallery Fetishization: Risk of remaining an insulated artistic discourse without influencing real-world industry decisions.
+* Form Over Substance: Creating aesthetically pleasing props that lack rigorous grounding in systemic foresight analysis.
+* Technological Shock Disconnect: Participants experiencing emotional awe without translating insights into strategic strategy.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Sensory Futures: Olfactory, Auditory & Tactile Foresight''' directly reinforces:
+* '''Primary Competency (Designing)''': Cultivates advanced professional rigor in executing designing-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Susana Cámara Leret|year=2017|title=Design Futures Architecture of Sensory Futures: Olfactory, Auditory & Tactile Foresight|journal=Journal of Futures Studies|volume=22|issue=1|pages=15-30}}
+{{Foresight_Citation|author=Candy, S. & Dunagan, J.|year=2017|title=Designing an experiential futures ladder|journal=Futures|volume=86|issue=|pages=136-153|doi=10.1016/j.futures.2016.08.006}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Design Futures, Speculative Fabulation & Diegetics]]
+[[Category:APF Competency - Designing]]
+[[Category:APF Article Status - Draft]]

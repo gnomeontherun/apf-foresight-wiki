@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foresight Media & Literature Canon (2,700+ Resources) — APF Global Foresight Wiki</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="preview.css">
+</head>
+<body>
+    <div id="sidebar-mount"></div>
+
+    <main class="content-wrap">
+        <header class="apf-top-bar">
+            <div class="breadcrumbs">
+                <a href="index.html">Main Portal</a> &rsaquo;
+                <strong>Foresight Media &amp; Literature Canon</strong>
+            </div>
+            <div style="display: flex; gap: 16px; align-items: center;">
+                <a href="review.html" class="tool-btn" style="color: #fbbf24;">📋 Review Queue</a>
+                <button type="button" class="theme-toggle-btn tool-btn" title="Toggle Dark/Light Mode">🌓 Theme</button>
+                <a href="index.html" class="tool-btn">⌂ Main Portal</a>
+            </div>
+        </header>
+
+        <div class="article-container" style="max-width: 1200px;">
+            <section class="hero-banner" style="display: flex; align-items: center; gap: 32px; flex-wrap: wrap;">
+                <img src="assets/apf_wiki_official_lockup.jpg" alt="Association of Professional Futurists Official Logo" class="hero-logo-img">
+                <div style="flex: 1; min-width: 300px;">
+                    <div class="hero-badge">Official APF Curated Resource Repository</div>
+                    <h1 class="hero-title" style="font-size: 36px; margin-bottom: 8px;">Foresight Media &amp; Literature Canon</h1>
+                    <p class="hero-subtitle" style="font-size: 15.5px; margin-bottom: 20px;">
+                        The authoritative curated catalog of <strong>2,700+ foresight resources</strong> — spanning canonical books, landmark journal articles, leading podcasts, practitioner newsletters, and recorded keynote presentations.
+                    </p>
+                    <div class="hero-search" style="max-width: 650px;">
+                        <input type="text" id="mediaSearch" placeholder="Search 2,700 books, articles, podcasts, blogs, and talks... (/ to focus)" autocomplete="off">
+                    </div>
+                </div>
+            </section>
+
+            <!-- Control Bar -->
+            <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px; margin-bottom: 20px;">
+                <div class="media-tabs" style="margin-bottom: 0; border-bottom: none; padding-bottom: 0;">
+                    <button type="button" class="media-tab active" data-type="all">All Resources (2,700)</button>
+                    <button type="button" class="media-tab" data-type="Book">📚 Books (650)</button>
+                    <button type="button" class="media-tab" data-type="Journal Article">📄 Journal Articles (1,000)</button>
+                    <button type="button" class="media-tab" data-type="Podcast">🎙️ Podcasts (350)</button>
+                    <button type="button" class="media-tab" data-type="Blog">📰 Blogs &amp; Newsletters (350)</button>
+                    <button type="button" class="media-tab" data-type="Presentation">🎥 Keynotes &amp; Talks (350)</button>
+                </div>
+
+                <div class="export-actions">
+                    <button type="button" id="exportBibtexBtn" class="export-btn" title="Export current list to BibTeX bibliography">
+                        <span>📥</span> Export BibTeX
+                    </button>
+                    <button type="button" id="exportCsvBtn" class="export-btn" title="Export current list to CSV spreadsheet">
+                        <span>📊</span> Export CSV
+                    </button>
+                </div>
+            </div>
+
+            <!-- APF Competency Filter Bar -->
+            <div style="background: var(--bg-surface); padding: 12px 18px; border-radius: 10px; border: 1px solid var(--border-light); margin-bottom: 28px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px;">
+                <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+                    <span style="font-size: 12px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px;">Filter by APF Competency:</span>
+                    <div class="filter-pills" id="mediaCompPills">
+                        <span class="filter-pill media-comp-pill active" data-comp="all">All Competencies</span>
+                        <span class="filter-pill media-comp-pill" data-comp="Framing">Framing</span>
+                        <span class="filter-pill media-comp-pill" data-comp="Scanning">Scanning</span>
+                        <span class="filter-pill media-comp-pill" data-comp="Futuring">Futuring</span>
+                        <span class="filter-pill media-comp-pill" data-comp="Designing">Designing</span>
+                        <span class="filter-pill media-comp-pill" data-comp="Adapting">Adapting</span>
+                        <span class="filter-pill media-comp-pill" data-comp="Leading">Leading</span>
+                    </div>
+                </div>
+                <div>
+                    <span id="mediaCountBadge" style="font-size: 12.5px; font-weight: 700; color: var(--apf-cyan); background: var(--bg-page); padding: 4px 10px; border-radius: 12px; border: 1px solid var(--border-light);">2,700 items</span>
+                </div>
+            </div>
+
+            <!-- Media Grid -->
+            <div class="media-grid" id="mediaGrid">
+                <!-- Dynamically populated by preview_app.js -->
+            </div>
+
+            <footer class="article-footer">
+                <div>
+                    <strong>Association of Professional Futurists (APF)</strong> &bull; Official Foresight Media &amp; Literature Canon &bull; 2,700 Curated Resources
+                </div>
+                <div>
+                    <a href="#top" class="wiki-link" onclick="window.scrollTo({top:0, behavior:'smooth'}); return false;">↑ Back to Top</a>
+                </div>
+            </footer>
+        </div>
+    </main>
+
+    <script src="preview_data.js"></script>
+    <script src="preview_media_data.js"></script>
+    <script src="preview_app.js"></script>
+</body>
+</html>

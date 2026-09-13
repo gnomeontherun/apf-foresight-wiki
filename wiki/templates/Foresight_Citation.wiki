@@ -1,0 +1,7 @@
+<includeonly><li class="foresight-citation" style="margin-bottom: 6px;">
+<span class="citation-authors" style="font-weight: 600;">{{{author|Unknown Author}}}</span> ({{{year|n.d.}}}). "{{{title|Untitled Work}}}". {{#if:{{{journal|}}}|''{{{journal}}}'', {{#if:{{{volume|}}}|'''{{{volume}}}'''}}{{#if:{{{issue|}}}|({{{issue}}})}}, {{#if:{{{pages|}}}|pp. {{{pages}}}.}}|{{#if:{{{publisher|}}}|''{{{publisher}}}''.|}}}}{{#if:{{{doi|}}}|&#32;https://doi.org/{{{doi}}}}}{{#if:{{{url|}}}|&#32;[{{{url}}} [Online Link]]}}{{#if:{{{msfw_award|}}}|&#32;<span style="color: #b45309; font-weight: bold; background: #fef3c7; padding: 1px 6px; border-radius: 4px; font-size: 85%;">🏆 APF MSFW Award Winner ({{{msfw_award}}})</span>}}
+</li></includeonly><noinclude>
+= Template:Foresight Citation =
+Usage:
+<code><nowiki>{{Foresight_Citation|author=Inayatullah, S.|year=1998|title=Causal Layered Analysis: Poststructuralism as method|journal=Futures|volume=30|issue=8|pages=815-829|doi=10.1016/S0016-3287(98)00086-X}}</nowiki></code>
+</noinclude>

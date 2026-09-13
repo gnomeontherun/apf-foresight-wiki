@@ -1,0 +1,53 @@
+<noinclude>
+{{Editorial_Status|status=Approved}}
+= Template:Infobox Foresight Method =
+This template produces an encyclopedic metadata sidebar for strategic foresight methodologies.
+</noinclude>
+<includeonly>
+{| class="infobox" style="width: 24em; font-size: 90%; line-height: 1.4em; border: 1px solid #1a365d; background-color: #f8fafc; float: right; margin: 0 0 1em 1em; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-collapse: separate;"
+|-
+! colspan="2" style="background: linear-gradient(135deg, #1e3a8a, #0284c7); color: white; padding: 10px; font-size: 125%; text-align: center; border-top-left-radius: 7px; border-top-right-radius: 7px;" | {{{name|{{PAGENAME}}}}}
+|-
+{{#if:{{{image|}}}|
+{{!}} colspan="2" style="text-align: center; padding: 6px;" {{!}} [[File:{{{image}}}|250px|center]]<br /><small style="color: #64748b;">{{{caption|}}}</small>
+{{!-}}
+}}
+|- style="background-color: #e2e8f0; font-weight: bold; text-align: center;"
+| colspan="2" | Method Overview
+|-
+! scope="row" style="text-align: left; padding: 4px 8px; width: 40%;" | Originator
+| style="padding: 4px 8px;" | {{{originator|Unspecified}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Year Introduced
+| style="padding: 4px 8px;" | {{{year_introduced|Unspecified}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | APF Competency
+| style="padding: 4px 8px;" | {{APF_Competency_Badge|{{{apf_competency|Framing}}}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Methodological Paradigm
+| style="padding: 4px 8px;" | {{{paradigm|Pluralistic / Exploratory}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Horizon Focus
+| style="padding: 4px 8px;" | {{{horizon_focus|H2 / H3}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Typical Time Horizon
+| style="padding: 4px 8px;" | {{{time_horizon|5–25 years}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Facilitation Format
+| style="padding: 4px 8px;" | {{{format|Workshop / Expert Panel}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Complexity Level
+| style="padding: 4px 8px;" | {{{complexity|Intermediate}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Core Outputs
+| style="padding: 4px 8px;" | {{{outputs|Scenario narratives, strategic implications}}}
+|-
+{{#if:{{{related_methods|}}}|
+! scope="row" style="text-align: left; padding: 4px 8px;" {{!}} Related Methods
+{{!}} style="padding: 4px 8px;" {{!}} {{{related_methods}}}
+{{!-}}
+}}
+|}
+[[Category:Foresight Methods]]
+[[Category:APF Competency - {{{apf_competency|Framing}}}]]
+</includeonly>

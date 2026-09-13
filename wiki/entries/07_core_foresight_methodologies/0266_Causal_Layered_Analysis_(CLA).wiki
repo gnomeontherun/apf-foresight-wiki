@@ -1,0 +1,61 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Futuring}}
+{{Infobox Foresight Method
+| name = Causal Layered Analysis (CLA)
+| originator = Sohail Inayatullah (1998)
+| year_introduced = Tamkang University / Metafuture
+| apf_competency = Futuring
+| paradigm = Exploratory, Plausible & Critical Foresight
+| horizon_focus = Horizon 2 / Horizon 3
+| time_horizon = 5–25 Years
+| format = Expert Facilitated Workshop / Analytical Modeling
+| complexity = Intermediate to Advanced
+| outputs = Prioritized driver maps, scenario matrices, robust strategic pathways
+| related_methods = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]], [[The Three Horizons Framework (Bill Sharpe)|Three Horizons]]
+}}
+
+== Executive Summary & Definition ==
+'''Causal Layered Analysis (CLA)''' is an authoritative subject within '''Core Foresight Methodologies & Frameworks''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Futuring|APF Core Competency: Futuring]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+A poststructural foresight methodology deconstructing issues across four vertical depths: Litany, Systemic Causes, Worldview/Discourse, and Myth/Metaphor.
+
+== Origins & Theoretical Lineage ==
+Developed by Pakistani-Australian futurist Sohail Inayatullah in his seminal 1998 paper 'Causal Layered Analysis: Poststructuralism as Method' in Futures. Drawing from poststructuralist philosophy (Michel Foucault, P.R. Sarkar, and feminist critique), CLA overcomes the shallow empiricism of traditional forecasting by demonstrating that lasting systemic transformation requires excavating and transforming deep cultural myths and unconscious metaphors.
+
+== Step-by-Step Facilitation & Execution Architecture ==
+Executing '''Causal Layered Analysis (CLA)''' requires a disciplined, multistage facilitation process to ensure analytical rigor and deep stakeholder engagement:
+# '''Step 1''': Level 1 - The Litany: Surface-level data, alarming headlines, and official statistics that evoke immediate emotional reactions without systemic context.
+# '''Step 2''': Level 2 - Social / Systemic Causes: The institutional, economic, political, and historical structures that generate the litany (e.g., market incentives, laws).
+# '''Step 3''': Level 3 - Worldview / Discourse: The philosophical paradigms, epistemic frameworks, cultural values, and ideological assumptions that legitimize the system.
+# '''Step 4''': Level 4 - Myth / Metaphor: The visceral, subconscious, archetypal narratives and emotional imagery that sustain the worldview.
+# '''Step 5''': Vertical Transformation: Facilitators guide participants down from Litany to Myth, transform the core metaphor into an empowering alternative, and rebuild back up.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Causal Layered Analysis (CLA)''' is routinely utilized to:
+* Institutional Strategy: Uncovering why organizational transformation initiatives repeatedly fail due to unaddressed cultural myths.
+* Policy Deconstruction: Exposing the hidden ideological assumptions behind governmental defense, health, and education policies.
+* Cross-Cultural Conflict Resolution: Mediating entrenched social disputes by examining divergent cultural mythologies.
+* Speculative Worldbuilding: Crafting deeply authentic future worlds with aligned myths, discourses, institutions, and litanies.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Causal Layered Analysis (CLA)''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Metaphor Trivialization: Teams frequently treat Level 4 as mere creative branding rather than deep psycho-social excavation.
+* Facilitation Rigor: Requires advanced facilitators comfortable with navigating emotional, ideological, and cultural vulnerability.
+* Upward Rebuilding Neglect: Spending all workshop time deconstructing downward while neglecting to rebuild the new systemic level.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Causal Layered Analysis (CLA)''' directly reinforces:
+* '''Primary Competency (Futuring)''': Cultivates advanced professional rigor in executing futuring-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Inayatullah, S.|year=1998|title=Causal layered analysis: Poststructuralism as method|journal=Futures|volume=30|issue=8|pages=815-829|doi=10.1016/S0016-3287(98)00086-X}}
+{{Foresight_Citation|author=Inayatullah, S.|year=2004|title=The Causal Layered Analysis Reader: Theory and Case Studies|publisher=Tamkang University Press}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Core Foresight Methodologies & Frameworks]]
+[[Category:APF Competency - Futuring]]
+[[Category:APF Article Status - Draft]]

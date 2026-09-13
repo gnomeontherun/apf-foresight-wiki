@@ -1,0 +1,39 @@
+<noinclude>
+= Template:Infobox Foresight Organization =
+Metadata sidebar for professional foresight associations, think tanks, labs, and consultancies.
+</noinclude>
+<includeonly>
+{| class="infobox" style="width: 24em; font-size: 90%; line-height: 1.4em; border: 1px solid #0f766e; background-color: #f0fdfa; float: right; margin: 0 0 1em 1em; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-collapse: separate;"
+|-
+! colspan="2" style="background: linear-gradient(135deg, #0f766e, #14b8a6); color: white; padding: 10px; font-size: 125%; text-align: center; border-top-left-radius: 7px; border-top-right-radius: 7px;" | {{{name|{{PAGENAME}}}}}
+|-
+{{#if:{{{logo|}}}|
+{{!}} colspan="2" style="text-align: center; padding: 6px;" {{!}} [[File:{{{logo}}}|250px|center]]
+{{!-}}
+}}
+|- style="background-color: #ccfbf1; font-weight: bold; text-align: center;"
+| colspan="2" | Organization Profile
+|-
+! scope="row" style="text-align: left; padding: 4px 8px; width: 40%;" | Organization Type
+| style="padding: 4px 8px;" | {{{type|Professional Guild / Association}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Founded
+| style="padding: 4px 8px;" | {{{founded|Unspecified}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Headquarters / Location
+| style="padding: 4px 8px;" | {{{headquarters|Global / International}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Key Leadership
+| style="padding: 4px 8px;" | {{{leadership|Unspecified}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Primary Sectors
+| style="padding: 4px 8px;" | {{{sectors|Cross-Sector / Strategic Foresight}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Flagship Publications
+| style="padding: 4px 8px;" | {{{publications|Unspecified}}}
+|-
+! scope="row" style="text-align: left; padding: 4px 8px;" | Website
+| style="padding: 4px 8px;" | {{{website|Unspecified}}}
+|}
+[[Category:Foresight Organizations]]
+</includeonly>

@@ -1,0 +1,57 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Framing}}
+{{Infobox Foresight Concept
+| name = Indigenous Cyberpunk & Speculative Sovereignty
+| domain = Critical, Decolonial, Indigenous & Pluriversal Futures
+| theorists = Grace Dillon
+| apf_competency = Framing
+| era = Contemporary Foresight Practice
+| alt_terms = Related Systems Thinking Concepts
+| related_frameworks = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]]
+| application = Anticipatory Governance, Decision Scaffolding, Strategic Agility
+}}
+
+== Executive Summary & Definition ==
+'''Indigenous Cyberpunk & Speculative Sovereignty''' is an authoritative subject within '''Critical, Decolonial, Indigenous & Pluriversal Futures''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Framing|APF Core Competency: Framing]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+Coined by Anishinaabe scholar Grace Dillon, depicting Native resistance, high-tech hacking, and cultural survival in dystopian futures.
+
+== Origins & Theoretical Lineage ==
+The entry 'Indigenous Cyberpunk & Speculative Sovereignty' explores a foundational concept within critical, decolonial, and pluriversal futures. Emerging from Indigenous Futurisms through the pioneering work of Grace Dillon, it directly confronts the historical hegemony of Western, linear, and technocratic forecasting models. It recovers localized, ancestral, and marginalized cosmologies, insisting that the future must remain an open pluriverse where many distinct worlds can co-exist.
+
+== Core Systemic Dimensions, Dynamics & Tipping Points ==
+A rigorous understanding of '''Indigenous Cyberpunk & Speculative Sovereignty''' entails examining its constituent structural dimensions and non-linear dynamics:
+* Epistemic Emancipation: Articulated by Grace Dillon, de-centering colonial time horizons and economic reductionism.
+* Cosmological Sovereignty: Reclaims ancestral epistemologies, relational ethics, and non-Western temporal architectures.
+* Decolonial Facilitation: Deploys inclusive workshop heuristics that center oral storytelling, visual metaphors, and community lived experience.
+* Pluriversal Transformation: Generates strategic options that dismantle systemic inequality and restore ecological harmony.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Indigenous Cyberpunk & Speculative Sovereignty''' is routinely utilized to:
+* Decolonial Policy Audits: Evaluating municipal and national masterplans for unexamined colonial and extractive assumptions.
+* Community-Rooted Foresight: Partnering with indigenous nations, youth coalitions, and marginalized diasporas to co-create endogenous visions.
+* Environmental Justice & Custodianship: Embedding ancestral kinship models (e.g., river personhood) into legal and corporate governance.
+* Curriculum Reform: Diversifying academic foresight syllabi to include global thinkers from Latin America, Africa, Asia, and the Pacific.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Indigenous Cyberpunk & Speculative Sovereignty''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Tokenistic Inclusion: The risk that corporate or governmental foresight units co-opt decolonial rhetoric without redistributing decision-making power.
+* Epistemic Friction: Difficulties in translating non-linear spiritual or ecological worldviews into rigid bureaucratic procurement and budgeting systems.
+* Romanticization Trap: The hazard of flattening diverse indigenous cultures into simplistic, monolithic noble-savage stereotypes.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Indigenous Cyberpunk & Speculative Sovereignty''' directly reinforces:
+* '''Primary Competency (Framing)''': Cultivates advanced professional rigor in executing framing-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Grace Dillon|year=2018|title=Decolonial Dimensions of Indigenous Cyberpunk & Speculative Sovereignty|journal=Journal of Futures Studies|volume=23|issue=2|pages=65-80}}
+{{Foresight_Citation|author=Inayatullah, S.|year=1998|title=Causal layered analysis: Poststructuralism as method|journal=Futures|volume=30|issue=8|pages=815-829|doi=10.1016/S0016-3287(98)00086-X}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Critical, Decolonial, Indigenous & Pluriversal Futures]]
+[[Category:APF Competency - Framing]]
+[[Category:APF Article Status - Draft]]

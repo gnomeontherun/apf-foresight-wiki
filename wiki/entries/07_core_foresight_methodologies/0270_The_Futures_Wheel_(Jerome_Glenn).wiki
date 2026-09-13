@@ -1,0 +1,61 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Futuring}}
+{{Infobox Foresight Method
+| name = The Futures Wheel (Jerome Glenn)
+| originator = Jerome C. Glenn (1971)
+| year_introduced = The Millennium Project
+| apf_competency = Futuring
+| paradigm = Exploratory, Plausible & Critical Foresight
+| horizon_focus = Horizon 2 / Horizon 3
+| time_horizon = 5–25 Years
+| format = Expert Facilitated Workshop / Analytical Modeling
+| complexity = Intermediate to Advanced
+| outputs = Prioritized driver maps, scenario matrices, robust strategic pathways
+| related_methods = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]], [[The Three Horizons Framework (Bill Sharpe)|Three Horizons]]
+}}
+
+== Executive Summary & Definition ==
+'''The Futures Wheel (Jerome Glenn)''' is an authoritative subject within '''Core Foresight Methodologies & Frameworks''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Futuring|APF Core Competency: Futuring]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+A graphical brainstorming and impact-mapping technique used to identify the primary, secondary, and tertiary consequences of a specific future event or decision.
+
+== Origins & Theoretical Lineage ==
+Invented in 1971 by Jerome C. Glenn while working on futures education curricula at the Antioch Graduate School of Education. As a founding leader of The Millennium Project and co-author of Futures Research Methodology, Glenn standardized the technique into one of the most widely utilized facilitation methods globally for exploring second- and third-order ripple effects.
+
+== Step-by-Step Facilitation & Execution Architecture ==
+Executing '''The Futures Wheel (Jerome Glenn)''' requires a disciplined, multistage facilitation process to ensure analytical rigor and deep stakeholder engagement:
+# '''Step 1''': Center Hub: A single future event, policy change, or disruptive innovation is written in the central circle (e.g., 'Commercialization of Room-Temperature Superconductors').
+# '''Step 2''': First Ring (Primary Impacts): 4 to 8 immediate, direct consequences radiating out from the center via single lines.
+# '''Step 3''': Second Ring (Secondary Impacts): Consequences resulting directly from the first-order impacts, drawn via double lines.
+# '''Step 4''': Third Ring (Tertiary Impacts): Systemic ripple effects resulting from secondary impacts, drawn via triple lines; this is where counter-intuitive insights emerge.
+# '''Step 5''': Cross-Impact & Feedback Analysis: Facilitators highlight arrows connecting disparate branches where secondary or tertiary impacts reinforce or counteract one another.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''The Futures Wheel (Jerome Glenn)''' is routinely utilized to:
+* Policy Impact Assessment: Uncovering unintended negative side-effects of proposed legislative acts before implementation.
+* Corporate Risk Management: Mapping how an emerging competitor's product will trigger secondary supply chain and pricing disruptions.
+* Crisis Simulation: Projecting the multi-order cascades of a severe cyber-attack or grid blackout.
+* Executive Foresight Training: Rapidly training non-futurists to appreciate non-linear systems thinking and delayed feedback loops.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''The Futures Wheel (Jerome Glenn)''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Linear Branching Proliferation: Wheels can become visually chaotic and unreadable without disciplined facilitation and clustering.
+* Brainstorming Superficially: Participants often generate superficial first-ring impacts while failing to push deeply into non-obvious tertiary cascades.
+* Ignoring Negative Feedback: Tending to map purely runaway exponential effects while overlooking balancing feedback loops that dampen disruption.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''The Futures Wheel (Jerome Glenn)''' directly reinforces:
+* '''Primary Competency (Futuring)''': Cultivates advanced professional rigor in executing futuring-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Glenn, J. C.|year=1972|title=Futurizing Teaching vs Futures Course|journal=Social Science Record|volume=9|issue=3|pages=26-29}}
+{{Foresight_Citation|author=Glenn, J. C.|year=2009|title=The Futures Wheel|publisher=Futures Research Methodology Version 3.0}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Core Foresight Methodologies & Frameworks]]
+[[Category:APF Competency - Futuring]]
+[[Category:APF Article Status - Draft]]

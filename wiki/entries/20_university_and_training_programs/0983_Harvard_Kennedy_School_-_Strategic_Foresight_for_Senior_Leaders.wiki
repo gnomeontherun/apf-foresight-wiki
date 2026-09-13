@@ -1,0 +1,59 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Leading}}
+{{Infobox Academic Program
+| name = Harvard Kennedy School - Strategic Foresight for Senior Leaders
+| institution = Harvard Kennedy School
+| location = Cambridge, Massachusetts, USA
+| degree = Strategic Foresight for Senior Leaders
+| department = Department of Futures Studies / Strategic Foresight
+| directors = Spearheaded and directed by HKS Executive Faculty.
+| year_established = 2014
+| format = Hybrid / In-Person & Executive Cohorts
+| curriculum = Scenarios, Systems Dynamics, Horizon Scanning, CLA, Speculative Prototyping
+| website = Official University Program Portal
+}}
+
+== Executive Summary & Definition ==
+'''Harvard Kennedy School - Strategic Foresight for Senior Leaders''' is an authoritative subject within '''University Degree Programs, Institutes & Training''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Leading|APF Core Competency: Leading]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+'Harvard Kennedy School - Strategic Foresight for Senior Leaders' is an internationally recognized university graduate degree, doctoral specialization, or executive credential in strategic foresight and futures studies.
+
+== Origins & Theoretical Lineage ==
+Established in 2014 at Cambridge, Massachusetts, USA under the leadership of HKS Executive Faculty, this program awards the Senior Executive Credential. It represents an essential academic pipeline preparing professional futurists, corporate chief strategy officers, and anticipatory public policy leaders.
+
+== Institutional Profile, Governance & Signature Outputs ==
+'''Harvard Kennedy School - Strategic Foresight for Senior Leaders''' occupies a flagship position in the international foresight ecosystem:
+* Degree Credential: Senior Executive Credential, awarded by Cambridge, Massachusetts, USA.
+* Foundational Faculty: Spearheaded and directed by HKS Executive Faculty.
+* Curricular Architecture: Comprehensive pedagogical training covering scenarios, system dynamics, horizon scanning, CLA, and experiential design.
+* Alumni Impact: Graduates lead foresight practices in multilateral institutions, Fortune 100 corporations, and sovereign governments.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Harvard Kennedy School - Strategic Foresight for Senior Leaders''' is routinely utilized to:
+* Professional Accreditation: Serving as primary qualifying educational credentials for APF membership and professional practice.
+* Applied Research: Conducting groundbreaking sponsored research on planetary transitions, technological disruption, and governance.
+* Executive Education: Upskilling corporate C-suites and civil service directors in strategic agility and long-term anticipation.
+* Academic Publication: Faculty and students contribute prolifically to peer-reviewed literature in Futures, TF&SC, and JFS.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Harvard Kennedy School - Strategic Foresight for Senior Leaders''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Institutional Siloing: Academic foresight programs frequently face institutional pressure to merge into standard business management schools.
+* Tuition & Accessibility: High graduate tuition in North America and Europe creating socio-economic barriers to entering the profession.
+* Curriculum Balancing: The ongoing challenge of balancing quantitative computational modeling with qualitative, critical, and decolonial methodologies.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Harvard Kennedy School - Strategic Foresight for Senior Leaders''' directly reinforces:
+* '''Primary Competency (Leading)''': Cultivates advanced professional rigor in executing leading-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Bishop, P. & Hines, A.|year=2012|title=Teaching about the Future|publisher=Palgrave Macmillan}}
+{{Foresight_Citation|author=Dator, J.|year=2002|title=Advancing Futures: Futures Studies in Higher Education|publisher=Praeger}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:University Degree Programs, Institutes & Training]]
+[[Category:APF Competency - Leading]]
+[[Category:APF Article Status - Draft]]

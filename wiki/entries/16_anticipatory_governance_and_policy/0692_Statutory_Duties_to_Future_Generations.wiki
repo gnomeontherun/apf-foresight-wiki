@@ -1,0 +1,57 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Adapting}}
+{{Infobox Foresight Concept
+| name = Statutory Duties to Future Generations
+| domain = Anticipatory Governance, Public Policy & Law
+| theorists = Sophie Howe / Welsh Government
+| apf_competency = Adapting
+| era = Contemporary Foresight Practice
+| alt_terms = Related Systems Thinking Concepts
+| related_frameworks = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]]
+| application = Anticipatory Governance, Decision Scaffolding, Strategic Agility
+}}
+
+== Executive Summary & Definition ==
+'''Statutory Duties to Future Generations''' is an authoritative subject within '''Anticipatory Governance, Public Policy & Law''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Adapting|APF Core Competency: Adapting]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+'Statutory Duties to Future Generations' is a foundational framework, doctrine, or statutory mechanism within anticipatory governance, public policy, and law.
+
+== Origins & Theoretical Lineage ==
+Formulated by Sophie Howe / Welsh Government within Legal Foresight, this legal and governance approach embeds multi-decadal horizon scanning, intergenerational equity, and adaptive management into institutional policy formulation and constitutional jurisprudence.
+
+== Core Systemic Dimensions, Dynamics & Tipping Points ==
+A rigorous understanding of '''Statutory Duties to Future Generations''' entails examining its constituent structural dimensions and non-linear dynamics:
+* Governance Architecture: Pioneered by Sophie Howe / Welsh Government, establishing legal structures that protect future generations and manage deep uncertainty.
+* Statutory Mechanisms: Designing dynamic review triggers, sunset clauses, and anticipatory regulatory sandboxes.
+* Participatory Legitimacy: Engaging citizen assemblies and affected communities in evaluating normative policy trade-offs.
+* Intergenerational Equity: Ensuring present legislative and fiscal decisions do not impose irreversible ecological or financial debt onto posterity.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Statutory Duties to Future Generations''' is routinely utilized to:
+* National Policy Formulation: Institutionalizing foresight mandates across central government ministries and parliamentary committees.
+* Constitutional Litigation: Defending the constitutional rights of youth and future generations against ecological destruction.
+* Technology Assessment: Setting anticipatory legal guardrails for artificial intelligence, gene editing, and neurotechnology.
+* Municipal Urban Governance: Writing long-term climate resilience and managed retreat policies into municipal zoning codes.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Statutory Duties to Future Generations''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Electoral Cycle Friction: Democratic politicians prioritizing 4-year election cycles over multi-decadal anticipatory investments.
+* Bureaucratic Inertia: Legacy civil service structures resisting cross-ministerial coordination and adaptive regulatory frameworks.
+* Enforceability Challenges: Declarations of future generations' rights remaining symbolic without statutory legal standing and budgetary power.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Statutory Duties to Future Generations''' directly reinforces:
+* '''Primary Competency (Adapting)''': Cultivates advanced professional rigor in executing adapting-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Sophie Howe / Welsh Government|year=2018|title=Anticipatory Governance & Law: Statutory Duties to Future Generations|journal=Regulation & Governance|volume=12|issue=3|pages=345-360}}
+{{Foresight_Citation|author=Guston, D. H.|year=2014|title=Understanding 'anticipatory governance'|journal=Social Studies of Science|volume=44|issue=2|pages=218-242|doi=10.1177/0306312713511116}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Anticipatory Governance, Public Policy & Law]]
+[[Category:APF Competency - Adapting]]
+[[Category:APF Article Status - Draft]]

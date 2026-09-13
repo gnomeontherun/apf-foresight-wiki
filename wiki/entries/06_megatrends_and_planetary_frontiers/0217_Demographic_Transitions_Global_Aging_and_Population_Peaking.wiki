@@ -1,0 +1,57 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Scanning}}
+{{Infobox Foresight Concept
+| name = Demographic Transitions: Global Aging & Population Peaking
+| domain = Core Megatrends, Planetary Frontiers & Polycrisis
+| theorists = UN Population Division, Wolfgang Lutz
+| apf_competency = Scanning
+| era = Contemporary Foresight Practice
+| alt_terms = Related Systems Thinking Concepts
+| related_frameworks = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]]
+| application = Anticipatory Governance, Decision Scaffolding, Strategic Agility
+}}
+
+== Executive Summary & Definition ==
+'''Demographic Transitions: Global Aging & Population Peaking''' is an authoritative subject within '''Core Megatrends, Planetary Frontiers & Polycrisis''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Scanning|APF Core Competency: Scanning]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+The global macro-shift characterized by collapsing total fertility rates below replacement level (2.1), super-aging societies, and impending global population peak.
+
+== Origins & Theoretical Lineage ==
+Demographic research by the UN Population Division and the Wittgenstein Centre (Wolfgang Lutz) demonstrates that the global fertility rate has halved over the past 50 years. Two-thirds of the world's population now lives in countries with sub-replacement fertility, with East Asia and Southern Europe experiencing unprecedented population contraction, while Sub-Saharan Africa experiences a temporary youth surge.
+
+== Core Systemic Dimensions, Dynamics & Tipping Points ==
+A rigorous understanding of '''Demographic Transitions: Global Aging & Population Peaking''' entails examining its constituent structural dimensions and non-linear dynamics:
+* Sub-Replacement Fertility: Total Fertility Rates (TFR) plunging below 1.3 in South Korea, Japan, Italy, and China, creating rapid demographic inversion.
+* The Silver Tsunami: Rapidly shifting dependency ratios where retirees outnumber active working-age citizens, straining pension and healthcare systems.
+* African Demographic Exception: Sub-Saharan Africa projected to account for the majority of global working-age population growth by 2050.
+* Global Population Peak: Projections showing global population peaking between 2060 and 2080 at 9.5-10.3 billion before entering permanent decline.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Demographic Transitions: Global Aging & Population Peaking''' is routinely utilized to:
+* Pension Fund & Sovereign Wealth Scenarios: Stress-testing public finance models against shrinking labor tax bases.
+* Healthcare Infrastructure Planning: Shifting capital allocation toward neurodegenerative care, chronic disease, and automated eldercare.
+* Immigration & Labor Policy: Designing proactive international talent migration corridors and automated productivity wedges.
+* Urban Contraction Planning: Managing smart urban shrinkage and infrastructure decommissioning in depopulating regions.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Demographic Transitions: Global Aging & Population Peaking''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Linear Demographic Extrapolation: Neglecting potential technological, biological, or policy shocks that could alter fertility trajectories.
+* Economic Growth Dogma: Clinging to traditional GDP models that require perpetual population expansion to service debt.
+* Xenophobic Policy Friction: Political resistance to immigrant integration in aging societies facing catastrophic labor shortages.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Demographic Transitions: Global Aging & Population Peaking''' directly reinforces:
+* '''Primary Competency (Scanning)''': Cultivates advanced professional rigor in executing scanning-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Lutz, W. et al.|year=2018|title=Demographic and Human Capital Scenarios for the 21st Century|publisher=IIASA / European Commission}}
+{{Foresight_Citation|author=Vollset, S. E. et al.|year=2020|title=Fertility, mortality, migration, and population scenarios for 195 countries|journal=The Lancet|volume=396|issue=10258|pages=1285-1306|doi=10.1016/S0140-6736(20)30677-2}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Core Megatrends, Planetary Frontiers & Polycrisis]]
+[[Category:APF Competency - Scanning]]
+[[Category:APF Article Status - Draft]]

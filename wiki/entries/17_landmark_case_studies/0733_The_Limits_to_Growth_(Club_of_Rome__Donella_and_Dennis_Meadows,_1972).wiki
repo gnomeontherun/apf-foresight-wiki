@@ -1,0 +1,58 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Leading}}
+{{Infobox Case Study
+| name = The Limits to Growth (Club of Rome / Donella & Dennis Meadows, 1972)
+| sponsor = Donella Meadows, Dennis Meadows, Jørgen Randers, William Behrens III
+| jurisdiction = MIT System Dynamics Group / Club of Rome
+| dates = Landmark Initiative
+| time_horizon = 10–30 Years Ahead
+| methods = Scenario Planning, System Dynamics, Horizon Scanning
+| leads = Strategic Foresight Taskforce
+| impact = National Policy Realignment & Corporate Agility
+}}
+
+== Executive Summary & Definition ==
+'''The Limits to Growth (Club of Rome / Donella & Dennis Meadows, 1972)''' is an authoritative subject within '''Landmark Historic Case Studies Archive (1950–Present)''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Leading|APF Core Competency: Leading]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+The landmark computational modeling study that used system dynamics to demonstrate that exponential economic and population growth on a finite planet inevitably leads to ecological overshoot and collapse.
+
+== Origins & Theoretical Lineage ==
+Commissioned in 1970 by the Club of Rome (founded by Aurelio Peccei and Alexander King). Conducted by an MIT multidisciplinary team led by Dennis and Donella Meadows, utilizing Jay Forrester's World3 system dynamics computer model. Published in March 1972, the report sold over 30 million copies in 30 languages, becoming the most influential and hotly debated environmental foresight study in human history.
+
+== Landmark Historical Scenarios & Documented Policy Impact ==
+The historical intervention of '''The Limits to Growth (Club of Rome / Donella & Dennis Meadows, 1972)''' is characterized by several critical milestones and documented strategic shifts:
+* The World3 Model: Tracked non-linear interactions among five global subsystems: population, industrial production per capita, agricultural output, non-renewable resource reserves, and persistent pollution.
+* Exponential Growth vs. Finite Limits: Demonstrated that exponential growth inherently produces sudden crises due to delays in feedback loops and carrying capacity constraints.
+* The Standard Run (Overshoot and Collapse): In the baseline scenario, unabated industrial growth exhausts non-renewable resources by early-to-mid 21st century, triggering cascading food shortages, industrial decline, and population drop.
+* Stabilized World Scenarios: Showed collapse is not inevitable; by stabilizing population, shifting to clean technologies, and establishing circular equilibriums, humanity could achieve high quality of life indefinitely.
+* Empirical Vindications: 30- and 40-year empirical audits (Turner, 2008, 2014; Gaya Herrington, 2021) demonstrated that real-world global trajectories tracked the World3 'Business-as-Usual' overshoot scenario with astonishing precision.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''The Limits to Growth (Club of Rome / Donella & Dennis Meadows, 1972)''' is routinely utilized to:
+* Global Ecological Governance: Catalyzed modern global environmentalism, the 1972 UN Stockholm Conference, and the Brundtland Commission.
+* System Dynamics Application: Demonstrating the immense power of computational feedback modeling for multi-decade planetary policy.
+* Circular & Steady-State Economics: Providing the foundational empirical rationale for ecological economics and post-growth paradigms.
+* Long-Range Planetary Modeling: Laying the direct computational foundation for contemporary IPCC Integrated Assessment Models.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''The Limits to Growth (Club of Rome / Donella & Dennis Meadows, 1972)''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Neoliberal Economic Backlash: Economists (e.g., William Nordhaus, Julian Simon) fiercely attacked the model, arguing price mechanisms and technological innovation would avert resource depletion.
+* Oversimplified Global Aggregation: Early World3 modeled the planet as a single homogeneous unit, obscuring severe geopolitical and regional inequities.
+* Public Misinterpretation: Critics falsely claimed the study predicted exact collapse dates for specific minerals in the 1980s, creating a persistent media myth of discredited alarmism.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''The Limits to Growth (Club of Rome / Donella & Dennis Meadows, 1972)''' directly reinforces:
+* '''Primary Competency (Leading)''': Cultivates advanced professional rigor in executing leading-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Meadows, D. H., Meadows, D. L., Randers, J. & Behrens, W. W.|year=1972|title=The Limits to Growth|publisher=Universe Books}}
+{{Foresight_Citation|author=Turner, G. M.|year=2008|title=A comparison of The Limits to Growth with 30 years of reality|journal=Global Environmental Change|volume=18|issue=3|pages=397-411|doi=10.1016/j.gloenvcha.2008.05.001}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Landmark Historic Case Studies Archive (1950–Present)]]
+[[Category:APF Competency - Leading]]
+[[Category:APF Article Status - Draft]]

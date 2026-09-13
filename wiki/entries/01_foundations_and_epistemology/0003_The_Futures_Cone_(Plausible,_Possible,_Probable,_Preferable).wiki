@@ -1,0 +1,59 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Framing}}
+{{Infobox Foresight Concept
+| name = The Futures Cone (Plausible, Possible, Probable, Preferable)
+| domain = Foundations, Epistemology & Epistemic Pluralism
+| theorists = Charles Taylor (1990), Hancock & Bezold (1994), Joseph Voros (2003)
+| apf_competency = Framing
+| era = Contemporary Foresight Practice
+| alt_terms = Related Systems Thinking Concepts
+| related_frameworks = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]]
+| application = Anticipatory Governance, Decision Scaffolding, Strategic Agility
+}}
+
+== Executive Summary & Definition ==
+'''The Futures Cone (Plausible, Possible, Probable, Preferable)''' is an authoritative subject within '''Foundations, Epistemology & Epistemic Pluralism''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Framing|APF Core Competency: Framing]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+A foundational visual taxonomy conceptualizing the future as an expanding cone of possibilities radiating outward from the present moment across distinct epistemic classes.
+
+== Origins & Theoretical Lineage ==
+First sketched conceptually by Charles Taylor in 1990 to illustrate military threat environments, the cone was adapted in 1994 by healthcare futurists Trevor Hancock and Clement Bezold to contrast probable trends with normative preferable futures. In 2003, Swinburne University theorist Joseph Voros expanded the model into an authoritative multi-layered typology (Projected, Probable, Plausible, Possible, Preposterous, and Preferable futures), establishing it as the standard cognitive taxonomy used across global foresight workshops.
+
+== Core Systemic Dimensions, Dynamics & Tipping Points ==
+A rigorous understanding of '''The Futures Cone (Plausible, Possible, Probable, Preferable)''' entails examining its constituent structural dimensions and non-linear dynamics:
+* Projected Future: The linear, business-as-usual baseline assuming historical continuation without major systemic disruption.
+* Probable Futures: The narrow band of futures considered highly likely based on existing momentum, established trends, and inertia.
+* Plausible Futures: The range of alternative worlds that 'could happen' based on current understanding of physical, economic, and social causality.
+* Possible Futures: Futures that might happen based on new knowledge, wild cards, breakthrough science, or unproven paradigms.
+* Preposterous / Impossible Futures: Scenarios deemed absurd or physically impossible by present paradigms, but historically fertile ground for radical innovation.
+* Preferable Futures: A normative, value-based overlay representing the desired futures that an organization, community, or society actively strives to co-create.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''The Futures Cone (Plausible, Possible, Probable, Preferable)''' is routinely utilized to:
+* Workshop Alignment: Framing divergent scenario explorations so participants understand which horizon and epistemic class they are designing for.
+* Cognitive De-anchoring: Moving executive teams beyond the narrow 'Projected' track to explore 'Plausible' operational risks.
+* Wild Card Categorization: Positioning low-probability, high-impact events within the 'Possible' and 'Preposterous' rings.
+* Normative Visioning: Contrasting the passive 'Probable' trajectory with the active 'Preferable' future to identify strategic intervention gaps.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''The Futures Cone (Plausible, Possible, Probable, Preferable)''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Linear Spatial Bias: The visual cone radiates linearly forward from a single vertex, potentially reinforcing Western linear time concepts.
+* Subjectivity of Boundaries: What is deemed 'Preposterous' by an incumbent executive may already be 'Plausible' to a fringe innovator.
+* Static Presumption: Can imply fixed categories rather than dynamic, turbulent phase changes where impossible events suddenly become probable.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''The Futures Cone (Plausible, Possible, Probable, Preferable)''' directly reinforces:
+* '''Primary Competency (Framing)''': Cultivates advanced professional rigor in executing framing-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Voros, J.|year=2003|title=A generic foresight process framework|journal=Foresight|volume=5|issue=3|pages=10-21|doi=10.1108/14636680310698379}}
+{{Foresight_Citation|author=Hancock, T. & Bezold, C.|year=1994|title=Possible futures, preferable futures|journal=Healthcare Forum Journal|volume=37|issue=2|pages=23-29}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Foundations, Epistemology & Epistemic Pluralism]]
+[[Category:APF Competency - Framing]]
+[[Category:APF Article Status - Draft]]

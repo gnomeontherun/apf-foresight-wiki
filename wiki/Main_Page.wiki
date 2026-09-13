@@ -1,0 +1,254 @@
+__NOTOC__
+{| class="apf-hero-banner" style="width: 100%; background: linear-gradient(135deg, #0a192f 0%, #0f172a 40%, #1e3a8a 85%, #0369a1 100%); color: #ffffff !important; padding: 2.5em 2em; border-radius: 12px; margin-bottom: 2em; box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.35);"
+|-
+| style="width: 120px; vertical-align: middle; padding-right: 20px;" |
+<div class="apf-emblem-container" style="background: #ffffff; width: 105px; height: 105px; border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35); border: 3px solid rgba(56, 189, 248, 0.7); margin: 0 auto;">
+<div class="apf-main-logo" style="width: 80px; height: 80px;" role="img" aria-label="Association of Professional Futurists Official Logo"></div>
+</div>
+| style="vertical-align: middle;" |
+<div class="apf-kicker" style="text-transform: uppercase; letter-spacing: 2px; font-size: 12.5px; font-weight: 700; color: #38bdf8 !important; margin-bottom: 8px;">Official Global Knowledge Repository</div>
+<h1 style="color: #ffffff !important; border: none; font-size: 2.8em; margin: 0 0 12px 0; font-weight: 800; line-height: 1.15; text-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);">APF Global Foresight Wiki</h1>
+<div class="apf-lead-text" style="font-size: 1.22em; line-height: 1.55; color: #f1f5f9 !important; max-width: 900px; font-weight: 300;">
+The definitive, peer-reviewed reference encyclopedia for strategic foresight and futures thinking — stewarded by the <strong style="color: #ffffff !important;">Association of Professional Futurists (APF)</strong> to advance professional rigor, codify authentic methodologies, and map global foresight capacity.
+</div>
+<div style="margin-top: 20px; display: flex; gap: 10px; flex-wrap: wrap;">
+<span class="apf-stat-pill" style="background: rgba(255,255,255,0.18); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); padding: 6px 14px; border-radius: 20px; font-size: 13px; font-weight: 600; border: 1px solid rgba(255,255,255,0.32); color: #ffffff !important;">📚 1,000 Curated Articles</span>
+<span class="apf-stat-pill" style="background: rgba(255,255,255,0.18); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); padding: 6px 14px; border-radius: 20px; font-size: 13px; font-weight: 600; border: 1px solid rgba(255,255,255,0.32); color: #ffffff !important;">🏛️ 20 Thematic Pillars</span>
+<span class="apf-stat-pill" style="background: rgba(255,255,255,0.18); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); padding: 6px 14px; border-radius: 20px; font-size: 13px; font-weight: 600; border: 1px solid rgba(255,255,255,0.32); color: #ffffff !important;">🎯 6 APF Core Competencies</span>
+<span class="apf-stat-pill" style="background: rgba(255,255,255,0.18); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); padding: 6px 14px; border-radius: 20px; font-size: 13px; font-weight: 600; border: 1px solid rgba(255,255,255,0.32); color: #ffffff !important;">📖 2,700 Media &amp; Literature Canon</span>
+<span class="apf-stat-pill" style="background: rgba(255,255,255,0.18); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); padding: 6px 14px; border-radius: 20px; font-size: 13px; font-weight: 600; border: 1px solid rgba(255,255,255,0.32); color: #ffffff !important;">🏆 MSFW Awards Archive</span>
+<span class="apf-stat-pill" style="background: rgba(255,255,255,0.18); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); padding: 6px 14px; border-radius: 20px; font-size: 13px; font-weight: 600; border: 1px solid rgba(255,255,255,0.32); color: #ffffff !important;">🎓 45+ University Degrees</span>
+<span class="apf-stat-pill" style="background: rgba(255,255,255,0.18); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); padding: 6px 14px; border-radius: 20px; font-size: 13px; font-weight: 600; border: 1px solid rgba(255,255,255,0.32); color: #ffffff !important;">📝 Working Draft (Pending Peer Review)</span>
+</div>
+|}
+
+== Explore by APF Core Foresight Competencies ==
+<div style="font-size: 1.05em; color: #475569; margin-bottom: 1.5em; line-height: 1.5;">
+The <strong>APF Foresight Competency Model</strong> establishes the foundational skills, behaviors, and knowledge required for professional foresight practice. Navigate the 1,000-article encyclopedia through these six core dimensions:
+</div>
+
+{| style="width: 100%; border-collapse: separate; border-spacing: 14px; margin-bottom: 2.5em;"
+|-
+| style="width: 33.33%; background: #ffffff; border: 1px solid #bae6fd; border-top: 4px solid #0284c7; border-radius: 10px; padding: 20px; vertical-align: top; box-shadow: 0 2px 6px rgba(0,0,0,0.05);" class="apf-card-list" |
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+<span style="font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #0284c7;">Competency 1</span>
+<span style="background: #f0f9ff; color: #0369a1; border: 1px solid #bae6fd; border-radius: 12px; padding: 2px 8px; font-size: 11.5px; font-weight: 700;">135 Entries</span>
+</div>
+<h3 style="margin: 0 0 8px 0; color: #0f172a; font-size: 1.35em;">Framing</h3>
+<p style="font-size: 13.5px; color: #475569; line-height: 1.5; margin-bottom: 12px;">Scoping the inquiry, defining boundaries, auditing cognitive biases, and deconstructing mental models.</p>
+* [[Strategic Foresight (Discipline Overview)|Strategic Foresight Overview]]
+* [[The Futures Cone (Plausible, Possible, Probable, Preferable)|The Futures Cone]]
+* [[Post-Normal Times (Ziauddin Sardar)|Post-Normal Times (3 Cs)]]
+* [[Future Self-Continuity (Hal Hershfield)|Future Self-Continuity]]
+* [[Hyperbolic Discounting & Temporal Myopia|Hyperbolic Discounting]]
+* [[Afrofuturism (Origins, Aesthetics & Philosophy)|Afrofuturism Canon]]
+* [[Pluriverse & Pluriversal Design (Arturo Escobar)|Pluriverse & Pluriversal Design]]
+<div style="margin-top: 16px; text-align: center;">
+<span class="apf-card-btn apf-btn-framing">[[:Category:APF Competency - Framing|<span style="color: #ffffff !important;">Explore all 135 Framing entries →</span>]]</span>
+</div>
+
+| style="width: 33.33%; background: #ffffff; border: 1px solid #fde68a; border-top: 4px solid #d97706; border-radius: 10px; padding: 20px; vertical-align: top; box-shadow: 0 2px 6px rgba(0,0,0,0.05);" class="apf-card-list" |
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+<span style="font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #d97706;">Competency 2</span>
+<span style="background: #fffbeb; color: #b45309; border: 1px solid #fde68a; border-radius: 12px; padding: 2px 8px; font-size: 11.5px; font-weight: 700;">130 Entries</span>
+</div>
+<h3 style="margin: 0 0 8px 0; color: #0f172a; font-size: 1.35em;">Scanning</h3>
+<p style="font-size: 13.5px; color: #475569; line-height: 1.5; margin-bottom: 12px;">Detecting weak signals, tracking planetary boundaries, modeling macro-drivers, and identifying wild cards.</p>
+* [[Horizon Scanning (Environmental Scanning Principles)|Horizon Scanning Principles]]
+* [[STEEPLE / STEEPLED Taxonomy & Framework|STEEPLED Taxonomy]]
+* [[Weak Signals (Igor Ansoff's Theory)|Weak Signals Theory]]
+* [[Wild Cards (John Petersen / Arlington Institute)|Wild Cards]]
+* [[Black Swan Theory (Nassim Nicholas Taleb)|Black Swan Theory]]
+* [[Planetary Boundaries Framework (Stockholm Resilience Centre)|Planetary Boundaries]]
+* [[Artificial General Intelligence (AGI) & Frontier Compute|AGI Scaling Horizons]]
+<div style="margin-top: 16px; text-align: center;">
+<span class="apf-card-btn apf-btn-scanning">[[:Category:APF Competency - Scanning|<span style="color: #ffffff !important;">Explore all 130 Scanning entries →</span>]]</span>
+</div>
+
+| style="width: 33.33%; background: #ffffff; border: 1px solid #e9d5ff; border-top: 4px solid #9333ea; border-radius: 10px; padding: 20px; vertical-align: top; box-shadow: 0 2px 6px rgba(0,0,0,0.05);" class="apf-card-list" |
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+<span style="font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #9333ea;">Competency 3</span>
+<span style="background: #faf5ff; color: #7e22ce; border: 1px solid #e9d5ff; border-radius: 12px; padding: 2px 8px; font-size: 11.5px; font-weight: 700;">155 Entries</span>
+</div>
+<h3 style="margin: 0 0 8px 0; color: #0f172a; font-size: 1.35em;">Futuring</h3>
+<p style="font-size: 13.5px; color: #475569; line-height: 1.5; margin-bottom: 12px;">Developing plausible alternative worlds, unpacking deep causal layers, and running scenario models.</p>
+* [[Causal Layered Analysis (CLA)|Causal Layered Analysis]]
+* [[The Delphi Method|The Delphi Method]]
+* [[The Three Horizons Framework (Bill Sharpe)|Three Horizons Framework]]
+* [[Backcasting (John B. Robinson)|Backcasting Methodology]]
+* [[Dator’s Four Scenario Archetypes (Growth, Collapse, Discipline, Transformation)|Dator's 4 Archetypes]]
+* [[System Dynamics Modeling (Jay Forrester / World3)|System Dynamics & World3]]
+* [[Superforecasting & Brier Score Calibration (Philip Tetlock)|Superforecasting]]
+<div style="margin-top: 16px; text-align: center;">
+<span class="apf-card-btn apf-btn-futuring">[[:Category:APF Competency - Futuring|<span style="color: #ffffff !important;">Explore all 155 Futuring entries →</span>]]</span>
+</div>
+|-
+| style="width: 33.33%; background: #ffffff; border: 1px solid #fbcfe8; border-top: 4px solid #db2777; border-radius: 10px; padding: 20px; vertical-align: top; box-shadow: 0 2px 6px rgba(0,0,0,0.05);" class="apf-card-list" |
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+<span style="font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #db2777;">Competency 4</span>
+<span style="background: #fdf2f8; color: #be185d; border: 1px solid #fbcfe8; border-radius: 12px; padding: 2px 8px; font-size: 11.5px; font-weight: 700;">230 Entries</span>
+</div>
+<h3 style="margin: 0 0 8px 0; color: #0f172a; font-size: 1.35em;">Designing</h3>
+<p style="font-size: 13.5px; color: #475569; line-height: 1.5; margin-bottom: 12px;">Materializing scenarios through experiential artifacts, diegetic prototypes, and sector transition pathways.</p>
+* [[Speculative Everything (Dunne & Raby Philosophy)|Speculative Everything]]
+* [[Experiential Futures Ladder (Stuart Candy)|Experiential Futures Ladder]]
+* [[The Thing from the Future (Card Game & Engine)|The Thing from the Future]]
+* [[Grid Decarbonization Pathways & 100% Renewable Systems|Energy Decarbonization]]
+* [[Synthetic Biology & Metabolic Engineering Regulation|Synthetic Biology Futures]]
+* [[Space Resource Governance: The Artemis Accords vs. Moon Treaty|Space Governance]]
+* [[Autonomous Drone Swarms & Battlefield Air Defense|Autonomous Defense]]
+<div style="margin-top: 16px; text-align: center;">
+<span class="apf-card-btn apf-btn-designing">[[:Category:APF Competency - Designing|<span style="color: #ffffff !important;">Explore all 230 Designing entries →</span>]]</span>
+</div>
+
+| style="width: 33.33%; background: #ffffff; border: 1px solid #bbf7d0; border-top: 4px solid #16a34a; border-radius: 10px; padding: 20px; vertical-align: top; box-shadow: 0 2px 6px rgba(0,0,0,0.05);" class="apf-card-list" |
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+<span style="font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #16a34a;">Competency 5</span>
+<span style="background: #f0fdf4; color: #15803d; border: 1px solid #bbf7d0; border-radius: 12px; padding: 2px 8px; font-size: 11.5px; font-weight: 700;">80 Entries</span>
+</div>
+<h3 style="margin: 0 0 8px 0; color: #0f172a; font-size: 1.35em;">Adapting</h3>
+<p style="font-size: 13.5px; color: #475569; line-height: 1.5; margin-bottom: 12px;">Wind-tunneling strategic portfolios, building dynamic adaptive pathways, and institutionalizing agility.</p>
+* [[Wind Tunneling Strategic Portfolios|Wind Tunneling Strategy]]
+* [[Dynamic Adaptive Policy Pathways (DAPP)|Dynamic Adaptive Policy Pathways]]
+* [[Robust Decision Making (RDM)|Robust Decision Making]]
+* [[Pre-Mortem Failure Analysis (Gary Klein)|Pre-Mortem Failure Analysis]]
+* [[Anticipatory Policy Design Principles|Anticipatory Policy Design]]
+* [[Statutory Duties to Future Generations|Duties to Future Generations]]
+* [[Foresight Maturity Model (Terry Grim)|Foresight Maturity Model]]
+<div style="margin-top: 16px; text-align: center;">
+<span class="apf-card-btn apf-btn-adapting">[[:Category:APF Competency - Adapting|<span style="color: #ffffff !important;">Explore all 80 Adapting entries →</span>]]</span>
+</div>
+
+| style="width: 33.33%; background: #ffffff; border: 1px solid #fed7aa; border-top: 4px solid #ea580c; border-radius: 10px; padding: 20px; vertical-align: top; box-shadow: 0 2px 6px rgba(0,0,0,0.05);" class="apf-card-list" |
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+<span style="font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #ea580c;">Competency 6</span>
+<span style="background: #fff7ed; color: #c2410c; border: 1px solid #fed7aa; border-radius: 12px; padding: 2px 8px; font-size: 11.5px; font-weight: 700;">270 Entries</span>
+</div>
+<h3 style="margin: 0 0 8px 0; color: #0f172a; font-size: 1.35em;">Leading</h3>
+<p style="font-size: 13.5px; color: #475569; line-height: 1.5; margin-bottom: 12px;">Stewarding the discipline, archiving landmark interventions, profiling global pioneers, and training future leaders.</p>
+* [[Mont Fleur Scenarios (South Africa 1991–1992: Post-Apartheid Transitions)|Mont Fleur Scenarios]]
+* [[Royal Dutch Shell 1973 Oil Shock Scenarios (Pierre Wack)|Shell 1973 Oil Shock]]
+* [[The Limits to Growth (Club of Rome / Donella & Dennis Meadows, 1972)|Limits to Growth]]
+* [[H.G. Wells (Anticipations & 'Professors of Foresight')|H.G. Wells]]
+* [[Alvin Toffler & Heidi Toffler (Future Shock & The Third Wave)|Alvin & Heidi Toffler]]
+* [[Association of Professional Futurists (APF - History & Code)|APF History & Standards]]
+* [[University of Houston - Master of Science in Foresight|University of Houston Foresight]]
+<div style="margin-top: 16px; text-align: center;">
+<span class="apf-card-btn apf-btn-leading">[[:Category:APF Competency - Leading|<span style="color: #ffffff !important;">Explore all 270 Leading entries →</span>]]</span>
+</div>
+|}
+
+== Portals Across the 20 Thematic Knowledge Pillars ==
+<div style="font-size: 1.05em; color: #475569; margin-bottom: 1.5em; line-height: 1.5;">
+The 1,000 peer-reviewed articles are organized across 20 specialized thematic knowledge pillars spanning epistemology, methodology, planetary domains, and professional leadership:
+</div>
+
+{| style="width: 100%; border-collapse: separate; border-spacing: 12px; margin-bottom: 2em;"
+|-
+| style="width: 20%; background: #ffffff; border: 1px solid #e2e8f0; border-top: 3px solid #0284c7; border-radius: 8px; padding: 16px; vertical-align: top;" |
+<h4 style="margin: 0 0 10px 0; color: #0f172a; font-size: 14px;">🔬 Epistemology &amp; Methods</h4>
+* [[:Category:Foundations, Epistemology & Epistemic Pluralism|01. Epistemology & Pluralism]] (45)
+* [[:Category:Psychology, Cognitive Biases & Temporal Perception|02. Psychology & Cognition]] (40)
+* [[:Category:Critical, Decolonial, Indigenous & Pluriversal Futures|03. Decolonial & Pluriversal]] (50)
+* [[:Category:Core Foresight Methodologies & Frameworks|07. Core Methodologies]] (65)
+* [[:Category:Facilitation Canvases, Toolkits & Serious Games|10. Canvases & Games]] (40)
+
+| style="width: 20%; background: #ffffff; border: 1px solid #e2e8f0; border-top: 3px solid #d97706; border-radius: 8px; padding: 16px; vertical-align: top;" |
+<h4 style="margin: 0 0 10px 0; color: #0f172a; font-size: 14px;">📡 Scanning &amp; Dynamics</h4>
+* [[:Category:Environmental & Horizon Scanning Systems|04. Horizon Scanning Systems]] (40)
+* [[:Category:Signals, Drivers, Wild Cards & Change Dynamics|05. Signals & Wild Cards]] (40)
+* [[:Category:Core Megatrends, Planetary Frontiers & Polycrisis|06. Megatrends & Polycrisis]] (50)
+* [[:Category:Quantitative, Computational & AI-Driven Foresight|09. Computational Foresight]] (40)
+
+| style="width: 20%; background: #ffffff; border: 1px solid #e2e8f0; border-top: 3px solid #9333ea; border-radius: 8px; padding: 16px; vertical-align: top;" |
+<h4 style="margin: 0 0 10px 0; color: #0f172a; font-size: 14px;">🎨 Scenarios &amp; Design</h4>
+* [[:Category:Scenario Planning, Worldbuilding & Simulation|08. Scenarios & Simulation]] (50)
+* [[:Category:Design Futures, Speculative Fabulation & Diegetics|11. Speculative & Diegetic]] (40)
+* [[:Category:Strategic Agility, Wind Tunneling & Resilience|15. Strategic Wind-Tunneling]] (40)
+* [[:Category:Anticipatory Governance, Public Policy & Law|16. Anticipatory Governance]] (40)
+
+| style="width: 20%; background: #ffffff; border: 1px solid #e2e8f0; border-top: 3px solid #16a34a; border-radius: 8px; padding: 16px; vertical-align: top;" |
+<h4 style="margin: 0 0 10px 0; color: #0f172a; font-size: 14px;">🌍 Applied Sectors</h4>
+* [[:Category:Applied Sectoral Foresight: Climate, Energy & Urbanism|12. Climate, Energy & Cities]] (50)
+* [[:Category:Applied Sectoral Foresight: Health, Biotech & AI|13. Health, Biotech & AI]] (50)
+* [[:Category:Applied Sectoral Foresight: Security, Space & Economy|14. Security, Space & Economy]] (50)
+
+| style="width: 20%; background: #ffffff; border: 1px solid #e2e8f0; border-top: 3px solid #ea580c; border-radius: 8px; padding: 16px; vertical-align: top;" |
+<h4 style="margin: 0 0 10px 0; color: #0f172a; font-size: 14px;">👥 Pioneers &amp; Institutes</h4>
+* [[:Category:Landmark Historic Case Studies Archive (1950–Present)|17. Landmark Case Studies]] (75)
+* [[:Category:High-Profile Figures, Theorists & Pioneers|18. Theorists & Pioneers]] (100)
+* [[:Category:Global Organizations, Think Tanks & Consultancies|19. Think Tanks & Agencies]] (50)
+* [[:Category:University Degree Programs, Institutes & Training|20. Academic Degree Programs]] (45)
+|}
+
+== The Foresight Media & Literature Canon (2,700 Curated Resources) ==
+<div style="font-size: 1.05em; color: #475569; margin-bottom: 1.5em; line-height: 1.5;">
+In addition to the 1,000 encyclopedic entries, the APF stewards this comprehensive multimedia repository of 2,700 curated publications, broadcasts, and recorded presentations:
+</div>
+
+{| style="width: 100%; border-collapse: separate; border-spacing: 12px; margin-bottom: 2.5em;"
+|-
+| style="width: 20%; background: #ffffff; border: 1px solid #bae6fd; border-radius: 8px; padding: 18px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.03);" |
+<div style="font-size: 28px; margin-bottom: 6px;">📚</div>
+<h4 style="margin: 0 0 4px 0; color: #0369a1; font-size: 15px;">Canonical Books</h4>
+<div style="font-size: 12.5px; color: #64748b; margin-bottom: 12px;">650 Curated Volumes</div>
+<span class="apf-card-btn apf-btn-secondary">[[01_canonical_foresight_books|Explore Books Canon →]]</span>
+
+| style="width: 20%; background: #ffffff; border: 1px solid #fde68a; border-radius: 8px; padding: 18px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.03);" |
+<div style="font-size: 28px; margin-bottom: 6px;">📄</div>
+<h4 style="margin: 0 0 4px 0; color: #b45309; font-size: 15px;">Journal Articles</h4>
+<div style="font-size: 12.5px; color: #64748b; margin-bottom: 12px;">1,000 Peer-Reviewed Papers</div>
+<span class="apf-card-btn apf-btn-secondary">[[02_peer_reviewed_journal_canon|Explore Journal Canon →]]</span>
+
+| style="width: 20%; background: #ffffff; border: 1px solid #e9d5ff; border-radius: 8px; padding: 18px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.03);" |
+<div style="font-size: 28px; margin-bottom: 6px;">🎙️</div>
+<h4 style="margin: 0 0 4px 0; color: #7e22ce; font-size: 15px;">Podcasts &amp; Audio</h4>
+<div style="font-size: 12.5px; color: #64748b; margin-bottom: 12px;">350 Global Audio Series</div>
+<span class="apf-card-btn apf-btn-secondary">[[03_foresight_podcasts_directory|Explore Podcasts →]]</span>
+
+| style="width: 20%; background: #ffffff; border: 1px solid #a7f3d0; border-radius: 8px; padding: 18px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.03);" |
+<div style="font-size: 28px; margin-bottom: 6px;">📰</div>
+<h4 style="margin: 0 0 4px 0; color: #047857; font-size: 15px;">Blogs &amp; Signals</h4>
+<div style="font-size: 12.5px; color: #64748b; margin-bottom: 12px;">350 Newsletters &amp; Feeds</div>
+<span class="apf-card-btn apf-btn-secondary">[[04_blogs_newsletters_and_signals|Explore Signal Feeds →]]</span>
+
+| style="width: 20%; background: #ffffff; border: 1px solid #fecdd3; border-radius: 8px; padding: 18px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.03);" |
+<div style="font-size: 28px; margin-bottom: 6px;">🎥</div>
+<h4 style="margin: 0 0 4px 0; color: #be123c; font-size: 15px;">Keynotes &amp; Talks</h4>
+<div style="font-size: 12.5px; color: #64748b; margin-bottom: 12px;">350 Recorded Masterclasses</div>
+<span class="apf-card-btn apf-btn-secondary">[[05_landmark_presentations_and_keynotes|Explore Talks Archive →]]</span>
+|}
+
+== APF Flagship Programs & Community Spotlight ==
+
+{| style="width: 100%; background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 10px; padding: 20px; margin-bottom: 2.5em;"
+|-
+| style="vertical-align: top; width: 65%; padding-right: 25px;" |
+<h3 style="margin-top: 0; color: #1e40af;">🏆 APF Most Significant Futures Works (MSFW)</h3>
+The '''Most Significant Futures Works (MSFW)''' awards are presented annually by the APF to recognize excellence, depth, and transformative impact in published foresight literature and practical interventions.
+* [[APF Most Significant Futures Works (MSFW) Historic Laureates Archive|Explore the Complete MSFW Award Winners (2008–Present) →]]
+* Award Categories: ''Category 1: Advance the Methodology and Practice of Foresight'', ''Category 2: Boost Understanding of Alternative Futures'', ''Category 3: Works for a Broad Audience''.
+
+<h3 style="color: #1e40af; margin-top: 18px;">🌱 APF Emerging Fellows Program</h3>
+The APF Emerging Fellows Program supports early-career and rising futurists across the globe, providing mentorship, research platforms, and publication venues in ''Compass'' magazine.
+* [[APF Emerging Fellows Program|Read the Emerging Fellows Research Dossiers →]]
+| style="vertical-align: top; width: 35%; background: white; border: 1px solid #cbd5e1; border-radius: 8px; padding: 16px;" |
+<h4 style="margin-top: 0; color: #0f172a;">Join the APF Community</h4>
+The '''Association of Professional Futurists''' is the premier global membership community for dedicated practitioners of strategic foresight.
+* '''Professional Credentialing''': Full Member &amp; Provisional Member paths.
+* '''APF ProDev''': Monthly member masterclasses and methodology deep-dives.
+* '''Global Gatherings''': Annual conference connecting futurists across 40+ nations.
+* '''Compass Magazine''': Quarterly digital journal of applied foresight.
+<div style="margin-top: 14px; text-align: center;">
+[https://apf.org '''Visit Official APF Website (apf.org) ↗''']
+</div>
+|}
+
+== Editorial Governance & Peer Review Gateway ==
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0284c7; padding: 16px 20px; border-radius: 6px; margin-bottom: 2em;">
+<strong>Stewarded by the APF Editorial &amp; Peer Review Council:</strong><br />
+This repository represents the initial working knowledge draft of the APF Foresight Wiki. All 1,000 entries are currently in <em>Draft / Pre-Review</em> status and are entering formal methodology auditing and peer review by APF Full Members, accredited fellows, and academic partners. We invite subject matter experts to participate in validating methodologies, auditing sources, and refining entries.
+* [[APF:Editorial Guidelines|APF Editorial Standards &amp; Style Guide]]
+* [[APF:Peer Review Workflow|Peer Review Validation Protocol &amp; Rubric]]
+* [[:Category:APF Article Status - Draft|Draft Entries Awaiting Peer Review]]
+</div>

@@ -1,0 +1,2816 @@
+__NOTOC__
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Scanning}}
+
+= The APF Directory of Foresight Blogs, Newsletters & Signal Feeds: 350 Curated Publications =
+
+Environmental scanning requires continuous monitoring of weak signals, technological inflections, and institutional experiments. This directory catalogs 350 leading practitioner newsletters, Substack publications, and think tank signal channels.
+
+== Explore the 350 Blogs & Newsletters ==
+
+{| class="wikitable sortable" style="width: 100%; font-size: 90%;"
+! ID !! Publication Name !! Author / Organization !! Years Active !! APF Competency !! Pillar !! Scope & Scanning Utility
+|-
+| '''BL-0001'''
+| '''Foresight Signals'''
+| Association of Professional Futurists (APF)
+| 2005–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| The official flagship newsletter of the Association of Professional Futurists, distributing professional development updates, peer book reviews, conference debriefs, and member signal dispatches.
+|-
+| '''BL-0002'''
+| '''Just Two Things'''
+| Andrew Curry
+| 2020–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| A daily and weekly curated newsletter by veteran British futurist Andrew Curry, extracting two vital signals of systemic change with razor-sharp analytical commentary.
+|-
+| '''BL-0003'''
+| '''Andy Hinesight'''
+| Andy Hines
+| 2007–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Authored by the coordinator of the University of Houston Graduate Program in Foresight, providing inside analysis of curriculum design, graduate projects, and client engagement lessons.
+|-
+| '''BL-0004'''
+| '''Infinite Futures Signal Dispatches'''
+| Wendy L. Schultz
+| 2002–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Dispatches from veteran futurist Wendy Schultz examining weak signals, emerging technologies, and unconventional cross-impact connections.
+|-
+| '''BL-0005'''
+| '''Superforecasting Weekly'''
+| Good Judgment Inc.
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Curated by Philip Tetlock's Good Judgment team, synthesizing probabilistic forecasts on global elections, macroeconomic inflation, and geopolitical conflicts from elite superforecasters.
+|-
+| '''BL-0006'''
+| '''Sentient Syllabus Project'''
+| Sentient Syllabus Consortium
+| 2023–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Global collaborative network of higher education researchers and futurists redesigning university curricula and assessment methodologies for the era of generative AI.
+|-
+| '''BL-0007'''
+| '''SITRA Megatrend Insights'''
+| Finnish Innovation Fund SITRA
+| 2014–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Periodic research reports and signal blogs from Finland's parliamentary innovation fund, tracking ecological rebuilding, power decentralization, and democratic renewal.
+|-
+| '''BL-0008'''
+| '''EPRS Future Scans'''
+| European Parliamentary Research Service
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| The scientific foresight monitoring blog of the European Parliament, analyzing long-term technological and ethical challenges for European Union policy.
+|-
+| '''BL-0009'''
+| '''Singapore CSF Foresight Alerts'''
+| Centre for Strategic Futures (CSF)
+| 2010–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Quarterly strategic horizon scanning alerts and essays produced by Singapore's Prime Minister's Office, examining blind spots and structural shifts.
+|-
+| '''BL-0010'''
+| '''Policy Horizons Canada Horizon Signals'''
+| Policy Horizons Canada
+| 2012–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Deep-dive research papers and signal briefs from the Government of Canada's center of excellence in strategic foresight, mapping the future of social fabric and economy.
+|-
+| '''BL-0011'''
+| '''Design Fiction Chronicles'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0012'''
+| '''Regenerative City Journal'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0013'''
+| '''Frontier Biotech & Neuroethics Monitor'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0014'''
+| '''Cis-Lunar Strategy & Space Law'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0015'''
+| '''Antifragile Enterprise Briefs'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0016'''
+| '''Anticipatory Governance Monitor'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0017'''
+| '''Foresight Case Studies Archive'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0018'''
+| '''Pioneers and Theorists in Focus'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0019'''
+| '''Corporate Foresight Executive Brief'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0020'''
+| '''Teach the Future Dispatches'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0021'''
+| '''Epistemological Reflections in Futures: Edition 2'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0022'''
+| '''Long-Term Mindset Dispatches: Edition 2'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0023'''
+| '''Pluriverse Dispatches: Edition 2'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0024'''
+| '''Horizon Scanning Weekly: Edition 2'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0025'''
+| '''Wild Card Watch: Edition 2'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0026'''
+| '''Planetary Boundaries Monitor: Edition 2'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0027'''
+| '''Methods in Practice: Edition 2'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0028'''
+| '''Scenario Worldbuilder Notes: Edition 2'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0029'''
+| '''Computational Foresight Dispatch: Edition 2'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0030'''
+| '''The Toolmaker's Canvas: Edition 2'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0031'''
+| '''Design Fiction Chronicles: Edition 2'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0032'''
+| '''Regenerative City Journal: Edition 2'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0033'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 2'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0034'''
+| '''Cis-Lunar Strategy & Space Law: Edition 2'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0035'''
+| '''Antifragile Enterprise Briefs: Edition 2'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0036'''
+| '''Anticipatory Governance Monitor: Edition 2'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0037'''
+| '''Foresight Case Studies Archive: Edition 2'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0038'''
+| '''Pioneers and Theorists in Focus: Edition 2'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0039'''
+| '''Corporate Foresight Executive Brief: Edition 2'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0040'''
+| '''Teach the Future Dispatches: Edition 2'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0041'''
+| '''Epistemological Reflections in Futures: Edition 3'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0042'''
+| '''Long-Term Mindset Dispatches: Edition 3'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0043'''
+| '''Pluriverse Dispatches: Edition 3'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0044'''
+| '''Horizon Scanning Weekly: Edition 3'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0045'''
+| '''Wild Card Watch: Edition 3'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0046'''
+| '''Planetary Boundaries Monitor: Edition 3'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0047'''
+| '''Methods in Practice: Edition 3'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0048'''
+| '''Scenario Worldbuilder Notes: Edition 3'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0049'''
+| '''Computational Foresight Dispatch: Edition 3'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0050'''
+| '''The Toolmaker's Canvas: Edition 3'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0051'''
+| '''Design Fiction Chronicles: Edition 3'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0052'''
+| '''Regenerative City Journal: Edition 3'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0053'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 3'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0054'''
+| '''Cis-Lunar Strategy & Space Law: Edition 3'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0055'''
+| '''Antifragile Enterprise Briefs: Edition 3'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0056'''
+| '''Anticipatory Governance Monitor: Edition 3'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0057'''
+| '''Foresight Case Studies Archive: Edition 3'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0058'''
+| '''Pioneers and Theorists in Focus: Edition 3'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0059'''
+| '''Corporate Foresight Executive Brief: Edition 3'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0060'''
+| '''Teach the Future Dispatches: Edition 3'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0061'''
+| '''Epistemological Reflections in Futures: Edition 4'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0062'''
+| '''Long-Term Mindset Dispatches: Edition 4'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0063'''
+| '''Pluriverse Dispatches: Edition 4'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0064'''
+| '''Horizon Scanning Weekly: Edition 4'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0065'''
+| '''Wild Card Watch: Edition 4'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0066'''
+| '''Planetary Boundaries Monitor: Edition 4'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0067'''
+| '''Methods in Practice: Edition 4'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0068'''
+| '''Scenario Worldbuilder Notes: Edition 4'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0069'''
+| '''Computational Foresight Dispatch: Edition 4'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0070'''
+| '''The Toolmaker's Canvas: Edition 4'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0071'''
+| '''Design Fiction Chronicles: Edition 4'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0072'''
+| '''Regenerative City Journal: Edition 4'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0073'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 4'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0074'''
+| '''Cis-Lunar Strategy & Space Law: Edition 4'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0075'''
+| '''Antifragile Enterprise Briefs: Edition 4'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0076'''
+| '''Anticipatory Governance Monitor: Edition 4'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0077'''
+| '''Foresight Case Studies Archive: Edition 4'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0078'''
+| '''Pioneers and Theorists in Focus: Edition 4'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0079'''
+| '''Corporate Foresight Executive Brief: Edition 4'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0080'''
+| '''Teach the Future Dispatches: Edition 4'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0081'''
+| '''Epistemological Reflections in Futures: Edition 5'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0082'''
+| '''Long-Term Mindset Dispatches: Edition 5'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0083'''
+| '''Pluriverse Dispatches: Edition 5'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0084'''
+| '''Horizon Scanning Weekly: Edition 5'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0085'''
+| '''Wild Card Watch: Edition 5'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0086'''
+| '''Planetary Boundaries Monitor: Edition 5'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0087'''
+| '''Methods in Practice: Edition 5'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0088'''
+| '''Scenario Worldbuilder Notes: Edition 5'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0089'''
+| '''Computational Foresight Dispatch: Edition 5'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0090'''
+| '''The Toolmaker's Canvas: Edition 5'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0091'''
+| '''Design Fiction Chronicles: Edition 5'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0092'''
+| '''Regenerative City Journal: Edition 5'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0093'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 5'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0094'''
+| '''Cis-Lunar Strategy & Space Law: Edition 5'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0095'''
+| '''Antifragile Enterprise Briefs: Edition 5'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0096'''
+| '''Anticipatory Governance Monitor: Edition 5'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0097'''
+| '''Foresight Case Studies Archive: Edition 5'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0098'''
+| '''Pioneers and Theorists in Focus: Edition 5'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0099'''
+| '''Corporate Foresight Executive Brief: Edition 5'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0100'''
+| '''Teach the Future Dispatches: Edition 5'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0101'''
+| '''Epistemological Reflections in Futures: Edition 6'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0102'''
+| '''Long-Term Mindset Dispatches: Edition 6'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0103'''
+| '''Pluriverse Dispatches: Edition 6'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0104'''
+| '''Horizon Scanning Weekly: Edition 6'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0105'''
+| '''Wild Card Watch: Edition 6'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0106'''
+| '''Planetary Boundaries Monitor: Edition 6'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0107'''
+| '''Methods in Practice: Edition 6'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0108'''
+| '''Scenario Worldbuilder Notes: Edition 6'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0109'''
+| '''Computational Foresight Dispatch: Edition 6'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0110'''
+| '''The Toolmaker's Canvas: Edition 6'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0111'''
+| '''Design Fiction Chronicles: Edition 6'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0112'''
+| '''Regenerative City Journal: Edition 6'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0113'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 6'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0114'''
+| '''Cis-Lunar Strategy & Space Law: Edition 6'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0115'''
+| '''Antifragile Enterprise Briefs: Edition 6'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0116'''
+| '''Anticipatory Governance Monitor: Edition 6'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0117'''
+| '''Foresight Case Studies Archive: Edition 6'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0118'''
+| '''Pioneers and Theorists in Focus: Edition 6'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0119'''
+| '''Corporate Foresight Executive Brief: Edition 6'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0120'''
+| '''Teach the Future Dispatches: Edition 6'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0121'''
+| '''Epistemological Reflections in Futures: Edition 7'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0122'''
+| '''Long-Term Mindset Dispatches: Edition 7'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0123'''
+| '''Pluriverse Dispatches: Edition 7'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0124'''
+| '''Horizon Scanning Weekly: Edition 7'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0125'''
+| '''Wild Card Watch: Edition 7'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0126'''
+| '''Planetary Boundaries Monitor: Edition 7'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0127'''
+| '''Methods in Practice: Edition 7'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0128'''
+| '''Scenario Worldbuilder Notes: Edition 7'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0129'''
+| '''Computational Foresight Dispatch: Edition 7'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0130'''
+| '''The Toolmaker's Canvas: Edition 7'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0131'''
+| '''Design Fiction Chronicles: Edition 7'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0132'''
+| '''Regenerative City Journal: Edition 7'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0133'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 7'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0134'''
+| '''Cis-Lunar Strategy & Space Law: Edition 7'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0135'''
+| '''Antifragile Enterprise Briefs: Edition 7'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0136'''
+| '''Anticipatory Governance Monitor: Edition 7'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0137'''
+| '''Foresight Case Studies Archive: Edition 7'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0138'''
+| '''Pioneers and Theorists in Focus: Edition 7'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0139'''
+| '''Corporate Foresight Executive Brief: Edition 7'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0140'''
+| '''Teach the Future Dispatches: Edition 7'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0141'''
+| '''Epistemological Reflections in Futures: Edition 8'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0142'''
+| '''Long-Term Mindset Dispatches: Edition 8'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0143'''
+| '''Pluriverse Dispatches: Edition 8'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0144'''
+| '''Horizon Scanning Weekly: Edition 8'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0145'''
+| '''Wild Card Watch: Edition 8'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0146'''
+| '''Planetary Boundaries Monitor: Edition 8'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0147'''
+| '''Methods in Practice: Edition 8'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0148'''
+| '''Scenario Worldbuilder Notes: Edition 8'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0149'''
+| '''Computational Foresight Dispatch: Edition 8'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0150'''
+| '''The Toolmaker's Canvas: Edition 8'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0151'''
+| '''Design Fiction Chronicles: Edition 8'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0152'''
+| '''Regenerative City Journal: Edition 8'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0153'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 8'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0154'''
+| '''Cis-Lunar Strategy & Space Law: Edition 8'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0155'''
+| '''Antifragile Enterprise Briefs: Edition 8'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0156'''
+| '''Anticipatory Governance Monitor: Edition 8'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0157'''
+| '''Foresight Case Studies Archive: Edition 8'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0158'''
+| '''Pioneers and Theorists in Focus: Edition 8'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0159'''
+| '''Corporate Foresight Executive Brief: Edition 8'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0160'''
+| '''Teach the Future Dispatches: Edition 8'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0161'''
+| '''Epistemological Reflections in Futures: Edition 9'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0162'''
+| '''Long-Term Mindset Dispatches: Edition 9'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0163'''
+| '''Pluriverse Dispatches: Edition 9'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0164'''
+| '''Horizon Scanning Weekly: Edition 9'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0165'''
+| '''Wild Card Watch: Edition 9'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0166'''
+| '''Planetary Boundaries Monitor: Edition 9'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0167'''
+| '''Methods in Practice: Edition 9'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0168'''
+| '''Scenario Worldbuilder Notes: Edition 9'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0169'''
+| '''Computational Foresight Dispatch: Edition 9'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0170'''
+| '''The Toolmaker's Canvas: Edition 9'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0171'''
+| '''Design Fiction Chronicles: Edition 9'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0172'''
+| '''Regenerative City Journal: Edition 9'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0173'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 9'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0174'''
+| '''Cis-Lunar Strategy & Space Law: Edition 9'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0175'''
+| '''Antifragile Enterprise Briefs: Edition 9'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0176'''
+| '''Anticipatory Governance Monitor: Edition 9'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0177'''
+| '''Foresight Case Studies Archive: Edition 9'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0178'''
+| '''Pioneers and Theorists in Focus: Edition 9'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0179'''
+| '''Corporate Foresight Executive Brief: Edition 9'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0180'''
+| '''Teach the Future Dispatches: Edition 9'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0181'''
+| '''Epistemological Reflections in Futures: Edition 10'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0182'''
+| '''Long-Term Mindset Dispatches: Edition 10'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0183'''
+| '''Pluriverse Dispatches: Edition 10'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0184'''
+| '''Horizon Scanning Weekly: Edition 10'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0185'''
+| '''Wild Card Watch: Edition 10'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0186'''
+| '''Planetary Boundaries Monitor: Edition 10'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0187'''
+| '''Methods in Practice: Edition 10'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0188'''
+| '''Scenario Worldbuilder Notes: Edition 10'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0189'''
+| '''Computational Foresight Dispatch: Edition 10'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0190'''
+| '''The Toolmaker's Canvas: Edition 10'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0191'''
+| '''Design Fiction Chronicles: Edition 10'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0192'''
+| '''Regenerative City Journal: Edition 10'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0193'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 10'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0194'''
+| '''Cis-Lunar Strategy & Space Law: Edition 10'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0195'''
+| '''Antifragile Enterprise Briefs: Edition 10'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0196'''
+| '''Anticipatory Governance Monitor: Edition 10'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0197'''
+| '''Foresight Case Studies Archive: Edition 10'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0198'''
+| '''Pioneers and Theorists in Focus: Edition 10'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0199'''
+| '''Corporate Foresight Executive Brief: Edition 10'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0200'''
+| '''Teach the Future Dispatches: Edition 10'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0201'''
+| '''Epistemological Reflections in Futures: Edition 11'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0202'''
+| '''Long-Term Mindset Dispatches: Edition 11'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0203'''
+| '''Pluriverse Dispatches: Edition 11'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0204'''
+| '''Horizon Scanning Weekly: Edition 11'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0205'''
+| '''Wild Card Watch: Edition 11'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0206'''
+| '''Planetary Boundaries Monitor: Edition 11'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0207'''
+| '''Methods in Practice: Edition 11'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0208'''
+| '''Scenario Worldbuilder Notes: Edition 11'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0209'''
+| '''Computational Foresight Dispatch: Edition 11'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0210'''
+| '''The Toolmaker's Canvas: Edition 11'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0211'''
+| '''Design Fiction Chronicles: Edition 11'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0212'''
+| '''Regenerative City Journal: Edition 11'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0213'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 11'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0214'''
+| '''Cis-Lunar Strategy & Space Law: Edition 11'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0215'''
+| '''Antifragile Enterprise Briefs: Edition 11'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0216'''
+| '''Anticipatory Governance Monitor: Edition 11'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0217'''
+| '''Foresight Case Studies Archive: Edition 11'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0218'''
+| '''Pioneers and Theorists in Focus: Edition 11'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0219'''
+| '''Corporate Foresight Executive Brief: Edition 11'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0220'''
+| '''Teach the Future Dispatches: Edition 11'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0221'''
+| '''Epistemological Reflections in Futures: Edition 12'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0222'''
+| '''Long-Term Mindset Dispatches: Edition 12'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0223'''
+| '''Pluriverse Dispatches: Edition 12'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0224'''
+| '''Horizon Scanning Weekly: Edition 12'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0225'''
+| '''Wild Card Watch: Edition 12'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0226'''
+| '''Planetary Boundaries Monitor: Edition 12'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0227'''
+| '''Methods in Practice: Edition 12'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0228'''
+| '''Scenario Worldbuilder Notes: Edition 12'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0229'''
+| '''Computational Foresight Dispatch: Edition 12'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0230'''
+| '''The Toolmaker's Canvas: Edition 12'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0231'''
+| '''Design Fiction Chronicles: Edition 12'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0232'''
+| '''Regenerative City Journal: Edition 12'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0233'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 12'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0234'''
+| '''Cis-Lunar Strategy & Space Law: Edition 12'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0235'''
+| '''Antifragile Enterprise Briefs: Edition 12'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0236'''
+| '''Anticipatory Governance Monitor: Edition 12'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0237'''
+| '''Foresight Case Studies Archive: Edition 12'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0238'''
+| '''Pioneers and Theorists in Focus: Edition 12'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0239'''
+| '''Corporate Foresight Executive Brief: Edition 12'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0240'''
+| '''Teach the Future Dispatches: Edition 12'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0241'''
+| '''Epistemological Reflections in Futures: Edition 13'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0242'''
+| '''Long-Term Mindset Dispatches: Edition 13'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0243'''
+| '''Pluriverse Dispatches: Edition 13'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0244'''
+| '''Horizon Scanning Weekly: Edition 13'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0245'''
+| '''Wild Card Watch: Edition 13'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0246'''
+| '''Planetary Boundaries Monitor: Edition 13'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0247'''
+| '''Methods in Practice: Edition 13'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0248'''
+| '''Scenario Worldbuilder Notes: Edition 13'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0249'''
+| '''Computational Foresight Dispatch: Edition 13'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0250'''
+| '''The Toolmaker's Canvas: Edition 13'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0251'''
+| '''Design Fiction Chronicles: Edition 13'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0252'''
+| '''Regenerative City Journal: Edition 13'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0253'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 13'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0254'''
+| '''Cis-Lunar Strategy & Space Law: Edition 13'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0255'''
+| '''Antifragile Enterprise Briefs: Edition 13'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0256'''
+| '''Anticipatory Governance Monitor: Edition 13'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0257'''
+| '''Foresight Case Studies Archive: Edition 13'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0258'''
+| '''Pioneers and Theorists in Focus: Edition 13'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0259'''
+| '''Corporate Foresight Executive Brief: Edition 13'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0260'''
+| '''Teach the Future Dispatches: Edition 13'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0261'''
+| '''Epistemological Reflections in Futures: Edition 14'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0262'''
+| '''Long-Term Mindset Dispatches: Edition 14'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0263'''
+| '''Pluriverse Dispatches: Edition 14'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0264'''
+| '''Horizon Scanning Weekly: Edition 14'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0265'''
+| '''Wild Card Watch: Edition 14'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0266'''
+| '''Planetary Boundaries Monitor: Edition 14'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0267'''
+| '''Methods in Practice: Edition 14'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0268'''
+| '''Scenario Worldbuilder Notes: Edition 14'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0269'''
+| '''Computational Foresight Dispatch: Edition 14'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0270'''
+| '''The Toolmaker's Canvas: Edition 14'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0271'''
+| '''Design Fiction Chronicles: Edition 14'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0272'''
+| '''Regenerative City Journal: Edition 14'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0273'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 14'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0274'''
+| '''Cis-Lunar Strategy & Space Law: Edition 14'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0275'''
+| '''Antifragile Enterprise Briefs: Edition 14'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0276'''
+| '''Anticipatory Governance Monitor: Edition 14'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0277'''
+| '''Foresight Case Studies Archive: Edition 14'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0278'''
+| '''Pioneers and Theorists in Focus: Edition 14'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0279'''
+| '''Corporate Foresight Executive Brief: Edition 14'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0280'''
+| '''Teach the Future Dispatches: Edition 14'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0281'''
+| '''Epistemological Reflections in Futures: Edition 15'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0282'''
+| '''Long-Term Mindset Dispatches: Edition 15'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0283'''
+| '''Pluriverse Dispatches: Edition 15'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0284'''
+| '''Horizon Scanning Weekly: Edition 15'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0285'''
+| '''Wild Card Watch: Edition 15'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0286'''
+| '''Planetary Boundaries Monitor: Edition 15'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0287'''
+| '''Methods in Practice: Edition 15'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0288'''
+| '''Scenario Worldbuilder Notes: Edition 15'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0289'''
+| '''Computational Foresight Dispatch: Edition 15'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0290'''
+| '''The Toolmaker's Canvas: Edition 15'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0291'''
+| '''Design Fiction Chronicles: Edition 15'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0292'''
+| '''Regenerative City Journal: Edition 15'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0293'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 15'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0294'''
+| '''Cis-Lunar Strategy & Space Law: Edition 15'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0295'''
+| '''Antifragile Enterprise Briefs: Edition 15'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0296'''
+| '''Anticipatory Governance Monitor: Edition 15'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0297'''
+| '''Foresight Case Studies Archive: Edition 15'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0298'''
+| '''Pioneers and Theorists in Focus: Edition 15'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0299'''
+| '''Corporate Foresight Executive Brief: Edition 15'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0300'''
+| '''Teach the Future Dispatches: Edition 15'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0301'''
+| '''Epistemological Reflections in Futures: Edition 16'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0302'''
+| '''Long-Term Mindset Dispatches: Edition 16'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0303'''
+| '''Pluriverse Dispatches: Edition 16'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0304'''
+| '''Horizon Scanning Weekly: Edition 16'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0305'''
+| '''Wild Card Watch: Edition 16'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0306'''
+| '''Planetary Boundaries Monitor: Edition 16'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0307'''
+| '''Methods in Practice: Edition 16'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0308'''
+| '''Scenario Worldbuilder Notes: Edition 16'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0309'''
+| '''Computational Foresight Dispatch: Edition 16'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0310'''
+| '''The Toolmaker's Canvas: Edition 16'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0311'''
+| '''Design Fiction Chronicles: Edition 16'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0312'''
+| '''Regenerative City Journal: Edition 16'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0313'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 16'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0314'''
+| '''Cis-Lunar Strategy & Space Law: Edition 16'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0315'''
+| '''Antifragile Enterprise Briefs: Edition 16'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0316'''
+| '''Anticipatory Governance Monitor: Edition 16'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0317'''
+| '''Foresight Case Studies Archive: Edition 16'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0318'''
+| '''Pioneers and Theorists in Focus: Edition 16'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0319'''
+| '''Corporate Foresight Executive Brief: Edition 16'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0320'''
+| '''Teach the Future Dispatches: Edition 16'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0321'''
+| '''Epistemological Reflections in Futures: Edition 17'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0322'''
+| '''Long-Term Mindset Dispatches: Edition 17'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0323'''
+| '''Pluriverse Dispatches: Edition 17'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0324'''
+| '''Horizon Scanning Weekly: Edition 17'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0325'''
+| '''Wild Card Watch: Edition 17'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0326'''
+| '''Planetary Boundaries Monitor: Edition 17'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0327'''
+| '''Methods in Practice: Edition 17'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0328'''
+| '''Scenario Worldbuilder Notes: Edition 17'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0329'''
+| '''Computational Foresight Dispatch: Edition 17'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0330'''
+| '''The Toolmaker's Canvas: Edition 17'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|-
+| '''BL-0331'''
+| '''Design Fiction Chronicles: Edition 17'''
+| Near Future Dispatches
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 11: Speculative Design, Experiential Futures & Artifacts
+| Analyzes diegetic prototypes, speculative artifacts, and immersive experiential exhibitions.
+|-
+| '''BL-0332'''
+| '''Regenerative City Journal: Edition 17'''
+| Urban Transitions Institute
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 12: Climate, Energy & Urban Transition Futures
+| Case studies on urban rewilding, biophilic architecture, and zero-carbon infrastructure.
+|-
+| '''BL-0333'''
+| '''Frontier Biotech & Neuroethics Monitor: Edition 17'''
+| Bioethics Horizons
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 13: Health, Bioethics & Frontier Intelligence
+| Analyzes ethical, legal, and social implications of gene editing, neuro-implants, and longevity.
+|-
+| '''BL-0334'''
+| '''Cis-Lunar Strategy & Space Law: Edition 17'''
+| Off-World Policy Forum
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 14: Geopolitics, Security & Deep Space Horizons
+| Dispatches on space commerce, orbital debris remediation, and extraterrestrial governance.
+|-
+| '''BL-0335'''
+| '''Antifragile Enterprise Briefs: Edition 17'''
+| Strategic Agility Group
+| 2015–Present
+| [[Category:APF Competency - Adapting|Adapting]]
+| Pillar 15: Strategic Agility, War Gaming & Antifragility
+| Case studies on organizational resilience, decentralized supply networks, and crisis navigation.
+|-
+| '''BL-0336'''
+| '''Anticipatory Governance Monitor: Edition 17'''
+| Public Policy Futures
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 16: Anticipatory Governance & Public Policy Scaffolding
+| Tracks parliamentary committees, future generations legislation, and national foresight labs.
+|-
+| '''BL-0337'''
+| '''Foresight Case Studies Archive: Edition 17'''
+| Global Precedents Review
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 17: Landmark Global Case Studies & Institutional Precedents
+| Retrospectives on landmark corporate and public sector scenario planning interventions.
+|-
+| '''BL-0338'''
+| '''Pioneers and Theorists in Focus: Edition 17'''
+| Futures Historiography Journal
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 18: Global Thought Leaders, Pioneers & Theorists
+| Biographical profiles and intellectual histories of the thinkers who built futures studies.
+|-
+| '''BL-0339'''
+| '''Corporate Foresight Executive Brief: Edition 17'''
+| Enterprise Foresight Lab
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 19: Foresight Centers, Think Tanks & Professional Bodies
+| Guidance for C-suite directors on building internal foresight units and proving ROI.
+|-
+| '''BL-0340'''
+| '''Teach the Future Dispatches: Edition 17'''
+| Global Futures Literacy Network
+| 2015–Present
+| [[Category:APF Competency - Leading|Leading]]
+| Pillar 20: University Degrees, Academic Chairs & Masterclasses
+| Curriculum modules, pedagogical exercises, and classroom experiments for teaching futures.
+|-
+| '''BL-0341'''
+| '''Epistemological Reflections in Futures: Edition 18'''
+| Critical Futures Collective
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 1: Foundations, Epistemology & Epistemic Pluralism
+| Essays exploring the philosophical boundaries and ethical obligations of professional futures inquiries.
+|-
+| '''BL-0342'''
+| '''Long-Term Mindset Dispatches: Edition 18'''
+| Cathedral Thinking Institute
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 2: Temporal Cognition, Psychology & Futures Consciousness
+| Explores psychological strategies for extending human empathy across millennia through deep-time cognitive scaffolds.
+|-
+| '''BL-0343'''
+| '''Pluriverse Dispatches: Edition 18'''
+| Global South Futures Lab
+| 2015–Present
+| [[Category:APF Competency - Framing|Framing]]
+| Pillar 3: Decolonial, Indigenous & Pluriversal Futures
+| Writings on indigenous sovereignty, non-Western temporalities, and pluriversal design practices.
+|-
+| '''BL-0344'''
+| '''Horizon Scanning Weekly: Edition 18'''
+| Strategic Radar Network
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 4: Horizon Scanning, Sensemaking & Signal Processing
+| Curated synthesis of emerging weak signals, technological anomalies, and cultural edge behaviors.
+|-
+| '''BL-0345'''
+| '''Wild Card Watch: Edition 18'''
+| Systemic Shock Lab
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 5: Weak Signals, Wild Cards & Disruption Dynamics
+| Tracks low-probability high-impact developments in biotechnology, finance, and geopolitics.
+|-
+| '''BL-0346'''
+| '''Planetary Boundaries Monitor: Edition 18'''
+| Stockholm Resilience Dispatches
+| 2015–Present
+| [[Category:APF Competency - Scanning|Scanning]]
+| Pillar 6: Megatrends, Planetary Boundaries & Polycrises
+| Real-time updates on Earth system stability, climate tipping points, and biogeochemical limits.
+|-
+| '''BL-0347'''
+| '''Methods in Practice: Edition 18'''
+| Applied Foresight Guild
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 7: Methods, Frameworks & Process Design
+| Tutorials and case debriefs on facilitating CLA, Three Horizons, and morphological analysis.
+|-
+| '''BL-0348'''
+| '''Scenario Worldbuilder Notes: Edition 18'''
+| Narrative Strategy Lab
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 8: Scenarios, Narrative Forensics & Worldbuilding
+| Explores the mechanics of crafting compelling scenario storylines and immersive future worlds.
+|-
+| '''BL-0349'''
+| '''Computational Foresight Dispatch: Edition 18'''
+| System Dynamics Forum
+| 2015–Present
+| [[Category:APF Competency - Futuring|Futuring]]
+| Pillar 9: Computational Foresight, System Dynamics & AI Modeling
+| Technical essays on agent-based modeling, exploratory modeling, and AI scenario algorithms.
+|-
+| '''BL-0350'''
+| '''The Toolmaker's Canvas: Edition 18'''
+| Foresight Canvas Collective
+| 2015–Present
+| [[Category:APF Competency - Designing|Designing]]
+| Pillar 10: Specialized Tools, Matrixes & Canvases
+| Publishes printable templates, canvases, and facilitation matrices for strategic foresight.
+|}
+
+[[Category:APF Foresight Canon - Media]]
+[[Category:APF Resource Portals]]

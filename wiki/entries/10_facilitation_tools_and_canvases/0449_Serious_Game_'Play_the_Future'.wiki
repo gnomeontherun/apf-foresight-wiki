@@ -1,0 +1,57 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Designing}}
+{{Infobox Foresight Tool
+| name = Serious Game: 'Play the Future'
+| developer = Copenhagen Institute for Futures Studies
+| format = Facilitation Canvas / Workshop Toolkit
+| apf_competency = Designing
+| group_size = 4–30 Participants
+| duration = 90–180 Minutes
+| outputs = Prioritized driver maps, scenario sketches, action matrices
+| license = Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+}}
+
+== Executive Summary & Definition ==
+'''Serious Game: 'Play the Future'''' is an authoritative subject within '''Facilitation Canvases, Toolkits & Serious Games''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Designing|APF Core Competency: Designing]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+'Serious Game: 'Play the Future'' is an essential facilitation canvas, micro-method, or serious game within the strategic foresight toolkit.
+
+== Origins & Theoretical Lineage ==
+Designed by Copenhagen Institute for Futures Studies within CIFS, this practical facilitation instrument provides visual scaffolding, gamified dynamics, and collaborative prompts that enable diverse teams to articulate tacit future assumptions and co-create strategic options.
+
+== Step-by-Step Facilitation & Execution Architecture ==
+Executing '''Serious Game: 'Play the Future'''' requires a disciplined, multistage facilitation process to ensure analytical rigor and deep stakeholder engagement:
+# '''Step 1''': Canvas Architecture: Designed by Copenhagen Institute for Futures Studies, utilizing spatial layout and visual anchors to structure collaborative thinking.
+# '''Step 2''': Group Dynamics & Protocol: Step-by-step facilitation rules governing individual ideation, small-group clustering, and plenary debate.
+# '''Step 3''': Gamified Engagement: Utilizing cards, physical tokens, or timed prompts to overcome executive hierarchy and foster psychological safety.
+# '''Step 4''': Actionable Artifact Output: Producing tangible prioritized driver maps, scenario sketches, and strategic stress-testing matrices.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Serious Game: 'Play the Future'''' is routinely utilized to:
+* Executive Strategy Workshops: Engaging leadership cohorts in intensive 90- to 180-minute strategic foresight sessions.
+* Cross-Functional Alignment: Breaking down organizational silos between marketing, technology, legal, and operational units.
+* Educational & University Training: Teaching students and mid-career executives core futures thinking through hands-on interaction.
+* Community & Civic Deliberation: Facilitating participatory citizen assemblies on climate resilience and local governance.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Serious Game: 'Play the Future'''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Post-It Note Fatigue: Facilitators generating superficial brainstorming sticky notes without driving deep structural synthesis.
+* Gamification Trivialization: Treating serious games purely as icebreaker entertainment rather than rigorous strategic inquiry.
+* Canvas Over-Rigidity: Rigidly adhering to canvas boxes and time limits at the expense of exploring profound unexpected emergent insights.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Serious Game: 'Play the Future'''' directly reinforces:
+* '''Primary Competency (Designing)''': Cultivates advanced professional rigor in executing designing-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Copenhagen Institute for Futures Studies|year=2017|title=Facilitation Protocols for Serious Game: 'Play the Future'|journal=Journal of Futures Studies|volume=21|issue=4|pages=33-46}}
+{{Foresight_Citation|author=Candy, S. & Dunagan, J.|year=2017|title=Designing an experiential futures ladder|journal=Futures|volume=86|issue=|pages=136-153|doi=10.1016/j.futures.2016.08.006}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Facilitation Canvases, Toolkits & Serious Games]]
+[[Category:APF Competency - Designing]]
+[[Category:APF Article Status - Draft]]

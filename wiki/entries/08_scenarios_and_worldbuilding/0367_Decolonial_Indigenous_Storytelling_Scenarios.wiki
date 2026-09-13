@@ -1,0 +1,60 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Futuring}}
+{{Infobox Foresight Method
+| name = Decolonial Indigenous Storytelling Scenarios
+| originator = Grace Dillon
+| year_introduced = Indigenous Futurisms
+| apf_competency = Futuring
+| paradigm = Exploratory, Plausible & Critical Foresight
+| horizon_focus = Horizon 2 / Horizon 3
+| time_horizon = 5–25 Years
+| format = Expert Facilitated Workshop / Analytical Modeling
+| complexity = Intermediate to Advanced
+| outputs = Prioritized driver maps, scenario matrices, robust strategic pathways
+| related_methods = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]], [[The Three Horizons Framework (Bill Sharpe)|Three Horizons]]
+}}
+
+== Executive Summary & Definition ==
+'''Decolonial Indigenous Storytelling Scenarios''' is an authoritative subject within '''Scenario Planning, Worldbuilding & Simulation''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Futuring|APF Core Competency: Futuring]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+'Decolonial Indigenous Storytelling Scenarios' is an authoritative framework within scenario planning, worldbuilding, and strategic simulation.
+
+== Origins & Theoretical Lineage ==
+Developed by Grace Dillon within Indigenous Futurisms, this scenario approach provides structured methodologies for articulating divergent future operating environments, challenging executive assumptions, and visualizing alternative systemic trajectories.
+
+== Step-by-Step Facilitation & Execution Architecture ==
+Executing '''Decolonial Indigenous Storytelling Scenarios''' requires a disciplined, multistage facilitation process to ensure analytical rigor and deep stakeholder engagement:
+# '''Step 1''': Focal Axis Formulation: Identified by Grace Dillon, isolating critical uncertainties that govern alternative worlds.
+# '''Step 2''': Narrative & Structural Logic: Ensuring that each scenario is internally consistent, plausible, and provocative.
+# '''Step 3''': Experiential Worldbuilding: Fleshing out the social, political, technological, and cultural texture of each operating environment.
+# '''Step 4''': Strategic Implications: Deriving specific risks, opportunities, and required adaptations for decision-makers.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Decolonial Indigenous Storytelling Scenarios''' is routinely utilized to:
+* Corporate Strategy Formulation: Wind-tunneling long-term investments across multiple plausible futures.
+* Public Policy Resilience: Designing legislative frameworks that remain robust regardless of which scenario unfolds.
+* Crisis Preparedness: Rehearsing executive leadership responses to catastrophic or disruptive operating environments.
+* Innovation Ideation: Discovering breakthrough product and service concepts tailored to future customer needs.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Decolonial Indigenous Storytelling Scenarios''' requires vigilance regarding several critical failure modes and cognitive traps:
+* The 'Good vs. Bad' Trap: Facilitators allowing participants to collapse scenarios into simplistic utopian vs. dystopian binaries.
+* Implausibility Drift: Scenarios becoming entertaining science fiction that decision-makers dismiss as irrelevant to present strategy.
+* Underestimating Transition Costs: Describing end-state worlds without mapping the disruptive transition pathway.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Decolonial Indigenous Storytelling Scenarios''' directly reinforces:
+* '''Primary Competency (Futuring)''': Cultivates advanced professional rigor in executing futuring-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Grace Dillon|year=2015|title=Scenario Planning Dynamics of Decolonial Indigenous Storytelling Scenarios|journal=Technological Forecasting and Social Change|volume=100|issue=|pages=50-65}}
+{{Foresight_Citation|author=Schwartz, P.|year=1991|title=The Art of the Long View|publisher=Doubleday}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Scenario Planning, Worldbuilding & Simulation]]
+[[Category:APF Competency - Futuring]]
+[[Category:APF Article Status - Draft]]

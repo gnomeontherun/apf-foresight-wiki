@@ -1,0 +1,24 @@
+<includeonly><div class="editorial-status-banner" style="margin: 0.5em 0 1.2em 0; padding: 12px 18px; border-radius: 8px; font-size: 13.5px; line-height: 1.5; display: flex; align-items: center; justify-content: space-between; {{#switch:{{lc:{{{status|draft}}}}}
+| approved = background-color: #f0fdf4; border: 1px solid #bbf7d0; border-left: 5px solid #16a34a; color: #166534;
+| in_review = background-color: #fefce8; border: 1px solid #fef08a; border-left: 5px solid #ca8a04; color: #854d0e;
+| revisions_requested = background-color: #fff1f2; border: 1px solid #fecdd3; border-left: 5px solid #e11d48; color: #9f1239;
+| draft | #default = background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #64748b; color: #334155;
+}}">
+<div>
+<strong>APF Editorial Status:</strong> {{#switch:{{lc:{{{status|draft}}}}}
+| approved = <span style="color: #15803d; font-weight: 700;">✔ Vetted & Approved by APF Editorial Council</span>
+| in_review = <span style="color: #a16207; font-weight: 700;">⏳ Under Review by APF Peer Review Council</span> (Assigned: {{{reviewer|Pending Assignment}}})
+| revisions_requested = <span style="color: #be123c; font-weight: 700;">⚠ Revisions Requested</span>
+| draft | #default = <span style="color: #475569; font-weight: 700;">📝 Working Draft (Pre-Review)</span>
+}}
+{{#if:{{{notes|}}}|<br /><small style="color: #475569;">Editorial Note: {{{notes}}}</small>}}
+</div>
+<div style="font-size: 12px; color: #64748b; text-align: right; line-height: 1.4;">
+<strong style="color: #334155;">APF Foresight Wiki Knowledge Base</strong><br />{{#if:{{{date|}}}|Last Audited: {{{date}}}|Cycle: 2026/2027}}
+</div>
+</div>
+[[Category:APF Article Status - {{ucfirst:{{{status|Draft}}}}}]]</includeonly><noinclude>
+= Template:Editorial Status =
+Usage: <code><nowiki>{{Editorial_Status|status=approved|reviewer=Dr. Jane Doe|date=2026-09-08}}</nowiki></code>
+Status options: <code>draft</code>, <code>in_review</code>, <code>revisions_requested</code>, <code>approved</code>.
+</noinclude>

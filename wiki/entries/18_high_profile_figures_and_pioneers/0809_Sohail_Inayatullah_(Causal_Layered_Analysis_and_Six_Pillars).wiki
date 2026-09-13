@@ -1,0 +1,57 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Leading}}
+{{Infobox Foresight Thinker
+| name = Sohail Inayatullah
+| lifespan = b. 1958
+| nationality = Global / International
+| affiliation = Tamkang University / Metafuture / UNESCO Chair
+| apf_role = Honored Theorist / Foundational Pioneer
+| concepts = Sohail Inayatullah & Strategic Anticipation
+| major_works = Landmark Books, Monographs & Peer-Reviewed Studies
+| honors = APF Recognition & Global Futures Leadership
+}}
+
+== Executive Summary & Definition ==
+'''Sohail Inayatullah (Causal Layered Analysis & Six Pillars)''' is an authoritative subject within '''High-Profile Figures, Theorists & Pioneers''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Leading|APF Core Competency: Leading]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+Pakistani-Australian political scientist and one of the world's most influential contemporary foresight scholars, best known for creating Causal Layered Analysis (CLA) and the Six Pillars approach.
+
+== Origins & Theoretical Lineage ==
+The inaugural UNESCO Chair in Futures Studies and professor at Tamkang University and the University of the Sunshine Coast. Inayatullah integrated poststructuralism, macrohistory (P.R. Sarkar, Ibn Khaldun), and action learning into strategic foresight, leading hundreds of workshops for international judiciaries, multilateral organizations (WHO, UN), and national governments.
+
+== Seminal Contributions & Intellectual Breakthroughs ==
+Throughout their distinguished career, '''Sohail Inayatullah''' introduced transformative contributions that reshaped strategic foresight:
+* Causal Layered Analysis (CLA): 4-layer methodology: Litany, Systemic Causes, Worldview/Discourse, and Myth/Metaphor.
+* The Six Pillars of Futures Thinking: Mapping, Anticipating, Timing, Deepening, Creating Alternatives, and Transforming.
+* The 'Used Future': Diagnostic tool exposing unexamined visions borrowed from other organizations or historical eras.
+* The Futures Triangle: Mapping the Pull of the Future (vision), Push of the Present (trends), and Weight of the Past (barriers).
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Sohail Inayatullah (Causal Layered Analysis & Six Pillars)''' is routinely utilized to:
+* Foundational Curriculum: Integrated as core reading across global university foresight graduate degrees.
+* Executive Scenario Strategy: Guiding C-suite scenario planning and anticipatory governance frameworks.
+* Democratic Deliberation: Inspiring participatory civic movements to democratize long-term visioning.
+* APF Standards: Informs the core competency benchmarks of the Association of Professional Futurists.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Sohail Inayatullah (Causal Layered Analysis & Six Pillars)''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Historical Context Limitation: Evaluating early pioneers without accounting for contemporary ecological realities.
+* Hagiographic Elevation: Treating visionary thinkers uncritically rather than interrogating their epistemic blindspots.
+* Eurocentric Canon Imbalance: The historical tendency to over-represent Western male theorists at the expense of pluriversal voices.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Sohail Inayatullah (Causal Layered Analysis & Six Pillars)''' directly reinforces:
+* '''Primary Competency (Leading)''': Cultivates advanced professional rigor in executing leading-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Inayatullah, S.|year=1998|title=Causal layered analysis: Poststructuralism as method|journal=Futures|volume=30|issue=8|pages=815-829|doi=10.1016/S0016-3287(98)00086-X}}
+{{Foresight_Citation|author=Inayatullah, S.|year=2008|title=Six pillars: futures thinking for transforming|journal=Foresight|volume=10|issue=1|pages=4-21|doi=10.1108/14636680810856016}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:High-Profile Figures, Theorists & Pioneers]]
+[[Category:APF Competency - Leading]]
+[[Category:APF Article Status - Draft]]

@@ -1,0 +1,60 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Adapting}}
+{{Infobox Foresight Method
+| name = Post-Mortem Foresight Reviews & Epistemic Feedback
+| originator = US Army Center for Lessons Learned
+| year_introduced = Military Foresight
+| apf_competency = Adapting
+| paradigm = Exploratory, Plausible & Critical Foresight
+| horizon_focus = Horizon 2 / Horizon 3
+| time_horizon = 5–25 Years
+| format = Expert Facilitated Workshop / Analytical Modeling
+| complexity = Intermediate to Advanced
+| outputs = Prioritized driver maps, scenario matrices, robust strategic pathways
+| related_methods = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]], [[The Three Horizons Framework (Bill Sharpe)|Three Horizons]]
+}}
+
+== Executive Summary & Definition ==
+'''Post-Mortem Foresight Reviews & Epistemic Feedback''' is an authoritative subject within '''Strategic Agility, Wind Tunneling & Resilience''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Adapting|APF Core Competency: Adapting]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+'Post-Mortem Foresight Reviews & Epistemic Feedback' is a premier methodology or organizational discipline within strategic agility, wind tunneling, and resilience.
+
+== Origins & Theoretical Lineage ==
+Developed by US Army Center for Lessons Learned within Military Foresight, this framework bridges foresight exploration with executive execution, equipping organizations to stress-test investments, pivot dynamically in turbulent conditions, and institutionalize anticipatory agility.
+
+== Step-by-Step Facilitation & Execution Architecture ==
+Executing '''Post-Mortem Foresight Reviews & Epistemic Feedback''' requires a disciplined, multistage facilitation process to ensure analytical rigor and deep stakeholder engagement:
+# '''Step 1''': Strategic Architecture: Formulated by US Army Center for Lessons Learned, establishing protocols to connect scenario insights to executive decision gates.
+# '''Step 2''': Wind Tunneling Protocol: Testing current corporate strategy across divergent, plausible futures to identify vulnerabilities.
+# '''Step 3''': Adaptive Triggers: Establishing quantitative and qualitative signposts that trigger pre-planned strategic pivots.
+# '''Step 4''': Resilience Metric: Shifting organizational posture from brittle, single-point optimization to robust, antifragile adaptability.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''Post-Mortem Foresight Reviews & Epistemic Feedback''' is routinely utilized to:
+* Corporate Capital Budgeting: Stress-testing 5- to 10-year capital expenditures against divergent macroeconomic environments.
+* Board Governance: Educating board directors on long-term fiduciary duties and emerging systemic disruption risks.
+* Supply Chain & Operations Resilience: Structuring multi-sourced, flexible supply agreements capable of absorbing black swan shocks.
+* Public Policy Adaptation: Designing sunset clauses and dynamic review milestones into long-range legislation.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''Post-Mortem Foresight Reviews & Epistemic Feedback''' requires vigilance regarding several critical failure modes and cognitive traps:
+* The Illusion of Implementation: Generating rich scenario insights that are filed away without altering quarterly KPIs.
+* Executive Sunk Cost Attachment: Leadership refusing to alter pet investments even when early warning signposts flash red.
+* Agility Exhaustion: Confusing dynamic agility with chaotic corporate restructuring that burns out operational teams.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''Post-Mortem Foresight Reviews & Epistemic Feedback''' directly reinforces:
+* '''Primary Competency (Adapting)''': Cultivates advanced professional rigor in executing adapting-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=US Army Center for Lessons Learned|year=2018|title=Strategic Agility & Wind Tunneling: Post-Mortem Foresight Reviews & Epistemic Feedback|journal=Long Range Planning|volume=51|issue=4|pages=510-525}}
+{{Foresight_Citation|author=van der Heijden, K.|year=1996|title=Scenarios: The Art of Strategic Conversation|publisher=John Wiley & Sons}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Strategic Agility, Wind Tunneling & Resilience]]
+[[Category:APF Competency - Adapting]]
+[[Category:APF Article Status - Draft]]

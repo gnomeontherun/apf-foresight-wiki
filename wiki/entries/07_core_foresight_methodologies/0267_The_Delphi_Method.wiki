@@ -1,0 +1,60 @@
+{{Editorial_Status|status=draft|reviewer=Pending Peer Review|date=2026-09-08}}
+{{APF_Competency_Badge|competency=Futuring}}
+{{Infobox Foresight Method
+| name = The Delphi Method
+| originator = Norman Dalkey & Olaf Helmer (1950s/1963), Theodore Gordon
+| year_introduced = RAND Corporation / Project Delphi
+| apf_competency = Futuring
+| paradigm = Exploratory, Plausible & Critical Foresight
+| horizon_focus = Horizon 2 / Horizon 3
+| time_horizon = 5–25 Years
+| format = Expert Facilitated Workshop / Analytical Modeling
+| complexity = Intermediate to Advanced
+| outputs = Prioritized driver maps, scenario matrices, robust strategic pathways
+| related_methods = [[The Futures Cone]], [[Causal Layered Analysis (CLA)|CLA]], [[The Three Horizons Framework (Bill Sharpe)|Three Horizons]]
+}}
+
+== Executive Summary & Definition ==
+'''The Delphi Method''' is an authoritative subject within '''Core Foresight Methodologies & Frameworks''' and forms a vital component of the global canon stewarded by the '''Association of Professional Futurists (APF)'''.
+Classified under the [[Category:APF Competency - Futuring|APF Core Competency: Futuring]], this entry provides strategic practitioners, institutional leaders, and policy analysts with an actionable, theoretically grounded understanding of its mechanisms and real-world utility.
+
+A structured communication technique for eliciting and synthesizing expert consensus on complex, uncertain developments through iterative anonymous questionnaires.
+
+== Origins & Theoretical Lineage ==
+Originating in the early 1950s at the RAND Corporation under Project Delphi, sponsored by the US Air Force to forecast the impact of nuclear weapons and military technology. Pioneered by mathematicians Norman Dalkey and Olaf Helmer, and declassified in 1963, Delphi rapidly became one of the most widely cited quantitative/semi-quantitative tools in futures research and technology assessment.
+
+== Step-by-Step Facilitation & Execution Architecture ==
+Executing '''The Delphi Method''' requires a disciplined, multistage facilitation process to ensure analytical rigor and deep stakeholder engagement:
+# '''Step 1''': Round 1 - Open Exploration: A panel of geographically distributed experts receives open-ended questions soliciting forecasts, technological milestones, and timeframes.
+# '''Step 2''': Anonymity: Panelists do not interact directly or know each other's specific answers, eliminating peer pressure, bandwagon effects, and dominant personality bias.
+# '''Step 3''': Round 2 & 3 - Controlled Statistical Feedback: Anonymized responses and statistical distributions (medians, interquartile ranges) are presented back to the panel. Outliers must justify their positions.
+# '''Step 4''': Convergence & Synthesis: Panelists re-evaluate estimates in light of collective arguments. The process terminates when stable consensus or polarized clusters emerge.
+
+== Strategic, Policy & Organizational Applications ==
+In applied organizational strategy, corporate innovation, and anticipatory governance, '''The Delphi Method''' is routinely utilized to:
+* Technology Roadmapping: Establishing consensus timelines for commercialization of quantum computing, fusion, and synthetic biology.
+* Clinical & Public Health Consensus: Determining future disease burden and pandemic preparedness guidelines.
+* National Science Policy: Prioritizing long-term public R&D funding allocations across competitive engineering domains.
+* Wild Card Assessment: Estimating probabilities and impact severities for low-frequency, high-consequence global threats.
+
+== Methodological Critique, Cognitive Biases & Failure Modes ==
+While potent, the effective deployment of '''The Delphi Method''' requires vigilance regarding several critical failure modes and cognitive traps:
+* Panelist Attrition: Multi-round surveys running over months frequently suffer high dropout rates among elite domain experts.
+* Consensus Pressure: The statistical feedback mechanism can artificially suppress genuinely prophetic minority outlier perspectives.
+* Selection Bias: The composition of the expert panel heavily predetermines the outcome, reinforcing conventional orthodoxies.
+
+== Alignment with the APF Foresight Competencies ==
+Under the '''Association of Professional Futurists (APF) Competency Framework''', '''The Delphi Method''' directly reinforces:
+* '''Primary Competency (Futuring)''': Cultivates advanced professional rigor in executing futuring-related foresight workflows.
+* '''Complementary Competencies''': Synthesizes insights across [[Category:APF Competency - Framing|Framing]], [[Category:APF Competency - Scanning|Scanning]], [[Category:APF Competency - Futuring|Futuring]], [[Category:APF Competency - Designing|Designing]], [[Category:APF Competency - Adapting|Adapting]], and [[Category:APF Competency - Leading|Leading]].
+
+== References & Recommended Reading ==
+<ul>
+{{Foresight_Citation|author=Dalkey, N. & Helmer, O.|year=1963|title=An experimental application of the DELPHI method to the use of experts|journal=Management Science|volume=9|issue=3|pages=458-467|doi=10.1287/mnsc.9.3.458}}
+{{Foresight_Citation|author=Linstone, H. A. & Turoff, M.|year=1975|title=The Delphi Method: Techniques and Applications|publisher=Addison-Wesley}}
+</ul>
+
+[[Category:APF Foresight Wiki]]
+[[Category:Core Foresight Methodologies & Frameworks]]
+[[Category:APF Competency - Futuring]]
+[[Category:APF Article Status - Draft]]
