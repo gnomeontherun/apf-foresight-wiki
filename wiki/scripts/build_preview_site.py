@@ -717,10 +717,12 @@ def generate_preview():
     total_words = 0
 
     for item in catalog:
-        filepath = item["filepath"]
+        filepath = item.get("filepath", "")
         if not os.path.exists(filepath):
-            print(f"Warning: file not found: {filepath}")
-            continue
+            filepath = os.path.join(BASE_DIR, "entries", item.get("pillar_dir", ""), item.get("filename", ""))
+            if not os.path.exists(filepath):
+                print(f"Warning: file not found: {filepath}")
+                continue
 
         with open(filepath, "r", encoding="utf-8") as f:
             wikitext = f.read()

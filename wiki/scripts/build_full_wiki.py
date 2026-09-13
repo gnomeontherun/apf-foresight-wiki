@@ -321,7 +321,8 @@ def build_all():
             "title": title,
             "author": entry.get("author", ""),
             "filename": filename,
-            "filepath": filepath,
+            "relpath": f"entries/{p_dir}/{filename}",
+            "filepath": os.path.join("wiki", "entries", p_dir, filename),
             "word_count": words
         })
 
