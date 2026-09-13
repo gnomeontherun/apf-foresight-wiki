@@ -311,9 +311,12 @@
                     </label>
                 </div>
 
-                <div style="display: flex; justify-content: flex-end; gap: 10px;">
+                <div style="display: flex; justify-content: flex-end; gap: 10px; flex-wrap: wrap;">
+                    <a id="modalIssueBtn" href="#" target="_blank" class="tool-btn" style="background: #10b981; color: white; padding: 8px 16px; font-weight: 600; text-decoration: none;">
+                        🚀 Open GitHub Issue Review ↗
+                    </a>
                     <button type="button" id="copyChecklistBtn" class="tool-btn" style="background: var(--apf-navy); color: white; padding: 8px 16px; font-weight: 600;">
-                        📋 Copy Audit Checklist to Clipboard
+                        📋 Copy Audit Checklist
                     </button>
                     <a id="modalReadBtn" href="#" target="_blank" class="tool-btn" style="padding: 8px 16px;">
                         Read Full Article ↗
@@ -445,6 +448,33 @@
                 modalTitle.textContent = item.t;
                 modalMeta.textContent = `ID #${item.id} • Pillar ${item.p}: ${item.pName} • APF Competency: ${item.c} • Word Count: ~${item.w} words`;
                 modalReadBtn.href = `articles/${item.s}.html`;
+
+                const titleParam = encodeURIComponent(`[Peer Review] ${item.t} (#${item.id})`);
+                const bodyParam = encodeURIComponent(`## APF Peer Review Evaluation Form
+**Article**: ${item.t} (ID #${item.id})
+**Pillar**: Pillar ${item.p} (${item.pName})
+**APF Core Competency**: ${item.c}
+**Reviewer**: [Your Name / APF Membership ID]
+**Date**: ${new Date().toISOString().split('T')[0]}
+
+### 4-Point Rubric Assessment:
+- [ ] 1. Historical & Epistemic Lineage: [Pass / Revisions Needed]
+- [ ] 2. Methodological Rigor: [Pass / Revisions Needed]
+- [ ] 3. Primary Literature Authenticity: [Pass / Revisions Needed]
+- [ ] 4. Pluriversal & Critical Bias Audit: [Pass / Revisions Needed]
+
+### Detailed Evaluation Notes:
+[Please provide specific feedback, flag any historical or methodological errors, or propose authentic peer-reviewed literature citations.]
+
+**Recommendation**:
+- [ ] Approve as Canonical (elevate to Approved)
+- [ ] Request Revisions (see notes above)
+- [ ] Flag for Sub-Committee Review / Deduplication
+`);
+                const issueBtn = document.getElementById('modalIssueBtn');
+                if (issueBtn) {
+                    issueBtn.href = `https://github.com/gnomeontherun/apf-foresight-wiki/issues/new?title=${titleParam}&body=${bodyParam}&labels=peer-review`;
+                }
                 modal.classList.add('open');
             }
 
